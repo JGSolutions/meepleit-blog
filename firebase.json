@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "site": "blog-meepleit",
+    "public": "dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
