@@ -4,7 +4,7 @@ published: 2024-07-29
 description: Epic head-to-head battle set in the immersive world of Dune..
 tags: [Dune War of Arrakis]
 category: Theme
-draft: true
+draft: false
 ---
 
 ![Dune War of Arrakis](./dune-war-of-arrakis.jpg "Dune War of Arrakis")

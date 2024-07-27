@@ -44,7 +44,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/bio-profile.png',
   name: 'Meepleit',
-  bio: 'Enthusiastic about board games. I love replaying them and sharing my experiences.',
+  bio: 'Enthusiastic about board gaming. Sharing my game experiences.',
   links: [
     {
       name: 'Facebook',
@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
     },
     // {
     //   name: 'Meepleit Shop',
-    //   icon: 'fa6-brands:pinterest',
+    //   icon: 'fa6-solid:cart-shopping',
     //   url: 'https://www.pinterest.com/meepleit',
     // },
   ],
