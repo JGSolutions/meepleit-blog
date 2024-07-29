@@ -7,7 +7,7 @@ category: Mechanics
 draft: false
 ---
 
-![Dune War of Arrakis Spices](./dune_spices_strategy.jpg "Dune War of Arrakis")
+![Dune War of Arrakis Spices Mechanics](./dune_spices_strategy.jpg "Dune War of Arrakis Spices Mechanics")
 
 ### Spices Overview
 
@@ -29,19 +29,19 @@ Spices provide several benefits and play a central role in the universe's econom
 
 The Harkonnens have an extra board called “The spice must flow.” This board contains 5 levels or rows and each level demonstrates how many harvesters, ornithopter, carryall can place at the start of the round. Obviously the harvesters are the important components that will collect the spices.
 
-There are 3 imperium markers representing the interests of CHOAM, Spacing Guild, and Landsraad. These will eventually level up or down and ban certain abilities if not enough spices were gathered. Also a dice will be placed on the square which will decrease an action for the next round.
+There are 3 imperium markers representing the interests of CHOAM, Spacing Guild, and Landsraad. These will eventually level up or down and ban certain abilities if not enough spices were gathered. Also a dice will be placed on the square which will decrease an action for the Harkonnens for the next round.
 
 ### How it plays
 
-The Harkonnens must constantly gather spices to maintain their level, while the Atreides, just like in the movie, disrupt the harvesters by destroying them. Units can be moved to protect the harvesters, but there's still a chance of losing them in the desert.
+At the start, the Harkonnens will start with eight dice actions and the Atreides will start only four but with additonal 4 desert actions. Every dice action that the Harkonnens performs, the Atreides will also decrease in desert actions. When reaching the same amount of actions or less then Atreides' desert actions are disabled.
 
-At the start of the first round, you'll have three harvesters placed in the desert, which will generate points based on their locations. If at the end of the round, your harvesters have not survived, you lose 2 spices for each Imperium marker and they must drop a level. Example, if 4 only spices are collected, two of them stay on the same level and one token drops down and which will also receive a ban from a benefit.
+Also three harvesters will be placed in the desert, which will generate points based on their locations. If at the end of the round, if the harvesters have not survived, 2 spices will be lost for each Imperium marker which be a dropped a level. Example, if 4 only spices are collected, two of them stay on the same level, one token drops which will also receive a ban from a benefit.
 
-### Strategies & Tips
+The Harkonnens must constantly gather spices to maintain their level, while the Atreides disrupt the harvesters by destroying them. Units can be moved to protect the harvesters, but there's always a risk of losing them in the desert.
 
-By having the Harkonnens level down the spice flow reduces the Atreides’ desert actions. It also allows the Harkonnens deploy more harvesters in the desert, increasing their chances of gathering spices.
+### Strategies That I Played
 
-During the round, If the Harkonnens eventually have an equal amount of dice actions or less, Atreides won’t be able to use any of their desert actions. The fewer the actions, the fewer desert powers the Atreides can perform.
+By having the Harkonnens level down the spice flow board reduces the Atreides’ desert actions. It also allows the Harkonnens deploy more harvesters in the desert, increasing their chances of gathering spices.
 
 When actually playing the Harkonnens, it was a struggle for my oppenent, when I levelled down the spice flow. His desert actions were reduced, even though I was limited to 6 actions instead of 8, I still managed to win some battles, and increase my supermancy track.
 
@@ -51,4 +51,4 @@ Overall I find the Atreides has a big advantage over this. With the desert actio
 
 ### Conclusion
 
-I didn't cover most of the small rules gives you a quick idea of how spices play an important role and how the game balances out. It's like a tug of war which Atreides can decrease or increases their actions depending on the spices. It introduces a significant strategic element, enhancing the game by making it both challenging and intense for both sides.
+I didn't cover most of the small rules, but provides you a quick idea of how spices play in the game and how the game balances out. It's like a tug of war which Atreides can decrease or increases their actions depending on the spices. It introduces a significant strategic element, enhancing the game by making it both challenging and intense for both sides.
