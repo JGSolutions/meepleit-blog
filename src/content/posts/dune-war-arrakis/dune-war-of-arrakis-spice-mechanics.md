@@ -9,6 +9,8 @@ draft: false
 
 ![Dune War of Arrakis Spices Mechanics](./dune_spices_strategy.jpg "Dune War of Arrakis Spices Mechanics")
 
+In my previous blog, I discussed how "Dune: War for Arrakis" captures the thematic elements of the Dune universe. In this article, we’ll delve deeper into one of the game's most critical aspects: the spice mechanic. Also how I played the mechanics with the two different factions.
+
 ### Spices Overview
 
 In the Dune universe, the conflict is primarily between the Atreides and Harkonnen.The Harkonnens have control of Arrakis as they are the only source of the spice melange. The Atreides, attacking after the Harkonnens, wanting to take control of these spices. Basically, whomever controls Arrakis controls the spice. And who controls the spice controls the universe.
