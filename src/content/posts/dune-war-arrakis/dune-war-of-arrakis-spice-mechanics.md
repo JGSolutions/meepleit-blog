@@ -33,22 +33,23 @@ There are 3 imperium markers representing the interests of CHOAM, Spacing Guild,
 
 ### How it plays
 
-At the start, the Harkonnens will start with eight dice actions and the Atreides will start only four but with additonal 4 desert actions. Every dice action that the Harkonnens performs, the Atreides will also decrease in desert actions. When reaching the same amount of actions or less then Atreides' desert actions are disabled.
+At the start, the Harkonnens will start with eight dice actions and the Atreides will start only four but with additonal 4 desert actions. Every dice action that the Harkonnens performs, the Atreides will also decrease in desert actions. When reaching the same amount of actions or less then Atreides' desert actions are disabled. The Harkonnens must constantly gather spices to maintain their level, while the Atreides disrupt the harvesters by destroying them. Units can be moved to protect the harvesters, but there's always a risk of losing them in the desert.
 
-Also three harvesters will be placed in the desert, which will generate points based on their locations. If at the end of the round, if the harvesters have not survived, 2 spices will be lost for each Imperium marker which be a dropped a level. Example, if 4 only spices are collected, two of them stay on the same level, one token drops which will also receive a ban from a benefit.
+Also three harvesters will be placed in the desert, which will generate points based on certain areas of the desert.
+To maintain each Imperium marker on the same level twos spices are needed.
 
-The Harkonnens must constantly gather spices to maintain their level, while the Atreides disrupt the harvesters by destroying them. Units can be moved to protect the harvesters, but there's always a risk of losing them in the desert.
+If at the end of the round, for each the harvester have not survived, each Imperium marker which be dropped a level. Example, if 4 only spices are collected, two of them stay on the same level, one token drops which will also receive a ban from a benefit card.
 
 ### Strategies That I Played
 
 By having the Harkonnens level down the spice flow board reduces the Atreides’ desert actions. It also allows the Harkonnens deploy more harvesters in the desert, increasing their chances of gathering spices.
 
-When actually playing the Harkonnens, it was a struggle for my oppenent, when I levelled down the spice flow. His desert actions were reduced, even though I was limited to 6 actions instead of 8, I still managed to win some battles, and increase my supermancy track.
+When actually playing the Harkonnens, i didn't mind leveling down as it was a challenge for my oppenent. His desert actions were reduced, even though I was limited to six actions ( I was down to the 3rd row), I still managed to win some battles, and increase my supermancy track.
 
-I also had the opportunity to play as the Atreides. Instead of disrupting the harvesters, I allowed them to gather enough spices to maintain their level. This strategy consistently gave me 3 or 4 desert actions, making it difficult the Harkonnens to attack my sietches as I had sand worms placed throughout the desert
+I also had the opportunity to play as the Atreides. Instead of disrupting the harvesters, I allowed them to gather spices to maintain their level. This strategy enabled my Atreides to maintain their desert actions, making it difficult for the Harkonnens to attack my sietches, as I had sandworms placed throughout the desert.
 
-Overall I find the Atreides has a big advantage over this. With the desert actions they can use sandworms and sandriding actions.
+Overall, I find that the Atreides have a significant advantage in controlling the spices. By ignoring the disruption of harvesters, they can maintain their desert actions, allowing them to utilize sandworms and perform sandriding maneuvers for strategic plays.
 
 ### Conclusion
 
-I didn't cover most of the small rules, but provides you a quick idea of how spices play in the game and how the game balances out. It's like a tug of war which Atreides can decrease or increases their actions depending on the spices. It introduces a significant strategic element, enhancing the game by making it both challenging and intense for both sides.
+Most of the rules are not covered here, but this provides an overview of how spices are used in the game. The spice mechanism adds an interesting balance, allowing the Atreides to increase or decrease their actions based on spice levels. This introduces a significant strategic element, making the game both challenging and intense for both sides.
