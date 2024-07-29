@@ -1,7 +1,7 @@
 ---
 title: "Dune: War for Arrakis – A Thematic and Strategic Adventure for Dune Fans"
 published: 2024-07-29
-description: Epic head-to-head battle set in the immersive world of Dune..
+description: Epic head-to-head battle set in the immersive world of Dune.
 tags: [Dune War of Arrakis]
 category: Theme
 draft: false
