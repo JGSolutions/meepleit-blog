@@ -7,6 +7,8 @@ category: Mechanics
 draft: false
 ---
 
+![Dune War of Arrakis Spices](./dune_spices_strategy.jpg "Dune War of Arrakis")
+
 ### Spices Overview
 
 In the Dune universe, the conflict is primarily between the Atreides and Harkonnen.The Harkonnens have control of Arrakis as they are the only source of the spice melange. The Atreides, attacking after the Harkonnens, wanting to take control of these spices. Basically, whomever controls Arrakis controls the spice. And who controls the spice controls the universe.
@@ -41,12 +43,12 @@ By having the Harkonnens level down the spice flow reduces the Atreides’ deser
 
 During the round, If the Harkonnens eventually have an equal amount of dice actions or less, Atreides won’t be able to use any of their desert actions. The fewer the actions, the fewer desert powers the Atreides can perform.
 
-When actually playing the Harkonnens, it was a struggle for my oppenent, when I levelled down the spice flow. His desert actions were reduced, even though I was limited to 6 actions instead of 8, I still managed to win some battles, and increase my supermancy track
+When actually playing the Harkonnens, it was a struggle for my oppenent, when I levelled down the spice flow. His desert actions were reduced, even though I was limited to 6 actions instead of 8, I still managed to win some battles, and increase my supermancy track.
 
-I also got a chance to play with the Atreides. I did the total opposite by not disrupting the harvesters gathering up the spices enough to maintain their level. I constantly had 3 or 4 desert actions and made it difficult for his legions to attack my sietches
+I also had the opportunity to play as the Atreides. Instead of disrupting the harvesters, I allowed them to gather enough spices to maintain their level. This strategy consistently gave me 3 or 4 desert actions, making it difficult the Harkonnens to attack my sietches as I had sand worms placed throughout the desert
 
 Overall I find the Atreides has a big advantage over this. With the desert actions they can use sandworms and sandriding actions.
 
 ### Conclusion
 
-As you can see the spices play an important role in how well the actions are managed and how the game also balances out. Hopefully, you understand how Spices play an important role in the Dune universe and how the mechanics play well into the Dune: War of Arrakis board game. It introduces a significant strategic element, enhancing the game by making it both challenging and intense for both sides.
+I didn't cover most of the small rules gives you a quick idea of how spices play an important role and how the game balances out. It's like a tug of war which Atreides can decrease or increases their actions depending on the spices. It introduces a significant strategic element, enhancing the game by making it both challenging and intense for both sides.
