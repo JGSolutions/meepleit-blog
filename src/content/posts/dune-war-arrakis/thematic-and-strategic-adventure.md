@@ -24,17 +24,17 @@ One of my favourite aspects of the game is the asymmetric faction mechanics. The
 ### How does the thematic play enhance the gameplay?
 
 If you’re into games that contain a strong theme, being a Dune fan you're in heaven!
-One part that stood out for me was having my units or legions out in the open outskirts in the desert.  Eventually sand worms or sand storms will occur and destroy anything on its path. I was devastated and immediately realised how horrible I played my strategy!  My approach was to attack Atreides deep into the desert but left them stranded.
+One part that stood out for me, was having my units or legions out in the open outskirts in the desert.  Eventually sand worms and sand storms will occur and destroy anything on its path. I was devastated and immediately realised how horrible I played my strategy!  My approach was to attack the Atreides deep into the desert but left them stranded.
 
-Collecting species with the Harkonnen is another aspect of the game(probably the most important especially from the movie) that initially had no clue at first.However, if you're a Dune fan, you'll understand right away. Spice enhances perception, allowing navigators to travel safely. Perfect description taken from the ‘CMON’ site
+Collecting species with the Harkonnen is another aspect of the game(probably the most important as in the movie) that initially had no clue at first. Spice enhances perception, allowing navigators to travel safely. Perfect description taken from the ‘CMON’ site
 
 > The most important world in the Imperium is Arrakis,  due to being a vast planet-size desert. Here is where one finds spice, a substance required for interplanetary travel. Whomever controls Arrakis controls the spice. And who controls the spice controls the universe.
 
 > Dune: War for Arrakis puts players in the role of the heads of Houses Harkonnen and Atreides during the events of the Desert War. They each have their own goals and resources to ensure that, in the end, control of the spice is theirs.
 
-In the game, you deploy vehicle harvesters to collect spices. If your vehicles survive until the end of the round (and aren't destroyed by san worms), you'll earn points from spices to help maintain the resource levels. If they’re destroyed, you’ll lose a dice action and will need 3 species to level up again. Species are crucial, and keeping your vehicle harvesters alive each round is a challenge. So, how do you protect them? With the Carryalls.
+In the game, you deploy vehicle harvesters to collect spices. If your vehicles survive until the end of the round (and aren't destroyed by san worms), you'll earn spices to help maintain the resource levels. If they’re destroyed, you’ll lose a dice action and will need 3 species to level up again. Species are crucial, and keeping your vehicle harvesters alive each round is a challenge. You can protect them using the Carryalls.
 
-One strategy that worked well for me was allowing my spice level to decrease. Although I lost some actions, my opponent had fewer sandworm actions, limiting their powers. Additionally, this gave me the opportunity to deploy more vehicles. At the same time make sure you gain some Geissken tokens. These tokens offer players the flexibility to perform any action of their choice, basically like a wildcard token replacing the action dice that was lost due to the spice level.
+One strategy that worked well for me was allowing my spice level to decrease. Although I lost some actions, my opponent had fewer desert actions, limiting their powers. Additionally, this gave me the opportunity to deploy more vehicles. At the same time make sure you gain some Geissken tokens. These tokens offer players the flexibility to perform any action of their choice, basically like a wildcard token replacing the action dice that was lost due to the spice level.
 
 ### Watch out For Those Sand Worms
 
