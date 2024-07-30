@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Spice Mechanism in Dune: War for Arrakis"
-published: 2024-07-31
+published: 2024-07-30
 description: Explore the spice mechanism and learn strategies to master this critical gameplay element.
 tags: [Dune War of Arrakis]
 category: Mechanics
