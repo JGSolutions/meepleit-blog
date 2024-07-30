@@ -42,16 +42,20 @@ This will help to maintain each Imperium marker on the same level twos spices ar
 
 If, at the end of the round, any harvesters have not survived, each Imperium marker will drop a level. For example, if four spices are collected, two markers stay at the same level, and one drops a level, resulting in the loss of a benefit card.
 
-### Strategies I Used
+### Strategies with the Harkonnens
 
-By forcing the Harkonnens level down the spice flow board reduces the Atreides’ desert actions. It also allows the Harkonnens deploy more harvesters in the desert, increasing their chances of gathering spices.
+By forcing the Harkonnens level down 'the spice must flow' board reduced the Atreides desert actions. It also allowed the Harkonnens deploy more harvesters in the desert, increasing their chances of gathering spices.
 
-When actually playing the Harkonnens, i didn't mind leveling down as it was a challenge for my oppenent. His desert actions were reduced, even though I was limited to six actions ( I was down to the 3rd row), I still managed to win some battles, and increase my supermancy track.
+While playing as the Harkonnens, I didn't mind leveling down, as it posed a challenge for my opponent. His desert actions were reduced, and despite being limited to six actions (down to the 3rd row), I still managed to win some battles and increase my supremacy track.
+
+I had to be cautious not to level down too much, as receiving 3 Imperium marker ban cards would reduce some of my benefits. This is a challenge you need to manage. Having many harvesters in the desert helped me maintain the level.
+
+### Strategies with the Atreides
 
 I also had the opportunity to play as the Atreides. Instead of disrupting the harvesters, I didn't bother them much as they gathered spices to maintain their level. This strategy enabled my Atreides to maintain their desert actions, making it difficult for the Harkonnens to attack my sietches, as I had sandworms placed throughout the desert.
 
-Overall, I find that the Atreides have a significant advantage in controlling the spices. By ignoring the disruption of harvesters, they can maintain their desert actions, allowing them to utilize sandworms and perform sandriding maneuvers for strategic plays.
+Overall, I discovered that the Atreides have a significant advantage in controlling the spices. By ignoring the disruption of harvesters, they can maintain their desert actions, allowing them to utilize sandworms and perform sandriding maneuvers for strategic plays.
 
 ### Conclusion
 
-Most of the rules and small are not covered, but this provides an overview of how spices are played in the game. The spice mechanism adds an interesting balance, allowing the Atreides to increase or decrease their actions based on spice levels. This introduces a significant strategic element, making the game both challenging and intense for both sides.
+Most of the rules and details are not covered, but this provides an overview of how spices are played in the game. The spice mechanism adds an interesting balance, allowing the Atreides to increase or decrease their actions based on spice levels. This introduces a significant strategic element, making the game both challenging and intense for both sides.
