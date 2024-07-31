@@ -8,7 +8,8 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Meepleit Blog',
-  subtitle: '',
+  subtitle:
+    'A blog dedicated to board game play experiences, strategies, and insights, with a focus on game mechanics, solo modes, and thematic experiences.',
   lang: 'en', // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 0, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -44,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/bio-profile.png',
   name: 'Meepleit',
-  bio: 'Enthusiastic about board gaming. Sharing my game experiences.',
+  bio: 'Enthusiastic about board gaming. Sharing my game play experiences.',
   links: [
     {
       name: 'Facebook',
