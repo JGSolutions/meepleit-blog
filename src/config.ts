@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/board-games-cover.jpg', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/meepleit-board-game-cover.jpg', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [
