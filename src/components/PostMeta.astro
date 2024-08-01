@@ -1,26 +1,39 @@
 ---
-import {formatDateToYYYYMMDD} from "../utils/date-utils";
-import { Icon } from 'astro-icon/components';
-import {i18n} from "../i18n/translation";
-import I18nKey from "../i18n/i18nKey";
-import {url} from "../utils/url-utils";
+import { Icon } from 'astro-icon/components'
+import I18nKey from '../i18n/i18nKey'
+import { i18n } from '../i18n/translation'
+import { formatDateToYYYYMMDD } from '../utils/date-utils'
+import { url } from '../utils/url-utils'
 
 interface Props {
-    class: string;
-    published: Date;
-    tags: string[];
-    category: string;
-    hideTagsForMobile?: boolean;
+  class: string
+  published: Date
+  tags: string[]
+  category: string
+  author: string
+  hideTagsForMobile?: boolean
 }
-const {published, tags, category, hideTagsForMobile = false} = Astro.props;
-const className = Astro.props.class;
+const {
+  published,
+  tags,
+  category,
+  author,
+  hideTagsForMobile = false,
+} = Astro.props
+const className = Astro.props.class
 ---
 
 <div class:list={["flex flex-wrap text-neutral-500 dark:text-neutral-400 items-center gap-4 gap-x-4 gap-y-2", className]}>
+    <!-- author -->
+    <div class="flex items-center">
+        <div class="meta-icon">
+            <Icon name="material-symbols:person-outline-rounded" class="text-xl"></Icon>
+        </div>
+        <span class="text-50 text-sm font-medium">by {author}</span>
+    </div>
     <!-- publish date -->
     <div class="flex items-center">
-        <div class="meta-icon"
-        >
+        <div class="meta-icon">
             <Icon name="material-symbols:calendar-today-outline-rounded" class="text-xl"></Icon>
         </div>
         <span class="text-50 text-sm font-medium">{formatDateToYYYYMMDD(published)}</span>
