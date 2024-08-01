@@ -5,6 +5,7 @@ description: Epic head-to-head battle set in the immersive world of Dune.
 tags: [Dune War of Arrakis]
 category: Theme
 draft: false
+author: Jerry Gagliano
 ---
 
 ![Dune War of Arrakis](./dune-war-of-arrakis.jpg "Dune War of Arrakis")

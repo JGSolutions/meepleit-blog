@@ -5,6 +5,7 @@ description: Explore the spice mechanism and learn strategies to master this cri
 tags: [Dune War of Arrakis]
 category: Mechanics
 draft: false
+author: Jerry Gagliano
 ---
 
 ![Dune War of Arrakis Spices Mechanics](./dune_spices_strategy.jpg "Dune War of Arrakis Spices Mechanics")
@@ -52,9 +53,7 @@ I had to be cautious not to level down too much, as receiving 3 Imperium marker 
 
 ### Strategies with the Atreides
 
-I also had the opportunity to play as the Atreides. Instead of disrupting the harvesters, I didn't bother them much as they gathered spices to maintain their level. This strategy enabled my Atreides to maintain their desert actions, making it difficult for the Harkonnens to attack my sietches, as I had sandworms placed throughout the desert.
-
-Overall, I discovered that the Atreides have a significant advantage in controlling the spices. By ignoring the disruption of harvesters, they can maintain their desert actions, allowing them to utilize sandworms and perform sandriding maneuvers for strategic plays.
+I had the opportunity to play as the Atreides. Overall, I discovered that the Atreides had a significant advantage in controlling the spices. Instead of disrupting the harvesters, I let them be, as they gathered spices to maintain their level. This strategy enabled my Atreides to maintain their desert actions, making it difficult for the Harkonnens to attack my sietches, as I had sandworms placed throughout the desert.
 
 ### Conclusion
 
