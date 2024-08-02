@@ -56,4 +56,12 @@ The more workers you send to the Guildhall, the fewer you have on your player bo
 
 Overall, I really enjoy playing this game and have logged many plays. There's always a lot happening in the town, and even though the mechanics are straightforward, the game offers plenty of deep strategic decisions. With 4 players or more, the game plays at it's best.
 
-The Architects of West Kingdom doesn't stop here! You can enhance the gameplay experience with two more expansions: 'The Age of Artisans' and 'Works of Wonder'. These expansions add more content, and complexity to the game. I'll be writing more blogs about each expansions soon with some strategy tips. Stay tuned!
+The Architects of West Kingdom doesn't stop here! You can enhance the gameplay experience with two more expansions: 'The Age of Artisans' and 'Works of Wonder'. These expansions add more content, and complexity to the game. I'll be writing more blogs about each expansions soon with some strategy tips.
+
+Stay tuned!
+
+### Buy The Game
+
+[Buy Architects of the West Kingdom](https://ca.nobleknight.com/P/2147738630/Architects-of-the-West-Kingdom?awid=1445)
+
+Contains affiliate which support MeepleIt financially.
