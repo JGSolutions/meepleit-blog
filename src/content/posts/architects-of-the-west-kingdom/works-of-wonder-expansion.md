@@ -43,15 +43,31 @@ Collecting resources is still important, with the influence and coins. Gathering
 
 Why even bother? Just got for the catherdrale or buildings?
 
-Well by gaining a structure, it will provide you the options to place the structure in any location. When you place a worker onto your structure's location you have two options: count the worker as 2 workers or the gain an influence. Depends on the strategy you aiming for. If you need gold, you'll place the structure on the Mine location helping you gather resources for other buildings. You will be creating some kind of engine producing resources.
+When you gain a structure, you can place it in any location of your choice. When you place a worker on your structure's location, you have two options: either count the worker as two workers or gain an influence, depending on your strategy. If you need gold, place the structure on the Mine location to help you gather resources for other buildings. This creates an engine-building effect, producing resources efficiently.
 
-Here is the strategy! Try collecting resources and aim for a wonder. Then place that structure on another location and aim for those resources. On that of that, if your lucky, the Profiteer is on the same location as your structue you will increase an influence at the same time.
+Here's a strategy to consider: focus on collecting resources and aim for a wonder. Then, place your structure in another strategic location to target those resources. If you're fortunate and the Profiteer is on the same location as your structure, you'll also gain influence at the same time.
 
-!Black maket reset
+## Black Market Reset
 
-!Player Boards
+Another mechanism that triggers the black market reset are when all the contribution spaces are filled with resources. Basically the Princess and Profiteer have done their job on those locations and need to move to different locations according to the new drawn Consquence card.
 
-!Solo boards and Plays
+Some extra steps have been added to the Black market reset process.
+
+-
+
+## New Architects Additions
+
+!Pic of player boards.
+
+Six new architects have been added in this expansion, adjusted to align with the new influence track. While you can still play with characters from the base game, the changes are minor. If you want to fully enjoy the influence track, I’d recommend sticking with the new player boards.
+
+## Solo Play
+
+!Pic of solo board.
+For me the main attraction are the solo board addtions. Six new solo boards that have been added and each one of them all play differently and practically play like a human.
+
+!Pic of some AI Cards
+A new set of of AI cards are included
 
 !Likes & Pros
 
@@ -59,7 +75,7 @@ Here is the strategy! Try collecting resources and aim for a wonder. Then place 
 
 ## Final Thoughts
 
-Works and wonders adds so much more to the basegame. It does add more rules and complexity for heavier gamers this can be good
+Works and wonders adds so much more to the base game. It does add more rules and complexity for heavier gamers this can be good
 
 Stay tuned!
 
