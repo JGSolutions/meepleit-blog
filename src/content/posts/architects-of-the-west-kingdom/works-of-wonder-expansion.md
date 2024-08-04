@@ -72,17 +72,30 @@ Once you get used to the AI cards, you'll start to anticipate their actions. Pla
 
 There so much more to like in this game. Since I's more of a medium to heavy gamer, the comlexity and added stratgeic dept added to this game is a huge addtional value. Especially the AI improvement! I wouldn't want to play the base game solo.
 
+- **Increased Depth**: New mechanics and wonders, enriching the game’s strategic depth and variety.
+- **Replayability**: With new architects and wonders, each game can offer a different experience, increasing replay value.
+- **Enhanced Replayability**: With new architects and wonders, each game can offer a different experience.
+- **AI Module**: Upgraded AI boards provide a more authentic human opponent experience.
+
 ## Cons
 
-The only con I can think of is the added complexity or additonal rules need to learn. If your not a big solo player maybe the exppaan
+The are a few issues
+
+- **Complexity Increase**: The expansion might add complexity to the game, which could be overwhelming for players who prefer a simpler experience.
+
+- **Learning Curve**: The new influence track may require a learning curve with some extra rules to remember.
+
+- **Solo mode**: If you’re not a solo player, the additional content may not be worth the cost.
 
 ## Final Thoughts
 
-This is  a great expansion Played may games with the Works and wonders adds so much more to the base game.
+With the expanions this game is up to par with the 2nd part of the trilogy Paladins of the West Kingdom. Some people in the community perfer Architects (with this expansion) over Paladins.
 
-It raises the complexity & replayabliity. People in the community have compared the level of playability with Paladins of the West Kingdom.
+For myself, being a heavier gamer, this really bumps up my enjoyment as there are more strategies with a tighter game.
 
-Stay tuned!
+ i was thinking of selling the game because it was abit too much of the lighter side. Everytime I play Architects of the West Kingdom, Works of Woner is always included on the table.
+
+Happy Gaming!
 
 ### Buy The Game
 
