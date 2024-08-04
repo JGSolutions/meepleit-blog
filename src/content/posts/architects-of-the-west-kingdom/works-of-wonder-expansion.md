@@ -17,9 +17,11 @@ Works of Wonder, the second expansion for the Architects of the West Kingdom. Th
 
 ## Theme
 
-The town has grown and needs to be expanded which the king requested to build more buildings which are the 5 main wonders. As for the architects, they need to work harder not only to gain more resources but also reputation, to prove the king's happiness.
+The town has grown and needs to be expanded which the king requested to build more buildings which are the 5 main wonders. As for the architects, they need to work harder not only to gain more resources but also their reputation, to prove the king's happiness.
 
-They will need to work with the Princess by contributing resources and show the commitment by having their influence increased. Of course there is always the evil one which is the Profiteer, they are ruthless and ddon't want architects to succeed.
+They will need to collaborate with the Princess by contributing resources and demonstrating their dedication through increased influence. However, there is also the Profiteer, who is ruthless and does not want the architects to succeed. While the Profiteer will grant you influence whenever you visit, you will eventually face a cost for it.
+
+As the architects construct their wonders, they will earn status in specific locations by impressing the king!
 
 ## New Mechanics
 
