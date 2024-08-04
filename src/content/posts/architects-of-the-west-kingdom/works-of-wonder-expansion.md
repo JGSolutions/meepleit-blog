@@ -1,5 +1,5 @@
 ---
-title: "Exploring 'Works of Wonder' Expansion"
+title: "Architects of the West Kingdom - Works of Wonder Expansion"
 published: 2024-08-06
 description: Delving into the Works of Wonder expansion to discover how much it enriches the base game.
 tags: [Architects of the West Kingdom, Works of Wonder]
@@ -15,7 +15,13 @@ The king has declared a desire for new monuments to enhance the town's beauty. W
 
 Works of Wonder, the second expansion for the Architects of the West Kingdom. This expansion introduces more components, mechanics and enhances the base game by adding depth, more strategic options, and additional paths to victory. We'll dive into the new mechanics, features, and how they enhance the base game, helping you decide if it's a must-have for your collection.
 
-## New Mechanics & Theme
+## Theme
+
+The town has grown and needs to be expanded which the king requested to build more buildings which are the 5 main wonders. As for the architects, they need to work harder not only to gain more resources but also reputation, to prove the king's happiness.
+
+They will need to work with the Princess by contributing resources and show the commitment by having their influence increased. Of course there is always the evil one which is the Profiteer, they are ruthless and ddon't want architects to succeed.
+
+## New Mechanics
 
 !A Picture of the new board
 
@@ -31,16 +37,17 @@ The Profiteer that represents someone who takes advantage of situations for pers
 ## Lets Beautify the Town
 
 !Picture of the wonders
-Now your thinking, how do we build these wonder? What's the advantage?
+Now your thinking, how do we build these wonders?
 
 Collecting resources is still essential due to the increased need for influence and coins. The amount of resources needed has grown, with some wonders requiring up to 15 resources. In the photo of the 5 wonders, you can see the number of resources needed in the top left corner.
 
-Why even bother? Just go for the cathedral or buildings?
+Why even bother? What's the advantage?
 
-By gaining a wonder, you can place it on any location of your choice. When you place a worker on your structure's location, you have two choices: either count the worker as two workers or gain an influence. If you need gold, place the structure on the Mine location to help you gather resources for other buildings. This creates an engine-building effect, producing resources efficiently.
+By gaining a wonder, you can place it on any location of your choice. When you place a worker on your structure's location, you have two choices: either count the worker as two workers or gain an influence.
 
-Here's a strategy to consider: Beginning of the game, focus on collecting resources and aim for a wonder. Once achieved, place your structure in another location to target those resources. If you're fortunate and the Profiteer is on the same location as your structure, you'll also gain influence at the same time. But be careful you will have consequences
-if you have too many worker with the Profiteer.
+Here's a strategy to consider: Beginning of the game, focus on collecting resources and aim for a wonder. Once achieved, place your structure in another location to target those resources. This creates an engine-building effect, producing resources efficiently.
+
+If you're fortunate and the Profiteer is on the same location as your structure, you'll also gain influence at the same time. But be careful you will have consequences if you have too many worker with the Profiteer.
 
 ## Black Market Reset
 
@@ -82,23 +89,19 @@ There so much more to like in this game. Since I's more of a medium to heavy gam
 The are a few issues
 
 - **Complexity Increase**: The expansion might add complexity to the game, which could be overwhelming for players who prefer a simpler experience.
-
 - **Learning Curve**: The new influence track may require a learning curve with some extra rules to remember.
-
 - **Solo mode**: If you’re not a solo player, the additional content may not be worth the cost.
 
 ## Final Thoughts
 
-With the expanions this game is up to par with the 2nd part of the trilogy Paladins of the West Kingdom. Some people in the community perfer Architects (with this expansion) over Paladins.
+As you can se, Works of Wonders adds much more content. With the expansion, this game now matches the quality of the second part of the trilogy, Paladins of the West Kingdom. Some people in the community even prefer Architects (with the expansion) over Paladins.
 
-For myself, being a heavier gamer, this really bumps up my enjoyment as there are more strategies with a tighter game.
-
- i was thinking of selling the game because it was abit too much of the lighter side. Everytime I play Architects of the West Kingdom, Works of Woner is always included on the table.
+Architects of the West Kingdom is a great game to begin with. Personally, I found the base game to be a bit light, with an AI that wasn't very challenging and became repetitive. I had considered replacing it in my collection, but the expansion has completely changed my mind and made it a keeper!
 
 Happy Gaming!
 
 ### Buy The Game
 
-[Buy Architects of the West Kingdom](https://ca.nobleknight.com/P/2147738630/Architects-of-the-West-Kingdom?awid=1445)
+[Buy Works of Wonder](https://ca.nobleknight.com/P/2147971464/Architects-of-the-West-Kingdom---Works-of-Wonder?awid=1445)
 
 Contains affiliate which supports the blog MeepleIt financially.
