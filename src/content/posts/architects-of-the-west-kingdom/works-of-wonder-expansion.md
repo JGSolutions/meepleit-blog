@@ -45,11 +45,12 @@ The Profiteer that represents someone who takes advantage of situations for pers
 !Picture of the wonders
 Now your thinking, how do we build these wonders?
 
-Collecting resources is still essential due to the increased need for influence and coins. The amount of resources needed has grown, with some wonders requiring up to 15 resources. In the photo of the 5 wonders, you can see the number of resources needed in the top left corner.
+Collecting resources is still essential due to the increased need for influence and coins. The amount of resources needed has grown, with some wonders requiring up to 15 resources. The number of resources needed to build each wonder is indicated in the top left corner of the cards.
 
 What's the benefit?
 
-By gaining a wonder, you can place it on any location of your choice. By placing a worker on your wonder's location, you have two choices: either count the worker as two workers or gain an influence.
+!picture of stucture on any location
+Once you complete a wonder, you can place it on any location. When you place a worker on that location, you can either double the worker's value or gain influence.
 
 A viable strategy involves prioritizing resource gathering early in the game with the goal of constructing a wonder. Once completed, strategically place your next structure to maximize resource production in that area. This approach can create a powerful engine, efficiently generating essential resources.
 
