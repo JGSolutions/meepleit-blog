@@ -10,8 +10,6 @@ author: Jerry Gagliano
 
 [Buy Works of Wonder](https://ca.nobleknight.com/P/2147971464/Architects-of-the-West-Kingdom---Works-of-Wonder?awid=1445)
 
-Contains affiliate link which supports the blog MeepleIt financially.
-
 ![Works of Wonder cover](./works-of-wonder/expansion-cover.jpg "Works of Wonder cover")
 The king has declared a desire for new monuments to enhance the town's beauty. With the cathedral already constructed, five new wonders are needed to expand the town. Only architects with high reputations will be granted this prestigious honor and continue to impress the king.
 
