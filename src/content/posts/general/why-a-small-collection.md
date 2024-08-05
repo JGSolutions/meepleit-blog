@@ -1,7 +1,7 @@
 ---
 title: "How & Why A Small Board Game Collection"
-published: 2024-08-04
-description: Several reasons for having a small board game collection.
+published: 2024-08-05
+description: Reasons to prioritize quality over quantity in board games
 tags: [Board Games]
 category: Personal
 draft: false
