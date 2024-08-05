@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Meepleit Blog',
+  title: 'Meepleit | Board Game Blog',
   subtitle:
     'Dedicated to board game play experiences, strategies, and insights, with a focus on game mechanics, solo modes, and thematic experiences.',
   lang: 'en', // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
