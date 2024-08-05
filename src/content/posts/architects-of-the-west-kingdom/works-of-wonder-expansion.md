@@ -4,7 +4,7 @@ published: 2024-08-06
 description: Delving into the Works of Wonder expansion to discover how much it enriches the base game.
 tags: [Architects of the West Kingdom, Works of Wonder]
 category: Overview
-draft: true
+draft: false
 author: Jerry Gagliano
 ---
 
