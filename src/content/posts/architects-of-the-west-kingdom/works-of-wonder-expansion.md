@@ -56,7 +56,7 @@ If you're fortunate and the Profiteer is on the same location as your structure,
 
 ![Works of Wonder contributions](./works-of-wonder/contributions.jpg "Works of Wonder contributions")
 
-In addition to the primary black market reset, a secondary reset is triggered when all resource spaces are occupied. Essentially, the Princess and Profiteer have maximized their influence in these areas and must reposition according to the consequence card.
+In addition to the primary black market reset, a secondary way which can be triggered when all resource spaces are occupied. Essentially, the Princess and Profiteer have maximized their influence in these areas and must reposition according to the consequence card.
 
 ## New Architects Additions
 
