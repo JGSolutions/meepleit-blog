@@ -8,6 +8,10 @@ draft: false
 author: Jerry Gagliano
 ---
 
+[Buy Works of Wonder](https://ca.nobleknight.com/P/2147971464/Architects-of-the-West-Kingdom---Works-of-Wonder?awid=1445)
+
+Contains affiliate which supports the blog MeepleIt financially.
+
 <!-- 
 Sow cover photo
 ![Architects of the west kingdom](./images/architects-cover.jpg "Architects of the west kingdom") -->
@@ -17,9 +21,9 @@ Works of Wonder, the second expansion for the Architects of the West Kingdom. Th
 
 ## Theme
 
-The town has grown and needs to be expanded which the king requested to build more buildings which are the 5 main wonders. As for the architects, they need to work harder not only to gain more resources but also their reputation, to prove the king's happiness.
+The town has evolved and now requires more buildings, as the king has requested the construction of five new wonders. The architects must work harder not only to gather more resources but also to enhance their reputation, in order to earn the king's favor.
 
-They will need to collaborate with the Princess by contributing resources and demonstrating their dedication through increased influence. However, there is also the Profiteer, who is ruthless and does not want the architects to succeed. While the Profiteer will grant you influence whenever you visit, you will eventually face a cost for it.
+They will collaborate with the Princess by contributing resources and demonstrating their dedication through increased influence. However, there is also the Profiteer, who is ruthless and does not want the architects to succeed. While the Profiteer will grant you influence whenever you visit, you will eventually face a cost for it.
 
 As the architects construct their wonders, they will earn status in specific locations by impressing the king!
 
@@ -27,7 +31,7 @@ As the architects construct their wonders, they will earn status in specific loc
 
 !A Picture of the new board
 
-The expansion introduces the new influence track board which matches and aligns perfectly next to the main board. The influence track increases the achitect's reputation that goes towards in building one of the five wonders.
+The expansion introduces the new influence track board which matches and aligns perfectly next to the main board. The track increases the architect's reputation that goes towards in building one of the five wonders.
 
 !Show picture of Princess and Profiteer
 
@@ -43,11 +47,11 @@ Now your thinking, how do we build these wonders?
 
 Collecting resources is still essential due to the increased need for influence and coins. The amount of resources needed has grown, with some wonders requiring up to 15 resources. In the photo of the 5 wonders, you can see the number of resources needed in the top left corner.
 
-Why even bother? What's the advantage?
+What's the benefit?
 
-By gaining a wonder, you can place it on any location of your choice. When you place a worker on your structure's location, you have two choices: either count the worker as two workers or gain an influence.
+By gaining a wonder, you can place it on any location of your choice. By placing a worker on your wonder's location, you have two choices: either count the worker as two workers or gain an influence.
 
-Here's a strategy to consider: Beginning of the game, focus on collecting resources and aim for a wonder. Once achieved, place your structure in another location to target those resources. This creates an engine-building effect, producing resources efficiently.
+A viable strategy involves prioritizing resource gathering early in the game with the goal of constructing a wonder. Once completed, strategically place your next structure to maximize resource production in that area. This approach can create a powerful engine, efficiently generating essential resources.
 
 If you're fortunate and the Profiteer is on the same location as your structure, you'll also gain influence at the same time. But be careful you will have consequences if you have too many worker with the Profiteer.
 
@@ -55,23 +59,21 @@ If you're fortunate and the Profiteer is on the same location as your structure,
 
 !Show a picture of contributions with resources
 
-Another mechanism that triggers the black market reset, when all the contribution spaces are filled with resources. Basically the Princess and Profiteer have done their job on those locations and need to move to different location depending the Consquence card that has been drawn.
+Another mechanism that triggers the black market reset, when all the contribution spaces are filled with resources. Basically the Princess and Profiteer have done their job on those locations and need to move to different location depending the consequence card that has been drawn.
 
 ## New Architects Additions
 
 !Pic of player boards.
 
-The expansion introduces six new architects that are tailored to fit the updated influence track. Although you can still use characters from the base game, the adjustments are minor. To fully experience the new influence track, I recommend using the new player boards.
+The expansion introduces six new architects that are tailored to fit the updated influence track. Although you can still use characters from the base game, the adjustments are minor. To fully experience the new influence track, it's recommended to play with the new player boards.
 
 ## Solo Play
 
 !Pic of solo board.
-For me the main attraction are the solo players boards. Six new solo boards have been added and each one of them all play differently.
+For me, the main draw is the solo player boards. Six new solo boards have been added and each one plays differently.
 
 !Pic of some AI Cards
-Also new set of AI cards are included, replacing the exisitng base game.
-
-The solo AI is more challenging and resembles playing against a human opponent. Each card presents a condition that must be fulfilled; if it isn't, the next step is carried out. The AI adapts its strategy according to the current board state, ensuring that each game feels unique.
+Also new set of solo AI cards are included, replacing the exisitng base game, making AI more challenging and resembles playing against a human opponent. Each card presents a condition that must be fulfilled; if it isn't, the next step is carried out. The AI adapts its strategy according to the current board state, ensuring that each game feels unique.
 
 In one game I played, the AI managed to constructed one wonder. Initially, I was concerned that they would aggressively pursue wonders, but that wasn't the case. They also don't capture your workers or gather marble resources as easily as they do in the base game.
 
@@ -79,7 +81,7 @@ Once you get used to the AI cards, you'll start to anticipate their actions. Pla
 
 ## Pros
 
-There so much more to like in this game. Since I's more of a medium to heavy gamer, the comlexity and added stratgeic dept added to this game is a huge addtional value. Especially the AI improvement! I wouldn't want to play the base game solo.
+There's so much more to appreciate about this game. As a medium to heavy gamer, I value the complexity and added strategic depth it offers. The way the AI functions is particularly impressive—without it, I wouldn't enjoy playing the base game solo.
 
 - **Increased Depth**: New mechanics and wonders, enriching the game’s strategic depth and variety.
 - **Replayability**: With new architects and wonders, each game can offer a different experience, increasing replay value.
@@ -96,9 +98,11 @@ The are a few issues
 
 ## Final Thoughts
 
-As you can se, Works of Wonders adds much more content. With the expansion, this game now matches the quality of the second part of the trilogy, Paladins of the West Kingdom. Some people in the community even prefer Architects (with the expansion) over Paladins.
+Architects of the West Kingdom is a solid starting point, but Works of Wonders elevates the game to a whole new level. With the expansion, the game now rivals the acclaimed Paladins of the West Kingdom, and some even argue it surpasses it.
 
-Architects of the West Kingdom is a great game to begin with. Personally, I found the base game to be a bit light, with an AI that wasn't very challenging and became repetitive. I had considered replacing it in my collection, but the expansion has completely changed my mind and made it a keeper!
+Initially, I found the base game to be somewhat shallow, with an AI that lacked challenge. I was close to removing it from my collection, but the expansion completely transformed the game. It's now a must-have for any fan of the series.
+
+If you own Architects of the West Kingdom, Works of Wonders is an essential addition that significantly enhances gameplay and replayability.
 
 Happy Gaming!
 
