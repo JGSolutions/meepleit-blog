@@ -10,7 +10,7 @@ author: Jerry Gagliano
 
 The king has spoken and as we get ready to build those wonders to impress our king. Charles gets ready to play against the bot Illusionist.
 
-To start, my architect(CHarles) has two wood as I decided to get a heead start for the Wonder that contains the wood. My influence begins at level two another issue I need to work on that reputation. Contributing reources with the Princess is always a great help as your influence track will increase for each resource that has been contributed
+To start, my architect(Charles) has two wood resources as I decided to get a head start for the Wonder. My influence began at the bottom at level two which I needed to work on my reputation. Contributing reources with the Princess is always a great help as your influence track will increase for each resource that has been contributed
 
 Of course AI sending workers at mulitpule locations like the kingstore which helps them increases their virtue. For some reason they fleew up on the virtue track. I always kept an eye on their workers and capturing them.
 
