@@ -27,12 +27,13 @@ As the architects construct their wonders, they will earn status in specific loc
 
 ![Works of Wonder board](./works-of-wonder/expansion-board.jpg "Works of Wonder board")
 
-The expansion introduces the new influence track board which matches and aligns perfectly next to the main board. The track increases the architect's reputation that goes towards in building one of the five wonders.
+The expansion introduces the new Influence track board, which aligns perfectly next to the main board. At any point in the game, players may choose to lose 2 Influence instead of spending up to 2 Silver or to avoid losing 1 Virtue. Additionally, they may choose to lose 4 Influence instead of spending 1 Gold or Marble. This track overall boosts the architect's reputation, aiding in the construction of one of the five wonders.
 
-For the architects to built these wonders, they need to accompany the Princess. When placing a worker on the Princess's location, they immediality contribute a resource with addition of their influence increasing. Similar to the Virtue track.
+For the architects to built these wonders, they need to accompany the Princess. When placing a worker on the Princess's location, they immediality contribute a resource with addition of their Influence increasing. Similar to the Virtue track.
+
 The Princess is clearly a kind-hearted character, but if you do something mischievous, like capturing workers in her location, she'll penalize you on the virtue track.
 
-The Profiteer that represents someone who takes advantage of situations for personal gain, often at the expense of others. He provides you an influence when placing a worker on his location. If you capture workers at his location, he'll reward you with a virtue for your mischievous actions. Sounds great! However, when the black market resets according to the Consequence card, you'll need to pay for it. So, be cautious about associating with the Profiteer.
+The Profiteer that represents someone who takes advantage of situations for personal gain, often at the expense of others. He provides you an Influence when placing a worker on his location. If you capture workers at his location, he'll reward you with a virtue for your mischievous actions. Sounds great! However, when the black market resets according to the Consequence card, you'll need to pay for it. So, be cautious about associating with the Profiteer.
 
 ## Beautify the Town
 
@@ -40,21 +41,21 @@ The Profiteer that represents someone who takes advantage of situations for pers
 
 Now your thinking, how do we build these wonders?
 
-Collecting resources is still essential due to the increased need for influence and coins. The amount of resources needed has grown, with some wonders requiring up to 15 resources which are indicated in the top left corner of the cards.
+Collecting resources is still essential due to the increased need for Influence and Silver coins. The amount of resources needed has grown, with some wonders requiring up to 15 resources which are indicated in the top left corner of the cards.
 
 What's the benefit?
 
-Once you have built a wonder, you can place it on any location. Onced placed, you can either double the worker's value or gain influence.
+Once you have built a wonder, you can place it on any location. Onced placed, you can either double the worker's value or gain Influence.
 
 A viable strategy involves prioritizing resource gathering early in the game with the goal of constructing a wonder. Once completed, strategically place your next structure to maximize resource production in that area. This approach can create a powerful engine, efficiently generating essential resources.
 
-If you're fortunate and the Profiteer is on the same location as your structure, you'll also gain influence at the same time. But be careful you will have consequences if you have too many worker with the Profiteer.
+If you're fortunate and the Profiteer is on the same location as your structure, you'll also gain Influence at the same time. But be careful you will have consequences if you have too many worker with the Profiteer.
 
 ## Black Market Reset
 
 ![Works of Wonder contributions](./works-of-wonder/contributions.jpg "Works of Wonder contributions")
 
-In addition to the primary black market reset, a secondary way which can be triggered when all resource spaces are occupied. Essentially, the Princess and Profiteer have maximized their influence in these areas and must reposition according to the consequence card.
+In addition to the primary black market reset, a secondary way which can be triggered when all resource spaces are occupied. Essentially, the Princess and Profiteer have maximized their Influence in these areas and must reposition according to the consequence card.
 
 ## New Architects Additions
 
