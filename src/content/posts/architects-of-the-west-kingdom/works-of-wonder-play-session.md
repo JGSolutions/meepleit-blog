@@ -11,9 +11,9 @@ author: Jerry Gagliano
 !picture of player boards
 The king has given his command, and as we prepare to construct the wonders to impress him, Charles is gearing up to confront the bot Illusionist.
 
-My architect, Charles, begins with two wooden resources as I chose to get a head start on the Wonder. Charles' influence started at the base level of two, so I need to focus on improving my reputation.
+My architect, Charles, begins with two wooden resources as I chose to get a head start on the Wonder. Charles' influence started at the base level of two, so I needed to focus on improving my reputation.
 
-Contributing resources to the Princess is always a valuable way to advance on the influence track. These resources remain unused until a black market reset occurs, at which point they are added to the actual Wonder. If you decide to sacrifice your resources to the Princess, make sure to trigger a black market reset as those reources will stay on the contributed card. This is especially important if you notice that the AI has prisoners and workers at the Profiteer's location, as this will impose some negative effects on them like debts and lost of virtue.
+Contributing resources with the Princess is always a valuable way to advance on the influence track. These resources remain unused until a black market reset occurs, at which point they are moved to their corresponding Wonder cardss. If you decide to sacrifice your resources, make sure to eventually trigger a black market reset. Especially  a good strategy if you notice that the AI has prisoners and workers at the Profiteer's location, as this will impose some negative effects on them like debts and lost of virtue.
 
 Naturally, the AI sends their workers to multiple locations, such as the King's Storehouse, which helps them increase their virtue. For some reason, their virtue level soared quickly. I consistently monitored their workers and made an effort to capture them.
 
