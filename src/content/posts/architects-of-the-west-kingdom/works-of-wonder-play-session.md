@@ -1,5 +1,5 @@
 ---
-title: "Building those Wonders in the 'Works of Wonder Expansion"
+title: "Strategies on Building those Wonders in the 'Works of Wonder Expansion"
 published: 2024-08-09
 description: Gameplay strategies and session tips for the Works of Wonder expansion board game.
 tags: [Architects of the West Kingdom, Works of Wonder]
