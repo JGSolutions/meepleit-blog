@@ -30,4 +30,6 @@ I enjoyed pursuing the game's wonders after the initial excitement wore off, but
 
 I overlooked the fact that Charles earns one Silver each time he places a worker at the Profiteer's location. Despite having 33 silver coins left to spend, I intentionally avoided the Profiteer because he imprisons your workers if you have the most. Given this, the benefit for Charles seems unnecessary.
 
-The final result was 48 - 43 for the Illusionist which impressed the king. Illusionist grabbed 3 of the 5 wonders and accumulated abundance of marble with seven points from the virtue track. It was a tight decision for the king as I did play some defensive strategies to avoid the AI to accumulate extra points but lost focus on certain areas like collecting resources.
+The final result was 48 - 43 for the Illusionist which impressed the king. Illusionist grabbed 3 of the 5 wonders and accumulated abundance of marble with seven points from the virtue track. It was a tight decision for the king as I did play some defensive strategies to avoid the AI to accumulate extra points but lost focus collecting resources.
+
+Overall, it was a challenging game. Next time I play, I'll focus on acquiring more buildings, as some provide benefits by fulfilling end-game objectives.
