@@ -22,6 +22,8 @@ Half way through the game, I was having a hard time with the objectives. I could
 
 The invasion grew towards the Harkkonens as I was blocking them from the seitches. More of my secitches were being left alone in th desert as I beegan invading the settlements and battles. My oppenent felt choked up as If I had him in a head lock.
 
-Then he pulled out a planned action card. "Move 3 units anywhere in the desert!" In the meantime as he was reading it, I was planning on my next move. Next think I see 3 units adjecent to each of my 3 EMPTY scietches! Where in the hell did that card come from? I took a peek on each tokeen to see how much he would advance and which one I can protect. I had only one deployment to prrotet  onen of the three sceitces.
+Then he pulled out a planned action card. "Move 3 units anywhere in the desert!" In the meantime as he was reading it, I was planning on my next move. Next think I see 3 units adjecent to each of my 3 EMPTY scietches! Where in the hell did that card come from? I took a peek on each tokeen to see how much he would advance and which one I can protect. I had only one deployment and able to protect one of the three sietches.
 
-Basically to make it short he did his attack action and completed the game.
+Fast forward,  he did his attack action and completed the game. One lesson I learned was don't leave your sietches alone. Of course the smart way of doing it was leave one or two units behind. But I went full force instead which The Artiedies are not meant to play this was way. Just focusing on the secret objectives is the way to go for the Atredies.
+
+It was still an intensive game as we battled back and forth
