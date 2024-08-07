@@ -1,5 +1,5 @@
 ---
-title: "LLeeaned my Lession pDune: War for Arrakiss"
+title: "LLeeaned my Lession Dune: War for Arrakiss"
 published: 2024-08-11
 description: Leaned my leesson playing with the Arteidies in Dune: War of Arrakis.
 tags: [Dune War of Arrakis]
