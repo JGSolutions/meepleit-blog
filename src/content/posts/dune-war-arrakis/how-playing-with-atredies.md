@@ -1,6 +1,6 @@
 ---
 title: "Lesson Learned in Dune: War for Arrakis"
-published: 2024-08-11
+published: 2024-08-13
 description: Dune: War of Arrakis Gameplay Experience: Strategic Insights and Lessons Learned.
 tags: [Dune War of Arrakis]
 category: Session
@@ -8,11 +8,9 @@ draft: false
 author: Jerry Gagliano
 ---
 
-![Dune War of Arrakis](./dune-war-of-arrakis.jpg "Dune War of Arrakis")
+![Dune War of Arrakis](./Paul-Atreides.Dune.webp "Dune War of Arrakis")
 
-I got chance to play Dune: War of Arrakis. where I explored the Atreides faction and faced off against the Harkonnens. In this article, I share my strategic approach, key challenges, and valuable lessons learned from leaving my sieches vulnerable and focusing on secret objectives.
-
-This is not a copy of mine, but a good old friend of mine that bought it. He has been inviting me a few times to play which I appreaciate. It gives me the opportunity to explore and experience other games. Currently right now we are the only two dudes that know how to play within our group but I'm sure eventually other people will know.
+I got chance again to play Dune: War of Arrakis. I explored the Atreides faction and faced off against the Harkonnens. This is not a copy of mine, but a good old friend of mine that bought it. Currently right now we are the only two dudes that know how to play this game within our group. I will share my strategic approach, key challenges, and valuable lessons learned from leaving my sieches vulnerable and focusing on secret objectives.
 
 I chose to play as the Atreides because I was in the mood for exploring the desert and tackling their secretive objectives. I wasn't keen on engaging in battles, especially against the Harkonnens, whose larger army seemed daunting. The Harkonnens' strategy involves emerging from their settlements to launch attacks on my sieches.
 
