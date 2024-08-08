@@ -29,7 +29,7 @@ Constructing the wooden wonder was a challenge as I had to manage the AI's overz
 ![Works of Wonder black market reset](./works-of-wonder/black-market-reset.jpg "Works of Wonder black market reset")
 Prompt a black market reset, typically if the bot has prisoners and workers at the Profiteer's location. This will impose negative effects on them, such as debts and a loss of virtue.
 
-![Works of Wonder r\tax stand](./works-of-wonder/tax-stand.jpg "Works of Wonder tax stand")
+![Works of Wonder tax stand](./works-of-wonder/tax-stand.jpg "Works of Wonder tax stand")
 
 The tax stand was overflowing with Silver coins, which I raided several times for a decent profit. However, my virtue level fluctuated between six and eight. While maintaining a high virtue score is beneficial for resource and money accumulation, it shouldn't be the sole focus. I neglected the black market, missing out on potentially valuable resources due to concerns about my virtue level. I've come to understand that incorporating visits to the black market into my strategy is necessary. Sometimes, embracing a bit of evil is essential to gain a quick advantage.
 
@@ -40,6 +40,8 @@ Lost in the competitive rush to finish the Cathedral (which I didn't) and secure
 I enjoyed pursuing the game's wonders after the initial excitement wore off, but the resources and time required to build them were considerable, much like in reality. I seldom hire apprentices, only bringing on just enough to construct the buildings I want. As a result, I ended up building only one building.
 
 ## The King Was Impressed
+
+![Works of Wonder God Wonder](./works-of-wonder/gold-wonders.jpg "Works of Wonder Gold Wonder")
 
 The final result was 48 - 43 for the Illusionist which impressed the king. Illusionist grabbed 3 of the 5 wonders and accumulated abundance of marble with seven points from the virtue track. The king faced a tough decision since I employed some defensive strategies to prevent the AI from accumulating extra points, but in doing so, I lost sight of the main objective: collecting resources.
 
