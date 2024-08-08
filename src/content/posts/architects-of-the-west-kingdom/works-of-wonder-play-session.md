@@ -8,7 +8,9 @@ draft: false
 author: Jerry Gagliano
 ---
 
-[Buy Works of Wonder](https://ca.nobleknight.com/P/2147971464/Architects-of-the-West-Kingdom---Works-of-Wonder?awid=1445)
+[Buy Architects of the West Kingdom - Noble Knight](https://ca.nobleknight.com/P/2147738630/Architects-of-the-West-Kingdom?awid=1445)
+
+[Buy Works of Wonder - Noble Knight](https://ca.nobleknight.com/P/2147971464/Architects-of-the-West-Kingdom---Works-of-Wonder?awid=1445)
 
 ![Works of Wonder play session](./works-of-wonder/works-of-wonder-play-session.jpg "Works of Wonder play session")
 
