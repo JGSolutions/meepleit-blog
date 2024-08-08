@@ -16,11 +16,11 @@ This is not a copy of mine, but a good old friend of mine that bought it. He has
 
 I chose to play as the Atreides because I was in the mood for exploring the desert and tackling their secretive objectives. I wasn't keen on engaging in battles, especially against the Harkonnens, whose larger army seemed daunting. The Harkonnens' strategy involves emerging from their settlements to launch attacks on my sieches.
 
-So I began working on my objectives accomplishing some of them at the sametime waitng for the Harkkoenes to come out of their settlements and attack me. Few battles began which I was able to win and killed some of the units. I wanted to reduce the units and hopefully go in the settlements and grab the tokens that help you advance on the track quickly.
+So I began working on my objectives accomplishing some of them at the sametime waitng for the Harkkoenes merge out of their settlements and attack me. Few battles began which I was able to win and killed some of the units. I wanted to reduce the units and hopefully go in the settlements and grab the tokens that help you advance on the track quickly.
 
-In the desert I wasn't destroying much of the harvesters as I want to maintain my desert actions. I got sand worms appearing on the board and completeing more of the secret objectives.
+In the desert, I avoided destroying too many harvesters to preserve my desert actions. I encountered sandworms on the board and continued to complete additional secret objectives.
 
-Half way through the game, I was having a hard time with the objectives. I couldn't accomplish them as I ran out of actions trying to protect my setiches. I started to bcome abit lost and began losing focus on my main strategy. More of the Harkkoenes where attacking me which was turing into an intensive game. I continued to battle and reducings their units. I felt stuck in the out skirts of the desert and the only way I though was to go in and invade some of the settlements so I can advance on my track.
+Half way through the game, I was having a hard time with the secret objectives. I couldn't accomplish them as I ran out of actions trying to protect my setiches. I started to bcome abit lost and began losing focus on my main strategy. More of the Harkkoenes where attacking me which was turing into an intensive game. I continued to battle and reducings their units. I felt stuck in the out skirts of the desert and the only way I though was to go in and invade some of the settlements so I can advance on my track.
 
 The invasion grew towards the Harkkonens as I was blocking them from the seitches. More of my secitches were being left alone in the desert as I began invading the settlements. My oppenent felt choked up as If I had him in a head lock.
 
