@@ -16,18 +16,19 @@ The king has given his command, and as we prepare to construct the wonders to im
 
 I'll review the gameplay and highlight some strategies I used. I usually play on the variable side, where my architect, Charles, starts with two wooden resources. This was part of my plan to get a head start on the Wonder. Additionally, Charles' influence began at the base level of two, so I needed to work on improving that.
 
-![Pic of contributions]
+![Works of Wonder contribution](./works-of-wonder/works-of-wonders-contribution.jpg "Works of Wonder contribution")
 
 I started by placing my workers in the forest to collect wood, and contributing resources with the Princess which is a valuable way to progress on the influence track. These resources stay unused until a black market reset happens, at which point they are transferred to their respective Wonder cards. If you choose to contribute your resources, ensure you eventually trigger a black market reset by completing the resource markers on the contribution cards, visiting the black market, or placing a worker in the Guildhall.
 
-!pic of black reset
+![Works of Wonder black market reset](./works-of-wonder/black-market-reset.jpg "Works of Wonder black market reset")
 Here's a small tip: Prompt a black market reset, especially if the AI has prisoners and workers at the Profiteer's location. This will impose negative effects on them, such as debts and a loss of virtue.
 
 Naturally, the AI sends their workers to multiple locations, such as the King's Storehouse, which helps them increase their virtue. For some reason, their virtue level soared quickly. I consistently monitored their workers and made an effort to capture them.
 
 Constructing the wooden wonder was a challenge as I had to manage the AI's overzealous workers while simultaneously building my influence. Once completed, I strategically placed it on the mine location to target either the gold or mines wonder. Unfortunately, the AI claimed the gold wonder, forcing me to pivot my strategy and focus on acquiring the fifteen mine resources for the Mine Wonder.
 
-pic tax stand with money
+![Works of Wonder r\tax stand](./works-of-wonder/tax-stand.jpg "Works of Wonder tax stand")
+
 The tax stand was overflowing with Silver coins, which I raided several times for a decent profit. However, my virtue level fluctuated between six and eight. While maintaining a high virtue score is beneficial for resource and money accumulation, it shouldn't be the sole focus. I neglected the black market, missing out on potentially valuable resources due to concerns about my virtue level. I've come to understand that incorporating visits to the black market into my strategy is necessary. Sometimes, embracing a bit of evil is essential to gain a quick advantage.
 
 Lost in the competitive rush to finish the Cathedral (which I didn't) and secure workers on the Guildhall before the game ended, I overlooked resource collection for the Mine Wonder. Despite eventually building the Mine, the bot outpaced me by constructing the Clay and Marble Wonder structures.
@@ -38,4 +39,4 @@ I overlooked the fact that Charles earns one Silver each time he places a worker
 
 The final result was 48 - 43 for the Illusionist which impressed the king. Illusionist grabbed 3 of the 5 wonders and accumulated abundance of marble with seven points from the virtue track. It was a tight decision for the king as I did play some defensive strategies to avoid the AI to accumulate extra points but lost focus collecting resources.
 
-Overall, it was a challenging game. Next time I play, I'll focus on acquiring more buildings, as some provide benefits by fulfilling end-game objectives.
+Overall, it was a challenging game. Lots of decisions to be made and and lost track of my plans. Next, I'll focus on acquiring more buildings, as some provide benefits by fulfilling end-game objectives.
