@@ -24,8 +24,10 @@ The invasion expanded towards the Harkonnens as I started blocking their access 
 
 On his turn, he revealed a planned action card. I don’t recall the exact wording, but it was something like, "Move 3 units anywhere in the desert!" While he was reading it, I focused on my next move. Suddenly, I noticed 3 units being placed adjacent to each of my 3 empty setiches! Where on earth did that card come from?
 
-This is impossible! I checked each token number to determine how much he would advance and which one was most crucial to protect. With only one deployment action left, I could defend only one of the three setiches. Fast forward, he did his attack, it was all over.
+This is impossible! I checked each token number to determine how much he would advance and which one was most crucial to protect. With only one deployment action left, I was capable of defending only one of the three setiches. Fast forward, he did his attack, it was all over.
 
-One lesson I learned: never leave your setiches unguarded! This game offers numerous paths to victory, and those planned action cards can be incredibly powerful. Each of the factions the Atredies or Harkonnens’ have distinct abilities and advantages that reflect their role in the Dune universe
+From this experience, I learned a crucial lesson: never leave your setiches unguarded! The game’s diverse paths to victory and the potent planned action cards can significantly influence the outcome. Both the Atreides and Harkonnens have unique abilities and strategies, reflecting their roles in the Dune universe. The Atreides focus on advancing on the Prescience track through objectives, which can create opportunities for the Harkonnens to exploit.
+
+Until next we shall see what happens. All I know is that those setiches will never be left alone.
 
 [Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)
