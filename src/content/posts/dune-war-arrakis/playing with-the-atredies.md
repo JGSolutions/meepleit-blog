@@ -1,7 +1,7 @@
 ---
 title: "Lesson Learned in Dune: War for Arrakis"
-published: 2024-08-13
-description: "Dune: War of Arrakis strategic insights and lessons learned."
+published: 2024-08-19
+description: "Dune: War of Arrakis strategic insights and lessons learned playing with the Atredies"
 tags: [Dune War of Arrakis]
 category: Session
 draft: false
@@ -26,8 +26,8 @@ On his turn, he revealed a planned action card. I don’t recall the exact wordi
 
 This is impossible! I checked each token number to determine how much he would advance and which one was most crucial to protect. With only one deployment action left, I was capable of defending only one of the three setiches. Fast forward, he did his attack, it was all over.
 
-From this experience, I learned a crucial lesson: never leave your setiches unguarded! The game’s diverse paths to victory and the potent planned action cards can significantly influence the outcome. Both the Atreides and Harkonnens have unique abilities and strategies, reflecting their roles in the Dune universe. The Atreides focus on advancing on the Prescience track through objectives, which can create opportunities for the Harkonnens to exploit.
+From this experience, I learned a crucial lesson: never leave your setiches unguarded! The game’s diverse paths to victory and the potent planned action cards can significantly influence the outcome. Both the Atreides and Harkonnens have unique abilities and strategies, reflecting their roles in the Dune universe. The Atreides focus on progressing along the Prescience track through objectives, which can open up opportunities for the Harkonnens to exploit if the Atreides make poor decisions.
 
-Until next we shall see what happens. All I know is that those setiches will never be left alone.
+Until next time we shall see what happens with those setiches and the Atredies.
 
 [Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)
