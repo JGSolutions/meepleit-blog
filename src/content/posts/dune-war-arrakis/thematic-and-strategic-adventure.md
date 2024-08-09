@@ -50,3 +50,5 @@ Other than miniatures, the board is beautifully designed to represent the harsh,
 "Dune: War for Arrakis" offers an immersive and strategic experience that captures the essence of the Dune universe. With its thematic elements, unique faction mechanics, and engaging gameplay, it appeals to both dedicated Dune fans and newcomers alike. Whether you're managing resources, navigating the desert, or engaging in tactical combat, the game provides a rich and varied experience that brings the world of Arrakis to life.
 
 Best of all, you only need one additional player to enjoy this game, as it’s designed for head-to-head play. The game's high replayability ensures months of enjoyable gameplay. So, gather a friend, prepare for battle, and immerse yourself in the epic struggle for control of the spice. The desert planet awaits your command.
+
+[Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)

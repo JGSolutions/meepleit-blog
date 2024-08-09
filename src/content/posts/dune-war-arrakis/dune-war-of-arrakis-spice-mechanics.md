@@ -58,3 +58,5 @@ I had the opportunity to play as the Atreides. Overall, I discovered that the At
 ### Conclusion
 
 Most of the rules and details are not covered, but this provides an overview of how spices are played in the game. The spice mechanism adds an interesting balance, allowing the Atreides to increase or decrease their actions based on spice levels. This introduces a significant strategic element, making the game both challenging and intense for both sides.
+
+[Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)
