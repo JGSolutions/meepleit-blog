@@ -2,13 +2,13 @@
 title: "Dune: War for Arrakis – A Thematic and Strategic Adventure for Dune Fans"
 published: 2024-07-29
 description: Epic head-to-head battle set in the immersive world of Dune.
-tags: [Dune War of Arrakis]
+tags: [Dune War for Arrakis]
 category: Theme
 draft: false
 author: Jerry Gagliano
 ---
 
-![Dune War of Arrakis](./dune-war-of-arrakis.jpg "Dune War of Arrakis")
+![Dune War for Arrakis](./dune-war-for-arrakis.jpg "Dune War for Arrakis")
 
 I recently had the chance to dive into the world of "Dune: War for Arrakis," an epic head-to-head game that stands out from the Dune Imperium series by focusing more on combat and area control.
 
