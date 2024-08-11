@@ -1,7 +1,7 @@
 ---
 title: "Strategies on Building those Wonders in the 'Works of Wonder' Expansion"
-published: 2024-08-09
-description: Gameplay strategies and session tips for impressing the King.
+published: 2024-08-12
+description: Gameplay experience strategies tips for impressing the King.
 tags: [Architects of the West Kingdom, Works of Wonder]
 category: Strategies
 draft: false
@@ -16,22 +16,22 @@ author: Jerry Gagliano
 
 The king has given his command, and as we prepare to construct the wonders to impress him, Charles is gearing up to confront the Illusionist(bot).
 
-Here's a brief overview of the playthrough highlights and some strategies. I typically play with the variable side, where my architect, Charles, begins with two wood resources. My strategy was to gain an early edge by building the wooden Wonder. Additionally, I needed to manage Charles' influence, which started at the base level of two.
+Here's a brief overview of the playthrough highlights and some strategies. I typically play with the variable side, where my architect, Charles, began with two wood resources. My strategy was to gain an early edge by building the wooden Wonder. Additionally, I needed to manage Charles' influence, which started at the base level of two.
 
 ## Let’s Get Those Wonders Built
 
 ![Works of Wonder contribution](./works-of-wonder/works-of-wonders-contribution.jpg "Works of Wonder contribution")
 
-My workers went work, in the forest to collect wood, and contributing resources with the Princess which is a valuable way to progress on the influence track. The resource stay unused until a black market reset happens, at which point they are transferred to their respective Wonder cards. If you choose to contribute your resources, ensure you plan a black market reset by completing the resource markers on the contribution cards, visiting the black market, or placing a worker in the Guildhall.
+My workers to went work, in the forest to collect wood, and contributing resources with the Princess which is a valuable way to progress on the influence track. The resource stay unused until a black market reset triggers, at which point they are transferred to their respective Wonder cards. If you choose to contribute your resources, ensure you plan a black market reset by completing the resource markers on the contribution cards, visiting the black market, or placing a worker in the Guildhall.
 
-Constructing the wooden wonder was a challenge as I had to manage the AI's overzealous workers while simultaneously building my influence. Once completed, I strategically placed it on the mine location to target either the gold or mines wonder. Unfortunately, the AI claimed the Gold Wonder, forcing me to pivot my strategy and focus on acquiring the Mine Wonder which required 15 mine resources.
+Constructing the wooden Wonder was a challenge as I had to manage the AI's overzealous workers while simultaneously building my influence. Once completed, I strategically placed it on the mine location to target either the gold or mines wonder. Unfortunately, the AI claimed the Gold Wonder, forcing me to pivot my strategy and focus on acquiring the Mine Wonder which required 15 mine resources.
 
 ![Works of Wonder black market reset](./works-of-wonder/black-market-reset.jpg "Works of Wonder black market reset")
 Prompt a black market reset, typically if the bot has prisoners and workers at the Profiteer's location. This will impose negative effects on them, such as debts and a loss of virtue.
 
 ![Works of Wonder tax stand](./works-of-wonder/tax-stand.jpg "Works of Wonder tax stand")
 
-The tax stand was overflowing with Silver coins, which I raided several times for a decent profit. However, my virtue level fluctuated between six and eight. While maintaining a high virtue score is beneficial for resource and money accumulation, it shouldn't be the sole focus. I neglected the black market, missing out on potentially valuable resources due to concerns about my virtue level. I've come to understand that incorporating visits to the black market into my strategy is necessary. Sometimes, embracing a bit of evil is essential to gain a quick advantage.
+The tax stand was overflowing with Silver coins, which I raided several times for a decent profit. However, my virtue level fluctuated between six and eight. While maintaining a high virtue score is beneficial for resource and money accumulation, it shouldn't be the sole focus. I neglected the black market, missing out on potentially valuable resources due to concerns about my virtue level. Incorporating visits to the black market into my strategy is necessary. Sometimes, embracing a bit of evil is essential to gain a quick advantage.
 
 Naturally, the AI sends their workers to multiple locations, such as the King's Storehouse, which helps them increase their virtue. For some reason, their virtue level soared quickly. I consistently monitored their workers and made an effort to capture them.
 
