@@ -10,7 +10,7 @@ author: Jerry Gagliano
 
 <!-- ![Dune War of Arrakis Spices Mechanics](./dune_spices_strategy.jpg "Dune War of Arrakis Spices Mechanics") -->
 
-David Turzi, has been one the great board game designers that has grown within me the past year. He is a well known, respected that released quite a few games throught out his careerr which are highly rated or played. He is specializes in solo modes and is famous for his complex Euros. Here is a list of notable games:
+David Turzi, a prominent board game designer, has become a significant influence on me over the past year. He is well-known and respected for releasing several highly-rated and frequently played games throughout his career. Specializing in solo modes, he is renowned for his intricate Eurogames. Here is a list of some of his notable games:
 
 - 2016 Days of Ire: Budapest 1956
 - 2017 Anachrony
@@ -33,28 +33,48 @@ David Turzi, has been one the great board game designers that has grown within m
 - 2024 Imperium: Horizons
 - 2024 Star Trek: Captain's Chair
 
-## Discovering David Turzi
+As I've often mentioned in my blogs, I play all my games solo. Solo play has always been my primary criterion when purchasing a game. I rarely considered the designer of the game, as I was more focused on the mechanics and theme. I will talk about how and why David has become one on my favorite solo designers.
 
-Since I started playing board games, I’ve always focused on solo play as my top criterion. I never really considered who designed the game; I was more interested in the mechanics or theme.
+## Discovering David Turzi
 
 Began with Anachrony and Fractures of Time. I bought the game and explored its various solo modes. I was amazed by how well it played solo, almost as if it were designed for human interaction. Compared to other solo games I’ve played, such as Lost Ruins of Arnak, Endless Winter, and Tapestry, this one ranked exceptionally high for me in terms of solo play.
 
-Then eventually Voidfall & Nucluem began buzzing around BoardGameGeek. Again never bothered who the designer were for these games. I finally searched them up. My jaw stayed open for few seconds. David's name was mentioned from the creator of Anachrony. I pulled the Anachrony's box to confirm and as his name was on the cover of the game.
+Eventually, Voidfall and Nucluem started generating buzz on BoardGameGeek. I didn't initially pay attention to the designers of these games, but when I finally looked them up, I was stunned to see David's name associated with them. I quickly checked the box of Anachrony and confirmed his name on the cover.
 
-I'm not sure what it was but all the games that I was drawn too was from David Truzi as everyone spoke highly about the solo mode in these games.
+I'm not sure why I was drawn to all these games by David, as everyone spoke highly of the solo modes in his designs.
 
-Eventually, my interest also expanded to deck-building games. Imperium Legends/Classics came up because of the release of Imperium Horizons. Again I didn't know it was David until I actually began researching. Right away, I needed to buy Legends as I wanted to experience the solo mode. I was amazed how the AI bot played in Imperium Legends that's when I feel in love with the game and David as a designer.
+Eventually, my interest also expanded to deck-building games. Imperium Legends/Classics caught my attention due to the release of Imperium Horizons. I didn’t realize it was David Turzi behind these games until I started researching. I immediately felt compelled to buy Legends to experience the solo mode. I was amazed by how the AI bot performed in Imperium Legends, and that’s when I fell in love with the game and David as a designer.
 
-Eventually I also got a copy of Undaunted Reinforcements which the solo mode is designed by David. I learned and played the game and again I was amazed how the game played solo.
+## Mechanics in David's Solo Games
 
-## How David Designs His Solo
+David's solo modes can be quite complex for some players. To understand and perform the AI bot's actions you need to follow certain conditions depending on the situation in the game. If the steps results in as true or false, it will perform the action as a human would. Basically the AI bot adapts to the game's situations, making it challenging for users and difficult to predict the next move.
 
-David's solo modes can be quite complex for some players. To understand and perform the AI bot's actions you need to follow certain conditions depending on the situation in the game. If the steps results in as true or false, it will perform the action as a human would. Basically the AI bot is adapts to the game's situations, making it challenging for users and difficult to predict the next move.
+For example, here is a solo bot card from Undaunted Reinforcements. As you can see, there are three steps to read through. If you’re familiar with the game, you’ll likely understand this quickly. If the condition is met, you perform the action; if not, you move on to the next step, and so forth.
 
-For example this is solo bot card in Undaunted Reinforcements. As you see there ar three steps you need rerad through. If you know the game you will probably understand this quickly. If not the readd step one. If the condittion is true then perform it. If not go on to the next and so on.
+Another example from Imperium Classics: The bot typically plays a card based on the symbol icon, and then follows the logical steps outlined in the rules. Depending on the situation of the bot, what resources or cards the bot has, he will perform that action. Then on to the next card and perform the same sets.
 
-Here’s an example from Imperium Classics: The bot typically plays a card based on the symbol icon, and the player follows the logical steps outlined in the rules. Depending on the situation of the bot, what resources or cards he has he will perform that action.
+I understand this might seem quite daunting, as the learning curve can be steep and mentally exhausting for some players. I occasionally take breaks myself, but I still appreciate the complexity as it enhances the strategic depth and replayability of the game. The game adapts to various situations, making each playthrough unique.
 
-The learning curve can be steep and mentally exhausting for some players. I occasionally take breaks myself, but I appreciate the complexity as it enhances the strategic depth and replayability of the game. The game adapts to various situations, making each playthrough unique. Think of it like this: in a video game, when playing against the CPU, the AI goes through a series of logical steps. This concept is adapted to board games in a simpler manner.
+Think of it like this: in a video game, when playing against the CPU, the AI goes through a series of logical steps. This concept is adapted to board games but in a simpler manner.
 
-David Turzi became one of my favorite board game designers because his games are known for their innovative mechanics and strategic depth. His ability to create immersive experiences that challenge players while providing replayability is truly impressive. Whether it's through unique gameplay mechanics or well-crafted narratives, David consistently delivers memorable and enjoyable gaming experiences.
+Some additional rules are incorporated to mimic human behavior. For example, in Undaunted Normandy, when the bot discards a Fog card, it draws a card from its deck and places it face down for the next round, where as a human player would simply add it to their hand and play it.
+
+## My Games
+
+Most of my games I play and have in my collection are from David. Here are my list that I currently play and potiential of buyingg in the future.
+
+- Europa Universalis
+- Unddaunted Reinforements
+- Imperium Horizons/Legends/Classics
+- Anachrony
+- Terraforming Mars Automa (Waiting for retail release in Oct 2024)
+- Voidfall (Wishlist)
+- Nucleum (Wishlist)
+
+There are likely other excellent solo game designers out there, but for some reason, David really excels at creating increasingly better solo modes with each game he releases. His ability to create immersive experiences that challenge players while providing replayability is truly impressive. Whether it's through unique gameplay mechanics or well-crafted narratives, David consistently delivers memorable and enjoyable gaming experiences.
+
+I've played the Imperium series over 30 times and still have the urge to keep playing. In fact, some of his games might even be more enjoyable solo than with human players.
+
+I’m grateful and pleased that David is releasing so much solo mode content, as it keeps me engaged in the hobby. Without solo modes, I’m not sure how often I’d get to play games at all. I’m unsure how frequently I’d get to play games otherwise. Before discovering David, I often wondered how long I could continue enjoying solo mode games, as some of them didn't meet my expectations or weren't worth keeping in my collection.
+
+If you're deeply into solo gaming, check him out—hopefully, his solo modes will keep you excited and engaged.
