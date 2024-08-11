@@ -1,7 +1,7 @@
 ---
 title: "David Turzi: Expert Solo Board Game Designer"
 published: 2024-08-26
-description: "Why David Turzi is on of my favorite leading solo board game designer known for his innovative and engaging games."
+description: "A big fan of David Turzi, leading solo board game designer known for his innovative and engaging games."
 tags: []
 category: Designer
 draft: false
