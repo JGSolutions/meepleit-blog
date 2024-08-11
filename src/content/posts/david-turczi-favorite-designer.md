@@ -1,6 +1,6 @@
 ---
 title: "David Turzi: Expert Solo Board Game Designer"
-published: 2024-07-30
+published: 2024-08-26
 description: "Why David Turzi is on of my favorite leading solo board game designer known for his innovative and engaging games."
 tags: []
 category: Designer
@@ -47,7 +47,11 @@ Eventually, my interest also expanded to deck-building games. Imperium Legends/C
 
 David's solo modes can be quite complex for some players. To understand and perform the AI bot's actions you need to follow certain conditions depending on the situation in the game. If the steps results in as true or false, it will perform the action as a human would. Basically the AI bot adapts to the game's situations, making it challenging for users and difficult to predict the next move.
 
-For example, here is a solo bot card from Undaunted Reinforcements. As you can see, there are three steps to read through. If you’re familiar with the game, you’ll likely understand this quickly. If the condition is met, you perform the action; if not, you move on to the next step, and so forth.
+![Solo card from north africa](./general/david-turzi/undaunted-north-africa.jpg "Solo card from north africa")
+
+For example, here is a solo bot card from Undaunted Reinforcements for North Africa. As you can see, there are three steps to read through. If you’re familiar with the game, you’ll likely understand this quickly. If the condition is met, you perform the action; if not, you move on to the next step, and so forth.
+
+![Solo card from imperium classics](./general/david-turzi/imperium-bot-card.jpg "Solo card from classics")
 
 Another example from Imperium Classics: The bot typically plays a card based on the symbol icon, and then follows the logical steps outlined in the rules. Depending on the situation of the bot, what resources or cards the bot has, he will perform that action. Then on to the next card and perform the same steps. Each Civ has it's own specific logical conditions. Playing against different Civs will provide different strategies.
 
