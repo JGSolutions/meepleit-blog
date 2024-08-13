@@ -26,7 +26,7 @@ On his turn, he revealed a planned action card. I don’t recall the exact wordi
 
 This is impossible! I checked each token number to determine how much he would advance and which one was most crucial to protect. With only one deployment action left, I was capable of defending only one of the three Setiches. Fast forward, he did his attack, it was all over.
 
-From this experience, I learned a crucial lesson: never leave your setiches unguarded! Well of course! Why the hell would I do that!? The game’s diverse paths to victory and the potent planned action cards can significantly influence the outcome. Both the Atreides and Harkonnens have unique abilities and strategies, reflecting their roles in the Dune universe. The Atreides focus on progressing along the Prescience track through objectives, which can open up opportunities for the Harkonnens to exploit if the Atreides make poor decisions.
+From this experience, I learned a crucial lesson: never leave your setiches unguarded! Not even one! Use your sandridng actions and ride back to your Setiches. The game’s diverse paths to victory and the potent planned action cards can significantly influence the outcome. Both the Atreides and Harkonnens have unique abilities and strategies, reflecting their roles in the Dune universe. The Atreides focus on progressing along the Prescience track through objectives, which can open up opportunities for the Harkonnens to exploit if the Atreides make poor decisions.
 
 Until next time, we'll see how things unfold with the Atredies.
 
