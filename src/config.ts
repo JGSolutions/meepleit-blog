@@ -16,8 +16,9 @@ export const siteConfig: SiteConfig = {
     fixed: true, // Hide the theme color picker for visitors
   },
   banner: {
-    enable: true,
-    src: 'assets/images/meepleit-board-game-cover.jpg', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: false,
+    src: 'assets/images/meepleit-board-game-cover.jpg',
+    // src: '',
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [
