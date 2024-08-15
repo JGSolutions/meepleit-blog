@@ -16,8 +16,8 @@ export const siteConfig: SiteConfig = {
     fixed: true, // Hide the theme color picker for visitors
   },
   banner: {
-    enable: true,
-    src: 'assets/images/meepleit-board-game-cover.jpg', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: false,
+    src: 'assets/images/meepleit-board-game-cover.jpg',
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [
@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/bio-profile.png',
   name: 'Meepleit',
-  bio: 'Enthusiastic about board gaming. Sharing my game play experiences.',
+  bio: 'Meeple your way into board games. Enthusiastic board gamer, sharing game play experiences and strategies.',
   links: [
     {
       name: 'Facebook',
