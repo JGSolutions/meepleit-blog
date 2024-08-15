@@ -18,7 +18,6 @@ export const siteConfig: SiteConfig = {
   banner: {
     enable: false,
     src: 'assets/images/meepleit-board-game-cover.jpg',
-    // src: '',
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [
@@ -46,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/bio-profile.png',
   name: 'Meepleit',
-  bio: 'Enthusiastic about board gaming. Sharing my game play experiences.',
+  bio: 'Meeple your way into board games. Enthusiastic board gamer, sharing game play experiences and strategies.',
   links: [
     {
       name: 'Facebook',
