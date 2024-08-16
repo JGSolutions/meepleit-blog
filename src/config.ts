@@ -59,6 +59,13 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:pinterest',
       url: 'https://www.pinterest.com/meepleit',
     },
+    {
+      name: 'Instagram',
+      icon: 'fa6-brands:instagram', // Visit https://icones.js.org/ for icon codes
+      // You will need to install the corresponding icon set if it's not already included
+      // `pnpm add @iconify-json/<icon-set-name>`
+      url: 'https://www.instagram.com/meepleit/',
+    },
     // {
     //   name: 'Meepleit Shop',
     //   icon: 'fa6-solid:cart-shopping',
