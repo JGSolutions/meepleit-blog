@@ -46,22 +46,22 @@ Eventually, my interest also expanded to deck-building games. Imperium Legends/C
 
 ## Mechanics in David's Solo Games
 
-David's solo modes can be quite complex for some players. To understand and perform the AI bot's actions you need to follow certain conditions depending on the situation in the game. If the steps results in as true or false, it will perform the action as a human would. Basically the AI bot adapts to the game's situations, making it challenging for users and difficult to predict the next move.
+David's solo modes may be quite complex for some players. To understand and carry out the AI bot's actions, you need to follow specific conditions depending on the game's circumstances. If these conditions yield a true or false result, the AI will act similarly to a human. Essentially, the AI bot adjusts to the game's scenarios, making it challenging for users and hard to anticipate its next move.
 
 ![Solo card from north africa](./general/david-turczi/undaunted-north-africa.jpg "Solo card from north africa")
 
-For example, here is a solo bot card from Undaunted Reinforcements for North Africa. As you can see, there are three steps to read through. If you’re familiar with the game, you’ll likely understand this quickly. If the condition is met, you perform the action; if not, you move on to the next step, and so forth.
+For instance, here's a solo bot card from Undaunted Reinforcements for North Africa. It outlines three steps to follow. If you're familiar with the game, you'll grasp this quickly. When a condition is met, you execute the action; if not, you proceed to the next step, and continue in this manner.
 
-Some additional rules are incorporated to mimic human behavior. For example, in Undaunted Normandy, when the bot discards a Fog card, it draws a card from its deck and places it face down for the next round, where as a human player would simply add it to their hand and play it.
+Some additional rules are incorporated to mimic human behavior. For example, in Undaunted Normandy, the bot discards a Fog card, it draws a card from its deck and places it face down for the next round, where as a human player would simply add it to their hand and play it.
 
 Example from Imperium Classics
 ![Solo card from imperium classics](./general/david-turczi/imperium-bot-card.jpg "Solo card from classics")
 
-The bot typically plays a card based on the symbol icon, and then follows the logical steps outlined in the rules. Depending on the situation of the bot, what resources or cards the bot has, he will perform that action. Then on to the next card and perform the same steps. Each Civ has it's own specific logical conditions. Playing against different Civs will provide different strategies.
+Similar as the Undaunted North Africa, the bot typically plays a card based on the symbol icon, and then follows the logical steps outlined in the rules. Depending on the situation of the bot, for example resources or cards the bot has, they will perform that action. Then on to the next card and perform the same steps. Each civilization has its own unique bot card detailing these conditions. Playing against different civilizations will offer various strategies.
 
 This might seem quite daunting, as the learning curve can be steep and mentally exhausting for some players. I occasionally take breaks myself, but I still appreciate the complexity as it enhances the strategic depth and replayability of the game. The AI adapts to various situations, making each playthrough unique.
 
-Think of it this way: in a video game, when playing against the CPU, the AI follows a series of logical steps. Same concept, but adapted to board games in a more streamlined form. I really appreciate how this approach is applied to board games, making the solo mode more interesting and engaging.
+Think of it this way: in a video game, when playing against the CPU, the AI follows a series of logical steps. Similar concept, but adapted to board games in a more streamlined form. I really appreciate how this approach is applied to board games, making the solo mode more interesting and engaging.
 
 ![Solo AI Europa Universalis](./general/david-turczi/europa_universalis_ai_bot.png "Solo AI Europa Universalis")
 Europa Universalis: The Price of Power features an extremely complex bot AI, developed by David. This serves as a prime example of how the game, inspired by a video game, incorporates a lot of intricate logic to manage its gameplay.
@@ -70,7 +70,7 @@ David's involvement in the solo mode wasn't from the very beginning, but he cont
 
 ## My Collection of David Turczi Games
 
-Most of the games in my collection that I regularly play are from David. Here’s a list of the ones I currently enjoy along with some I’m considering buying in the future.
+Most of the games in my collection are by David. Here’s a list of the ones I currently enjoy along with some I’m considering buying in the future.
 
 - Europa Universalis - The Price of Power
 - Undaunted Reinforcements - Normandy & North Africa
