@@ -1,8 +1,8 @@
 ---
 title: "Understanding the Spice Mechanism in Dune: War for Arrakis"
 published: 2024-07-30
-description: Explore the spice mechanism and learn strategies to master this critical gameplay element.
-tags: [Dune War of Arrakis]
+description: Exploring the spice mechanism and strategies to master this critical gameplay element.
+tags: ['Dune: War for Arrakis']
 category: Mechanics
 draft: false
 author: Jerry Gagliano
@@ -45,9 +45,9 @@ If, at the end of the round, any harvesters have not survived, each Imperium mar
 
 ### Strategies with the Harkonnens
 
-By forcing the Harkonnens level down 'the spice must flow' board reduced the Atreides desert actions. It also allowed the Harkonnens deploy more harvesters in the desert, increasing their chances of gathering spices.
+By lowering the Harkonnens' level on the "The Spice Must Flow" board, the Atreides' desert actions are reduced. This also enables the Harkonnens to deploy more harvesters in the desert, boosting their chances of collecting spices.
 
-While playing as the Harkonnens, I didn't mind leveling down, as it posed a challenge for my opponent. His desert actions were reduced, and despite being limited to six actions (down to the 3rd row), I still managed to win some battles and increase my supremacy track.
+Playing as the Harkonnens, I didn't mind leveling down, as it posed a challenge for my opponent. His desert actions were reduced, and despite being limited to six actions (down to the 3rd row), I still managed to win some battles and increase my supremacy track.
 
 I had to be cautious not to level down too much, as receiving 3 Imperium marker ban cards would reduce some of my benefits. This is a challenge you need to manage. Having many harvesters in the desert helped me maintain the level.
 
@@ -58,3 +58,5 @@ I had the opportunity to play as the Atreides. Overall, I discovered that the At
 ### Conclusion
 
 Most of the rules and details are not covered, but this provides an overview of how spices are played in the game. The spice mechanism adds an interesting balance, allowing the Atreides to increase or decrease their actions based on spice levels. This introduces a significant strategic element, making the game both challenging and intense for both sides.
+
+[Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)

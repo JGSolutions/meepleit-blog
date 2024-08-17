@@ -2,13 +2,13 @@
 title: "Dune: War for Arrakis – A Thematic and Strategic Adventure for Dune Fans"
 published: 2024-07-29
 description: Epic head-to-head battle set in the immersive world of Dune.
-tags: [Dune War of Arrakis]
+tags: [Dune War for Arrakis]
 category: Theme
 draft: false
 author: Jerry Gagliano
 ---
 
-![Dune War of Arrakis](./dune-war-of-arrakis.jpg "Dune War of Arrakis")
+![Dune War for Arrakis](./dune-war-for-arrakis.jpg "Dune War for Arrakis")
 
 I recently had the chance to dive into the world of "Dune: War for Arrakis," an epic head-to-head game that stands out from the Dune Imperium series by focusing more on combat and area control.
 
@@ -50,3 +50,5 @@ Other than miniatures, the board is beautifully designed to represent the harsh,
 "Dune: War for Arrakis" offers an immersive and strategic experience that captures the essence of the Dune universe. With its thematic elements, unique faction mechanics, and engaging gameplay, it appeals to both dedicated Dune fans and newcomers alike. Whether you're managing resources, navigating the desert, or engaging in tactical combat, the game provides a rich and varied experience that brings the world of Arrakis to life.
 
 Best of all, you only need one additional player to enjoy this game, as it’s designed for head-to-head play. The game's high replayability ensures months of enjoyable gameplay. So, gather a friend, prepare for battle, and immerse yourself in the epic struggle for control of the spice. The desert planet awaits your command.
+
+[Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)
