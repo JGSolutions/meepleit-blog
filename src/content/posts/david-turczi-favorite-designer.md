@@ -8,7 +8,6 @@ draft: false
 author: Jerry Gagliano
 ---
 
-<!-- ![Dune War of Arrakis Spices Mechanics](./dune_spices_strategy.jpg "Dune War of Arrakis Spices Mechanics") -->
 
 I play all my games solo. Solo play has always been my primary criterion when purchasing a game. I rarely considered the designer of the game, as I was more focused on the mechanics and theme. In this blog, I’ll explore how and why David has become one of my favorite designers for solo gaming.
 
