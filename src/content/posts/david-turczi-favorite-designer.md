@@ -50,9 +50,9 @@ David's solo modes may be quite complex for some players. To understand and carr
 
 ![Solo card from north africa](./general/david-turczi/undaunted-north-africa.jpg "Solo card from north africa")
 
-For instance, here's a solo bot card from Undaunted Reinforcements for North Africa. It outlines three steps to follow. If you're familiar with the game, you'll grasp this quickly. When a condition is met, you execute the action; if not, you proceed to the next step, and continue in this manner.
+For instance, here's a solo bot card for the Machine Gunner from Undaunted Reinforcements for North Africa game. It outlines three steps to follow. If you're familiar with the game, you'll grasp this quickly. When a condition is met, you execute the action; if not, you proceed to the next step, and continue in this manner.
 
-Some additional rules are incorporated to mimic human behavior. For example, in Undaunted Normandy, the bot discards a Fog card, it draws a card from its deck and places it face down for the next round, where as a human player would simply add it to their hand and play it.
+Some additional rules are incorporated to mimic human behavior. For example, when the bot discards a Fog card, it draws a card from its deck and places it face down for the next round, where as a human player would simply add it to their hand and play it.
 
 Example from Imperium Classics
 ![Solo card from imperium classics](./general/david-turczi/imperium-bot-card.jpg "Solo card from classics")
@@ -68,7 +68,7 @@ Europa Universalis: The Price of Power features an extremely complex bot AI, dev
 
 David's involvement in the solo mode wasn't from the very beginning, but he contributed significantly to developing a robust AI, making the solo experience both complex and engaging. This game pushes the boundaries of what a board game can achieve and might not appeal to everyone. However, by learning and following the logical steps, it can deliver an epic experience. It also offers a glimpse into how David infuses complexity into his solo game designs.
 
-## My Collection of David Turczi Games
+## My Collection of Games by David Turczi
 
 Most of the games in my collection are by David. Here’s a list of the ones I currently enjoy along with some I’m considering buying in the future.
 
@@ -84,6 +84,6 @@ I am sure there are likely other excellent solo game designers out there, but fo
 
 ## Closing Thoughts
 
-I’m incredibly grateful and pleased that David is releasing so much solo mode content, as it keeps me deeply engaged in the hobby. Without these solo modes, I’m not sure how often I’d get to play games. Before discovering David, I often wondered how long I could continue enjoying solo games, as some didn’t meet my expectations or weren’t worth keeping in my collection.
+I’m incredibly grateful and pleased that David is releasing so much solo mode content, as it keeps me deeply engaged in the hobby. Without these solo modes, I’m not sure how often I’d get to play games. Before discovering David, I've often wondered how long I would continue to enjoy solo games, as some haven't lived up to my expectations or didn't justify staying in my collection.
 
 If you're passionate about solo gaming, I highly recommend checking out David's work. His solo modes are designed with meticulous attention to detail, ensuring they offer a challenging and immersive experience. Whether you’re looking for intricate strategies, dynamic gameplay, or a deep solo experience, his designs are likely to keep you excited and engaged. His games often push the boundaries of solo play, providing a sense of accomplishment and enjoyment that can rival or even surpass playing with other people. If solo gaming is your focus, exploring his designs could greatly enhance your gaming collection and experience.
