@@ -51,13 +51,20 @@ If the gameplay is excellent but the setup is a major hassle, consider investing
 
 Here is another comment I see often "This game is too complex for what is! I'm rating it at [x]". Then I raise my arms in the air. I understand the user may not like the complexity that is a personal opinion. Again I would like to ask "How is the gameplay once you understand the complexity?"
 
-The complexity of a game brings up the replay value. With diverse mechanics, strategies, and scenarios, complex games often offer high replay value as each session can unfold differently. Lots of small rulees needing to be remembered but this can bring out the interesting mechanics of the game.
+The complexity of a game brings up the replay value. With diverse mechanics, strategies, and scenarios, complex games often offer high replay value as each session can unfold differently. Lots of small rulees are required to be remembered but this can showcase the interesting mechanics of the game. Complex games can help players develop and refine various skills, such as problem-solving, resource management, and strategic planning.
 
-Complex games can help players develop and refine various skills, such as problem-solving, resource management, and strategic planning.
+One example are reviews about Europa Universalis: The Price of Power. Reviewers bashed the game complexity. I respect their thoughs at the same time reviewers have a bunch of games lined up waiting to be reviewed. There are games where I think that can't be reviewed
+
+This game is meant to be played this way and made the hardcore gamers in this niche. For people that love these type of strategy games and play for hours. Should this game be bashed?
 
 ## Other
 
-- SHould an expansion bring up the rating of tthe base game?
+Expansion can also bring up rating that might give a different perpestive. Usually this happend where the base was ok but then the expansions were released and the ranking and rating increased.
+
+For some users that are new to the game won't care about expansions to start off. By seeing the rating or ranking it can fool them easily. I think expansions should not be part of the rating for the base game.
+
+I was the victim of this as I went off buy the expansion of Lost Ruin of Arnack same time as the base game. Becuase community was saying the base game needs the expansion andd provided a high rating. I did play with and without the expansion which did spice up the game but again not really my liking.
+
 <!-- One example is hearing out EU how long a round and event the setup can be. This game is meant to be played this way. I's for the hardcore gamer niche. For people that love these type of strategy games and play for hours. Should this game be bashed? -->
 
 Explain that you must play a game to fully understand and like it at the end of the day. Do not depend on bgg too much. Maybe it's great to help you discover new game sin the bgg Hotness
