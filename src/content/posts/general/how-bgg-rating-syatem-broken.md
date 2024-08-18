@@ -1,5 +1,5 @@
 ---
-title: "How I Stopped Evaluating Games Based on BoardGameGeek Ratings"
+title: "Why I Stopped Evaluating Games Based on BGG Ratings"
 published: 2024-08-22
 description: "We should all stop basing an interest over a game "
 tags: [Board Games]
@@ -8,28 +8,38 @@ draft: false
 author: Jerry Gagliano
 ---
 
-When discovering a new board game, our first instinct is often to search for it on BoardGameGeek, verifing its ranking and rating. But do these criteria truly determine whether the game will be enjoyable for you? Is it played the most all around the world?
+When viewing the top 100 games on BoardGameGeek, I always ask myself how are some games ranked higher then others? Is Brass really the #1 game? Why is Lost Ruins of Arank ranked at 28 veruses Anachrony at 49.
 
-What’s even more frustrating for me is when I comparing games based on their ratings or rankings and end up making the wrong purchase. This is where BGG fails short, and you might end up with a game on your shelf that just isn’t for you. I imagine some hardcore board gamers would probably turn to YouTube for more reliable insights.
+I’ve noticed that certain common criteria in BGG ratings and board game critiques often impact a game's score or give it an undeserved negative impression. Don’t get me wrong—I value the community’s feedback—but there are three specific criteria that, in my opinion, shouldn’t influence a game’s rating.
 
-Don't get me wrong, I appreciate BGG ratings and still can provide you some overview of thee game
+- Length of gameplay
+- Setup time
+- Complexity of a game
+
+I strongly believe these three points should be highlighted for newcomers exploring a game, as it can help prevent disappointment once they have the game in hand or from leaving the hobby out of frustration.
+
+However, these factors shouldn’t give the game a negative reputation or make it difficult for the community to embrace it. This is why I tend to overlook these types of criteria and have ultimately help me discover more enjoyable games.
 
 ## BoardGameGeek's Rating System
 
-I won't get to the details and algorthriums of how these board games are rated and ranked on BoardGameGeek. For a quick idea how it works, users rate and write up a small review. Depending on the numbers of ratings, it will increase or decrease the rating of the game. Here is a good video of how this is explained here:
+First, let’s touch on the rating system in BGG. Without diving into the specifics or algorithms, here’s a quick overview: as we all know, users rate games and often write brief reviews. The overall rating of a game will increase or decrease depending on the number of ratings it receives.
 
-There are considerations they handle for example the amount of ratings. If a new game is released and get 10 ratings all rated at 9.5, does it mean it will be on top? Usually new games start off with default low ratings as users can't target high ratings to increase the ranking high up so quickly.
+BGG takes certain factors into account, such as the number of ratings a game has received. For instance, if a new game is released and gets 10 ratings, all at 9.5, does that mean it will automatically reach the top? Typically, new games start with a default lower rating because the system is designed to prevent a few high ratings from quickly boosting a game's ranking to the top.
 
-Good explaination of the whole BGG rating system:
+Might be off the topic a little but check out this video for a good explaination of the BGG rating system:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UqFvEzhjSfI?si=WvgP82DzZmtaDnWa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I won't suggest the best way of rating the game but as I see some BGG users affect ratings based on these criterias.
+## Length of Gameplay
 
-- Length of gameplay
-- setup time
-- complexity of a game
+Longer games often have more time to develop narratives, backstories, and thematic elements, leading to a more immersive experience. Players can spend more time exploring the game’s universe, building connections with the characters, setting, and storyline. Also the longer duration can make victories feel more rewarding, as they often require sustained effort, planning, and adaptation.
 
-- explain that setup time should not be considered part of the rating. It should warn people as it may cause fustration and time wasted for
+Longer games allow for extended interaction between players, leading to deeper conversations, alliances, and rivalries. The length of the game can create a memorable shared experience that players can talk about long after the game is over. if this game contains this aspect right off the bat it should be rated higher for this specific niche of gamers.
+
+Why should this influence a game’s rating? While I believe it’s important to discuss and share these factors with the board game community, they shouldn't necessarily affect the rating.
+
+## Setup & Tear downtime
+
+## Complexity
 
 - talk about Lost ruins of arnark being why ranked so high
 
@@ -38,6 +48,7 @@ I won't suggest the best way of rating the game but as I see some BGG users affe
 Mention about folded inserts. How that can increase the spped of the setup if that i sone cause of stopping you playing the game.
 
 - Game reviewers repeat some of the stuff that other reviewers may say. (Maybe not related with BGG ratings)
+- SHould an expansion bring up the rating of tthe base game?
 
 Imperium horizons is another example how
 
