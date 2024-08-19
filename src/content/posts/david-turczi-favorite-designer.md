@@ -2,7 +2,7 @@
 title: "Why David Turczi is My Favorite Solo Board Game Designer"
 published: 2024-08-19
 description: "Explore why David Turczi's solo board games, like Anachrony and Voidfall, offer top-notch gameplay. Discover his unique designs and what sets them apart."
-tags: []
+tags: ["David Turczi"]
 category: Designer
 image: "./general/david-turczi/david-turczi-cover.png"
 draft: false
