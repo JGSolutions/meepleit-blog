@@ -1,15 +1,15 @@
 ---
-title: "David Turczi: My Favorite Solo Board Game Designer"
-published: 2024-08-26
-description: "A big fan of David Turczi, leading solo board game designer known for his innovative and engaging games."
+title: "Why David Turczi is My Favorite Solo Board Game Designer"
+published: 2024-08-19
+description: "Explore why David Turczi's solo board games, like Anachrony and Voidfall, offer top-notch gameplay. Discover his unique designs and what sets them apart."
 tags: []
 category: Designer
+image: "./general/david-turczi/david-turczi-cover.png"
 draft: false
 author: Jerry Gagliano
 ---
 
-
-I play all my games solo. Solo play has always been my primary criterion when purchasing a game. I rarely considered the designer of the game, as I was more focused on the mechanics and theme. In this blog, I’ll explore how and why David has become one of my favorite designers for solo gaming.
+Solo play has always been my primary criterion when purchasing a game. I rarely considered the designer of the game, as I was more focused on the mechanics and theme. In this blog, I’ll explore how and why David has become one of my favorite designers for solo gaming.
 
 David Turczi, a prominent board game designer, has become a significant influence on me over the past year. Every time I hear his name mentioned in connection with a board game, I can't help but get curious and immediately check it out. He is well-known and respected for releasing several highly-rated and frequently played games throughout his career. Specializing in solo modes, he is renowned for his intricate Eurogames. Here is a list of some of his notable games:
 
@@ -69,7 +69,7 @@ David's involvement in the solo mode wasn't from the very beginning, but he cont
 
 ## My Collection of Games by David Turczi
 
-Most of the games in my collection are by David. Here’s a list of the ones I currently enjoy along with some I’m considering buying in the future.
+Most of the games in my collection are from David. Here’s a list of the ones I currently enjoy along with some I’m considering buying in the future.
 
 - Europa Universalis - The Price of Power
 - Undaunted Reinforcements - Normandy & North Africa
