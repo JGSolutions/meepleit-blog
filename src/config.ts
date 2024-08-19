@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/bio-profile.png',
+  avatar: 'assets/images/jerry-avatar.png',
   name: 'Meepleit',
   bio: 'Meeple your way into discovering board games. Passionate about board games, sharing game play experiences and strategies.',
   links: [
