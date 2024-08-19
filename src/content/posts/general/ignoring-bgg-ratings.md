@@ -1,22 +1,22 @@
 ---
 title: "Why I Stopped Evaluating Games Based on BGG Ratings"
-published: 2024-08-22
-description: "We should all stop basing an interest over a game"
+published: 2024-08-26
+description: "BoardGameGeek ratings can be misleading due to factors like game length, setup time, complexity. Focus on what you enjoy rather than rankings for a better experience."
 tags: [Board Games]
 category: Personal
 draft: false
 author: Jerry Gagliano
 ---
 
-Over the past few months, I've realized that relying too heavily on BoardGameGeek ratings and rankings can sometimes be misleading. It might lead you to purchase games that don't suit your tastes or miss out on hidden gems. Whenever I browse the top 100 games on BoardGameGeek, I find myself questioning the rankings: How do certain games end up ranked higher than others? Is Brass really deserving of the #1 spot? And why is Lost Ruins of Arnak ranked at 28 while Anachrony lingers at 49?
+Over the past few months, I've realized that relying too heavily on BoardGameGeek ratings and rankings can sometimes be misleading. It might lead you to purchase games that don't suit your tastes or miss out on hidden gems. Whenever I browse the top 100 games on BoardGameGeek, I find myself questioning the rankings: How do certain games end up ranked higher than others? Is Brass really deserving of the #1 spot? And why is Lost Ruins of Arnak ranked at 28 while Anachrony lingers at 49 which I enjoy Anachrony much better.
 
 I’ve noticed that certain comments or rating being based on criteria in BGG ratings which can impact a game's score or give it an undeserved negative impression. Don’t get me wrong, I value the community’s feedback, but there're three specific criteria that, in my opinion, shouldn’t influence a game’s rating.
 
-- Length of gameplay
+- Length of a game
 - Setup time
-- Complexity of a game
+- Complexity
 
-I strongly believe these three points should be highlighted for newcomers exploring a game, as it can help prevent disappointment once they have the game in hand or from leaving the hobby out of frustration.
+I strongly believe these three points should be highlighted and mentioned for newcomers exploring a game, as it can help prevent disappointment once they have the game in hand or from leaving the hobby out of frustration.
 
 However, these factors shouldn’t give the game a negative reputation or make it difficult for the community to embrace it. This is why I tend to overlook these types of criteria and have ultimately help me discover more enjoyable games.
 
@@ -53,22 +53,22 @@ If a game has fantastic gameplay but a complicated setup, it might be worth inve
 
 ## Complexity
 
-Here is another comment I seen often "This game is too complex for what is! I'm rating it at [x]". Then I raise my arms in the air. I understand the user may not like the complexity that is a personal opinion. Again I would like to ask "How is the gameplay once you understand the complexity?"
+Here's another comment I often see: "This game is too complex for what it is, so I'm rating it [x]." I can't help but throw my hands up in frustration. I get that the user might not enjoy the complexity, which is a matter of personal preference. But I’d like to ask, "How does the gameplay feel once you've grasped the complexity?"
 
-The complexity of a game brings up the replay value. With diverse mechanics, strategies, and scenarios, complex games often offer high replay value as each session can unfold differently. Lots of small rulees are required to be remembered but this can showcase the interesting mechanics of the game. Complex games can help players develop and refine various skills, such as problem-solving, resource management, and strategic planning.
+With diverse mechanics, strategies, and scenarios, complex games often offer high replay value as each session can unfold differently. Lots of small rulees are required to be remembered but this can showcase the interesting mechanics of the game. Complex games can help players develop and refine various skills, such as problem-solving, resource management, and strategic planning.
 
-One example are reviews about Europa Universalis: The Price of Power. Reviewers bashed the game complexity. I respect their thoughs at the same time reviewers have a bunch of games lined up waiting to be reviewed. There are games where I think that can't be reviewed
+One example that comes to mind is the reviews and comments about Europa Universalis: The Price of Power. Some reviewers have criticized the game for its complexity. While I respect their opinions, I also understand that reviewers often have a backlog of games waiting to be reviewed, which might not give them the time needed to fully appreciate certain titles.
 
-This game is meant to be played this way and made the hardcore gamers in this niche. For people that love these type of strategy games and play for hours. Should this game be bashed?
+This game is designed for a specific audience—hardcore gamers who enjoy deep strategy and are willing to invest hours into gameplay. Is it fair to criticize a game like this for being complex when it’s meant to be played that way? Should it really be bashed for catering to its niche?
 
-## Other
+## Expanions
 
-Expansion can also bring up rating that might give a different perpestive. Usually this happend where the base was ok but then the expansions were released and the ranking and rating increased.
+I’ve noticed that some users raise the ratings of a base game after playing its expansion, which can be misleading. While an expansion can certainly improve the base game, it shouldn’t influence the rating of the base game alone. For new players, expansions might not be a priority, so seeing a high rating based on an expansion can be deceptive.
 
-For some users that are new to the game won't care about expansions to start off. By seeing the rating or ranking it can fool them easily. I think expansions should not be part of the rating for the base game.
+I found out the hard way when I bought Lost Ruins of Arnak along with its expansion, Expedition Leaders, based on community ratings that suggested the base game only truly shines with the expansion. While the expansion did improve the gameplay, it still wasn’t to my liking. After a few plays, I ended up selling the game.
 
-I was the victim of this as I went off buy the expansion of Lost Ruin of Arnack same time as the base game. Becuase community was saying the base game needs the expansion andd provided a high rating. I did play with and without the expansion which did spice up the game but again not really my liking.
+##
 
-<!-- One example is hearing out EU how long a round and event the setup can be. This game is meant to be played this way. I's for the hardcore gamer niche. For people that love these type of strategy games and play for hours. Should this game be bashed? -->
+In conclusion, while BoardGameGeek ratings and rankings offer valuable insights, it's important not to rely on them too heavily. The community's feedback can sometimes be influenced by these 3 factors such as game length, setup time, complexity, and expansions—factors that may not reflect the core experience of the base game. These elements should be considered separately, especially for newcomers, to prevent misunderstandings or disappointment.
 
-Explain that you must play a game to fully understand and like it at the end of the day. Do not depend on bgg too much. Maybe it's great to help you discover new game sin the bgg Hotness
+Instead of focusing solely on ratings, I recommend diving deeper into the specific aspects of a game that appeal to your preferences. By doing so, you’re more likely to discover games that truly resonate with you, rather than being swayed by rankings that might not align with your tastes. Ultimately, understanding what you enjoy in a game will lead to a more satisfying and personalized gaming experience.
