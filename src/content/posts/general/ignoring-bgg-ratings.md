@@ -8,9 +8,9 @@ draft: false
 author: Jerry Gagliano
 ---
 
-When viewing the top 100 games on BoardGameGeek, I always ask myself how are some games ranked higher then others? Is Brass really the #1 game? Why is Lost Ruins of Arnak ranked at 28 while Anachrony is hanging at 49?
+Over the past few months, I've realized that relying too heavily on BoardGameGeek ratings and rankings can sometimes be misleading. It might lead you to purchase games that don't suit your tastes or miss out on hidden gems. Whenever I browse the top 100 games on BoardGameGeek, I find myself questioning the rankings: How do certain games end up ranked higher than others? Is Brass really deserving of the #1 spot? And why is Lost Ruins of Arnak ranked at 28 while Anachrony lingers at 49?
 
-I’ve noticed that certain common criteria in BGG ratings and board game critiques often impact a game's score or give it an undeserved negative impression. Don’t get me wrong, I value the community’s feedback, but there are three specific criteria that, in my opinion, shouldn’t influence a game’s rating.
+I’ve noticed that certain comments or rating being based on criteria in BGG ratings which can impact a game's score or give it an undeserved negative impression. Don’t get me wrong, I value the community’s feedback, but there're three specific criteria that, in my opinion, shouldn’t influence a game’s rating.
 
 - Length of gameplay
 - Setup time
@@ -29,27 +29,31 @@ BGG takes certain factors into account, such as the number of ratings a game has
 Might be off the topic, but check out this video for a good explaination of the BGG rating system:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UqFvEzhjSfI?si=WvgP82DzZmtaDnWa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Lets get into the 3 main points.
+
 ## Length of Gameplay
 
-Longer games often have more time to develop narratives, backstories, and thematic elements, leading to a more immersive experience. Players can spend more time exploring the game’s universe, building connections with the characters, setting, and storyline. Also longer duration can make victories feel more rewarding, as they often require sustained effort, planning, and adaptation.
+I frequently come across this perspective and have seen games rated according to these criteria, but I completely disagree with it. Here's why I believe lengthy games add significant value to a collection:
 
-Longer games allow for extended interaction between players, leading to deeper conversations, alliances, and rivalries. The length of the game can create a memorable shared experience that players can talk about long after the game is over. If a game contains these aspects right off the bat it should be rated higher for this specific niche of gamers.
+Longer games often have the advantage of developing richer narratives, backstories, and thematic elements, resulting in a more immersive experience. Players have the opportunity to delve deeper into the game’s universe, forming stronger connections with characters, settings, and storylines. Additionally, the extended duration of these games can make victories feel more rewarding, as they typically require sustained effort, strategic planning, and adaptability.
+
+Lengthy games also foster prolonged interaction among players, leading to more meaningful conversations, alliances, and rivalries. The length of the game contributes to a memorable shared experience, something players can reminisce about long after the game has ended. If a game excels in these areas, it deserves a higher rating within this particular niche of gamers.
 
 ## Setup & Tear downtime
 
-Another criteria that does not make sense to. I've seen comments on BGG "This game takes too long to setup so I give it a rating of 6." I read this and I just don't know what to think. I do ignore it butfat is its affecting the overall rating.
+Here's another criterion that I find puzzling. I've seen comments on BGG like, "This game takes too long to set up, so I rate it at [x]." When I read this, I'm left baffled. While I usually ignore such comments, it's frustrating to think they might be influencing the overall rating.
 
-But I would love to ask some users this question. "When you overcame the setup time and actually played the game, how did it play? I have games in my collecton where users did complain about setup and teardown and I totally have no issues with as it takes 10 minutes or less.
+I'd love to ask some users, "After you got past the setup time and actually played the game, how was the experience?" In my collection, I have games where people have complained about the setup and teardown, yet I find no issue with it since it takes 10 minutes or less.
 
-If a game features numerous components or a specific setup for 2-3 players, it often indicates that the gameplay will likely be very strategic, deep, and challenging. I've encountered games where setup took just 2 minutes but the playtime was only 30 minutes. This suggests a trade-off between setup time and gameplay duration.
+If a game has numerous components or a specific setup for 2-3 players, it often means the gameplay is likely to be strategic, deep, and challenging. On the other hand, I've played games where setup only took 2 minutes, but the playtime was a mere 30 minutes, suggesting a trade-off between setup time and gameplay depth.
 
-I played Lost Ruins of Arnak, where the setup was quick, but I found the gameplay dull and not to my taste. Should I have rated it highly just because the setup time was short?
+I've had Lost Ruins of Arnak, where the setup was quick, but I found the gameplay dull and not to my taste. Should I have rated it highly just because the setup time was short?
 
-If the gameplay is excellent but the setup is a major hassle, consider investing in a Folded Space insert to streamline setup and teardown. If game publishers included a proper insert for games, would that positively influence the game's rating?
+If a game has fantastic gameplay but a complicated setup, it might be worth investing in a Folded Space insert to simplify the process. If publishers included proper inserts from the start, would that also positively impact the game's rating?
 
 ## Complexity
 
-Here is another comment I see often "This game is too complex for what is! I'm rating it at [x]". Then I raise my arms in the air. I understand the user may not like the complexity that is a personal opinion. Again I would like to ask "How is the gameplay once you understand the complexity?"
+Here is another comment I seen often "This game is too complex for what is! I'm rating it at [x]". Then I raise my arms in the air. I understand the user may not like the complexity that is a personal opinion. Again I would like to ask "How is the gameplay once you understand the complexity?"
 
 The complexity of a game brings up the replay value. With diverse mechanics, strategies, and scenarios, complex games often offer high replay value as each session can unfold differently. Lots of small rulees are required to be remembered but this can showcase the interesting mechanics of the game. Complex games can help players develop and refine various skills, such as problem-solving, resource management, and strategic planning.
 
