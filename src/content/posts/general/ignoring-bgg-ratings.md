@@ -1,7 +1,7 @@
 ---
 title: "Why I Stopped Evaluating Games Based on BGG Ratings"
 published: 2024-08-22
-description: "We should all stop basing an interest over a game "
+description: "We should all stop basing an interest over a game"
 tags: [Board Games]
 category: Personal
 draft: false
