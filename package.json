@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build && pagefind --site dist",
-    "deploy": "firebase deploy --only hosting:blog-meepleit",
+    "deploy": "astro build && pagefind --site dist && firebase deploy --only hosting:blog-meepleit",
     "preview": "astro preview",
     "astro": "astro",
     "new-post": "node scripts/new-post.js",
