@@ -2,7 +2,7 @@
 title: "Lesson Learned in Dune: War for Arrakis"
 published: 2024-08-15
 description: "Dune: War of Arrakis strategic insights and lessons learned playing with the Atredies."
-tags: [Dune War of Arrakis]
+tags: ["Dune: War for Arrakis"]
 category: Session
 draft: false
 author: Jerry Gagliano
