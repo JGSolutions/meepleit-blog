@@ -24,8 +24,12 @@ My Scout got the desserted vehicle and began driving back to help out the other 
 
 LRDG's sergrent got out of the vehicle with have 2 combat cards action they were able to move into the objective area and another action to control the area which then the italians surrendered and the LRDG won the war.
 
-Overall I did not play this well. Wasted too much time having the Scout running after the the scout car. I should have build up my troops by bolstering and wait for the enemies to approach and defend the objective points. Instead I had them scattered around trying to attack them from different angles which did not work so well. I also wasn't luck with the dice numbers and we missed our target quite a few times.
+Overall I did not play this well. Wasted too much time having the Scout running after the the scout car. At the nd of the day the scout car wasn't to effective. I should have build up my troops by bolstering and wait for the enemies to approach and defend the objective points. Instead I had them scattered around trying to attack them from different angles which did not work so well. I also wasn't luck with the dice numbers and we missed our target quite a few times.
 
-The vehicle mechanics in the scenario plays well. I like the fact how effective the vehicles are and how they came storming into the objectives. At the same time to attack the vehicles only certain toops like Antitank Rifleman can cause damage to a vehicle and then a casuality to one of the troops inside the vehicle.
+Another strategy I should have performed was surpressing the enemies which slows the opponent down. Basically when hit, the combat token gets flipped on the other side. Then opponent requires an action to flip it back for combat actions. The chances are higher to suppress than to attack as it requires 4 dice to roll.
+
+The vehicle mechanics in the scenario plays well. I like the fact how effective the vehicles are and how they can come storming into the objectives. At the same time, to attack the vehicles only certain troops like Antitank Rifleman can cause damage to a vehicle and then also cause a casuality to one of the troops inside the vehicle.
+
+Scenario 3 is not  a big map and very little complexity but still has some interesting strategies. This is the first map that introduces vehicles it's a good learning point how to use the vehicle mechanics attacking or defending. The game length can be between 30 and 45 minutes of course depends how lucky 
 
 
