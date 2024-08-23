@@ -11,9 +11,9 @@ author: Jerry Gagliano
 
 It's January 11, 1941, the Italians land in South-westen Libya to capture the airfield as the LRDG's objective is to prevent the Italian from garrison the airfield in Undaunted North Africa.
 
-I played the Italians in Scenario 3 in Undaunted North Africa, as we needed to neutralize the LRDG Sergeant and Staff Sergeant and the LRDG troop need too claim 1 objective point.
+In Scenario 3 of Undaunted: North Africa, I played as the Italians, aiming to neutralize the bot-controlled LRDG Sergeant and Staff Sergeant, while the LRDG troops needed to capture an objective point.
 
-Scenario 3 is not a complex or tough as there are a limited number of units that are set in the game setup but introduces vehicles as combat which will be bit harder and more tatical strategies involved. The LRDG units will be on the offensive side as they will come storming in to claim their objective point.
+Scenario 3 isn't particularly complex or challenging, with only a limited number of units in the game setup. However, it introduces vehicles into combat, adding a layer of difficulty and requiring more tactical strategies. The LRDG units will take an offensive role, storming in to capture their objective point.
 
 North Africa is typically more asymmetrical than the Normandy series. In this scenario, for example, the LRDG benefits from having vehicles that can carry more units, giving them an early advantage. On the other hand, the Italians are on foot. Although the LRDG will have access to Snipers, the Italians are equipped with Antitank Riflemen to counter the enemy's vehicles.
 
