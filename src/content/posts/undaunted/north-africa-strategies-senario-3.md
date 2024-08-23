@@ -5,6 +5,7 @@ description: "Discover strategies for Scenario 3 of Undaunted: North Africa, wit
 tags: ["Undaunted North Africa"]
 category: Strategy
 draft: false
+image: "./scenario3/scenario-3-undaunted-north-africa.jpg"
 author: Jerry Gagliano
 ---
 
@@ -37,6 +38,6 @@ Another strategy I should have performed was surpressing the enemies which slows
 
 The vehicle mechanics in the scenario plays well. I like the fact how effective the vehicles are and how they can come storming into the objectives. At the same time, to attack the vehicles only certain troops like Antitank Rifleman can cause damage to a vehicle and which then causes a casuality to one of the troops inside the vehicle.
 
-Scenario 3 is not a big map and very little complexity but still has some interesting strategies. This is the first map that introduces vehicles it's a good learning point how to use the vehicle mechanics attacking or defending. The game length can be between 30 and 45 minutes of course depends how lucky 
+Scenario 3 features a small map with minimal complexity, yet it offers some intriguing strategies. It's the first scenario to introduce vehicles, making it an excellent starting point for learning about vehicle mechanics. The game length can be between 30 and 45 minutes of course depends how lucky 
 
 
