@@ -1,9 +1,9 @@
 ---
-title: "Undaunted North Africa: Senario 3 Strategies"
+title: "Undaunted North Africa: Scenario 3 Strategies"
 published: 2024-08-27
-description: "Explanation on some strategies for senario 3 of Undaunted North Africa"
+description: "Discover strategies for Scenario 3 of Undaunted: North Africa, with tips to enhance your gameplay and achieve victory in this challenging scenario."
 tags: ["Undaunted North Africa"]
-category: Playthrough
+category: Strategy
 draft: false
 author: Jerry Gagliano
 ---
@@ -14,22 +14,29 @@ I played the Italians in Scenario 3 in Undaunted North Africa, as we needed to n
 
 Scenario 3 is not a complex or tough as there are a limited number of units that are set in the game setup but introduces vehicles as combat which will be bit harder and more tatical strategies involved. The LRDG units will be on the offensive side as they will come storming in to claim their objective point.
 
-The LRDG have an advantage at the start of the game as they are already placed in vehicles with with more armary. The Italians are on foot but need to race to the desserted Scout car. Some Italian units need to stay behind and protect the objective point as the LRDG can come storming in with their vehicles.
+The LRDG have an advantage at the start of the game as they are already placed in vehicles with with more troops. The Italians are on foot and must rush to the abandoned Scout car. However, some Italian units need to stay back and defend the objective point, as the LRDG could charge in with their vehicles at any moment.
+
+
+![Undaunted Scout Car](./scenario3/scout-car.jpg "Undaunted Scout Car")
 
 I immediately dispatched the Scout to begin reconnaissance and head towards the unoccupied Scout car. My plan was to quickly pick up units that can bolster our combat strength. Vehicles offer a significant advantage by enabling faster and safer troop transport, but we must remain vigilant as the LRDG anti-tank units pose a constant threat.
 
 The LRDG troops begin driving in and at the same time their snipers shooting from long range distances. I did move my anitank gunner to get closer to the enemies which wasn't smart but the sniper sniping me causing a causilty. Their troops grew stronger by bolstering. Sametime they were navigating, which means they are able to scout from the vehicle then eventually drive through the lands.
 
-My Scout got the desserted vehicle and began driving back to help out the other troops as danger was starting to form around the objective points. My Scout arrived close to the enimey vehicle but they were too strong. Again attacking my antitank gunner and my Scout. I should of went around the enimes and stay futher away from them. Either way they had so much fire power. I did get some casulites but not enough. I also did roll some bad dices and not enough luck on my side.
+![Combat Actions](./scenario3/battle.jpg "Combat Actions")
 
-LRDG's sergrent got out of the vehicle with have 2 combat cards action they were able to move into the objective area and another action to control the area which then the italians surrendered and the LRDG won the war.
+My Scout got the desserted vehicle and began driving back to help out the other troops as danger was starting to form around the objective points. My Scout arrived close to the enimey vehicle but they were too strong as they were attacking my Antitank Gunner and my Scout. I should have avoided the enemies and kept more distance from them. Regardless, they had overwhelming firepower. I inflicted some casualties, but it wasn't enough. Unfortunately, I also rolled poorly and didn't have much luck on my side.
 
-Overall I did not play this well. Wasted too much time having the Scout running after the the scout car. At the nd of the day the scout car wasn't to effective. I should have build up my troops by bolstering and wait for the enemies to approach and defend the objective points. Instead I had them scattered around trying to attack them from different angles which did not work so well. I also wasn't luck with the dice numbers and we missed our target quite a few times.
+![Troop Claiming Objective](./scenario3/troop-capturing.jpg "Troop Claiming Objective")
 
-Another strategy I should have performed was surpressing the enemies which slows the opponent down. Basically when hit, the combat token gets flipped on the other side. Then opponent requires an action to flip it back for combat actions. The chances are higher to suppress than to attack as it requires 4 dice to roll.
+The LRDG sergeant disembarked from the vehicle, using two combat card actions—one to move into the objective area and another to secure control. This led to the Italians surrendering, giving the LRDG the victory in the war.
 
-The vehicle mechanics in the scenario plays well. I like the fact how effective the vehicles are and how they can come storming into the objectives. At the same time, to attack the vehicles only certain troops like Antitank Rifleman can cause damage to a vehicle and then also cause a casuality to one of the troops inside the vehicle.
+Overall I did not play this well. Wasted too much time having the Scout running after the the scout car. At the end of the day the scout car wasn't to effective. I should have build up my units by bolstering and wait for the enemies to approach and defend the objective points. Instead I had them scattered around trying to attack them from different angles which did not work so well. I also didn't have luck with the dice numbers and we missed our target quite a few times.
 
-Scenario 3 is not  a big map and very little complexity but still has some interesting strategies. This is the first map that introduces vehicles it's a good learning point how to use the vehicle mechanics attacking or defending. The game length can be between 30 and 45 minutes of course depends how lucky 
+Another strategy I should have performed was surpressing the enemies which slows the opponent down. Basically when successful, the combat token gets flipped on the other side. Then opponent requires an action to flip it back for combat. The chances are higher to suppress than to attack as it requires 4 dice to roll.
+
+The vehicle mechanics in the scenario plays well. I like the fact how effective the vehicles are and how they can come storming into the objectives. At the same time, to attack the vehicles only certain troops like Antitank Rifleman can cause damage to a vehicle and which then causes a casuality to one of the troops inside the vehicle.
+
+Scenario 3 is not a big map and very little complexity but still has some interesting strategies. This is the first map that introduces vehicles it's a good learning point how to use the vehicle mechanics attacking or defending. The game length can be between 30 and 45 minutes of course depends how lucky 
 
 
