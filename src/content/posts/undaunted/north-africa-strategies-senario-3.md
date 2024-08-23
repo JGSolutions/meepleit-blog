@@ -15,7 +15,9 @@ I played the Italians in Scenario 3 in Undaunted North Africa, as we needed to n
 
 Scenario 3 is not a complex or tough as there are a limited number of units that are set in the game setup but introduces vehicles as combat which will be bit harder and more tatical strategies involved. The LRDG units will be on the offensive side as they will come storming in to claim their objective point.
 
-The LRDG have an advantage at the start of the game as they are already placed in vehicles with with more troops. The Italians are on foot and must rush to the abandoned Scout car. However, some Italian units need to stay back and defend the objective point, as the LRDG could charge in with their vehicles at any moment.
+North Africa is typically more asymmetrical than the Normandy series. In this scenario, for example, the LRDG benefits from having vehicles that can carry more units, giving them an early advantage. On the other hand, the Italians are on foot. Although the LRDG will have access to Snipers, the Italians are equipped with Antitank Riflemen to counter the enemy's vehicles.
+
+and must quickly move to the abandoned Scout car. However, some Italian units must remain behind to defend the objective point, as the LRDG could potentially advance with their vehicles at any time.
 
 
 ![Undaunted Scout Car](./scenario3/scout-car.jpg "Undaunted Scout Car")
@@ -36,8 +38,11 @@ Overall I did not play this well. Wasted too much time having the Scout running 
 
 Another strategy I should have performed was surpressing the enemies which slows the opponent down. Basically when successful, the combat token gets flipped on the other side. Then opponent requires an action to flip it back for combat. The chances are higher to suppress than to attack as it requires 4 dice to roll.
 
-The vehicle mechanics in the scenario plays well. I like the fact how effective the vehicles are and how they can come storming into the objectives. At the same time, to attack the vehicles only certain troops like Antitank Rifleman can cause damage to a vehicle and which then causes a casuality to one of the troops inside the vehicle.
+I really enjoy how the vehicle mechanics work and how powerful vehicles can be in the game. Each vehicle has three seats, and any troop can occupy them. The seat a unit is in determines the additional abilities they can use in combat. For instance, a unit can Navigate if positioned in the specific seat, while a Rifleman can use the Medium Tank to suppress enemies. However, only specific troops, like the Antitank Rifleman, can damage vehicles. Use vehicles wisely as your can transport mulipule units to a destination. When a vehicle is hit, it causes a casualty among the troops inside. Success also depends on a bit of luck, as rolling the right dice can be crucial to your strategy.
 
-Scenario 3 features a small map with minimal complexity, yet it offers some intriguing strategies. It's the first scenario to introduce vehicles, making it an excellent starting point for learning about vehicle mechanics. The game length can be between 30 and 45 minutes of course depends how lucky 
+Scenario 3 features a small map with minimal complexity, yet it offers some intriguing strategies. It's the first scenario to introduce vehicles, making it an excellent starting point for learning about vehicle mechanics. Quite a bit combat occurs as you rolling dice back and forth, as the Italians will try to defend the objectives and the LRDG will try to claim them. 
+
+This scenario can last around 30 minutes, depending on the dice rolls, making it a fun addition to family game night. North Africa offers 11 scenarios in total, and as you progress, the maps become larger, with more troops, mechanics, and strategies coming into play.
+
 
 
