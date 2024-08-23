@@ -66,11 +66,11 @@ export const profileConfig: ProfileConfig = {
       // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://www.instagram.com/meepleit/',
     },
-    // {
-    //   name: 'Meepleit Shop',
-    //   icon: 'fa6-solid:cart-shopping',
-    //   url: 'https://www.pinterest.com/meepleit',
-    // },
+    {
+      name: 'Meepleit Shop',
+      icon: 'fa6-solid:cart-shopping',
+      url: 'https://meepleit.com/shop-board-games',
+    },
   ],
 }
 
