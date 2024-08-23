@@ -1,37 +1,43 @@
-import type { APIContext, ImageMetadata, InferGetStaticPropsType } from "astro";
-import satori, { type SatoriOptions } from "satori";
-import { html } from "satori-html";
-import { getCollection } from 'astro:content';
-import { Resvg } from "@resvg/resvg-js";
-import { siteConfig } from '@/config';
+import { getCollection } from 'astro:content'
+import { siteConfig } from '@/config'
+import { Resvg } from '@resvg/resvg-js'
+import type { APIContext, ImageMetadata, InferGetStaticPropsType } from 'astro'
+import satori, { type SatoriOptions } from 'satori'
+import { html } from 'satori-html'
 
 /* TTF, OTF and WOFF, this import may not compatible with all static pages services (?) */
-import Roboto300 from "node_modules/@fontsource/roboto/files/roboto-latin-300-normal.woff";
-import Roboto700 from "node_modules/@fontsource/roboto/files/roboto-latin-700-normal.woff";
+import Roboto300 from 'node_modules/@fontsource/roboto/files/roboto-latin-300-normal.woff'
+import Roboto700 from 'node_modules/@fontsource/roboto/files/roboto-latin-700-normal.woff'
 
 const ogOptions: SatoriOptions = {
-	width: 1200,
-	height: 630,
-	// debug: true,
-	fonts: [
-		{
-			name: "Roboto",
-			data: Buffer.from(Roboto300),
-			weight: 400,
-			style: "normal",
-		},
-		{
-			name: "Roboto",
-			data: Buffer.from(Roboto700),
-			weight: 700,
-			style: "normal",
-		},
-	],
-};
+  width: 1200,
+  height: 630,
+  // debug: true,
+  fonts: [
+    {
+      name: 'Roboto',
+      data: Buffer.from(Roboto300),
+      weight: 400,
+      style: 'normal',
+    },
+    {
+      name: 'Roboto',
+      data: Buffer.from(Roboto700),
+      weight: 700,
+      style: 'normal',
+    },
+  ],
+}
 
-const markup = (title: string, published: Date, description?: string, category?: string, tags?: string[]) =>
+const markup = (
+  title: string,
+  published: Date,
+  description?: string,
+  category?: string,
+  tags?: string[],
+) =>
   /* Satori uses tailwind! Create or view a desing using https://og-playground.vercel.app/ */
-	html`
+  html`
     <div tw="flex flex-col w-full h-full justify-center bg-amber-800">
       <div tw="bg-gray-50 flex w-full">
         <div tw="flex flex-col md:flex-row w-full py-12 px-8 items-center">
@@ -42,13 +48,13 @@ const markup = (title: string, published: Date, description?: string, category?:
         </div>
       </div>
     </div>
-  `;
+  `
 
-type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+type Props = InferGetStaticPropsType<typeof getStaticPaths>
 
 /**
  * Route for dynamic Open Graph images.
- * This function will generate Open Graph images only if enabled in `config.ts`. 
+ * This function will generate Open Graph images only if enabled in `config.ts`.
  *
  * @returns {Promise<object>} An object containing the GET, getStaticPaths methods for astro.
  */
@@ -56,21 +62,26 @@ async function getOpenGraphData() {
   if (siteConfig.postOGImageDynamic) {
     return {
       GET: async function GET(context: APIContext) {
-        const {title, description, published, category, tags } = context.props as Props;
-        const svg = await satori(markup(title, published, description, category, tags), ogOptions);
-        const png = new Resvg(svg).render().asPng();
+        const { title, description, published, category, tags } =
+          context.props as Props
+        const svg = await satori(
+          markup(title, published, description, category, tags),
+          ogOptions,
+        )
+        const png = new Resvg(svg).render().asPng()
 
         return new Response(png, {
           headers: {
-            "Content-Type": "image/png",
-            "Cache-Control": "public, max-age=31536000, immutable",
+            'Content-Type': 'image/png',
+            'Cache-Control': 'public, max-age=31536000, immutable',
           },
-        });
+        })
       },
       getStaticPaths: async function getStaticPaths() {
-        const posts = await getCollection("posts");
-        const result = posts.filter(({ data }) => !data.draft)
-          .map((post) => ({
+        const posts = await getCollection('posts')
+        const result = posts
+          .filter(({ data }) => !data.draft)
+          .map(post => ({
             params: { slug: post.slug },
             props: {
               title: post.data.title,
@@ -79,13 +90,13 @@ async function getOpenGraphData() {
               category: post.data.category,
               tags: post.data.tags,
             },
-          }));
+          }))
         return result
-      }
+      },
     }
-  } else {
-    return { getStaticPaths: {}, GET: {} } ;
   }
+
+  return { getStaticPaths: {}, GET: {} }
 }
 
-export const { getStaticPaths, GET } = await getOpenGraphData();
+export const { getStaticPaths, GET } = await getOpenGraphData()
