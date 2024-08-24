@@ -27,6 +27,11 @@ export const siteConfig: SiteConfig = {
       // sizes: '32x32', // (Optional) Size of the favicon, set only if you have favicons of different sizes
     },
   ],
+  siteOGImage: {
+    enable: true,
+    src: '/demo-opengraph.png', // This image should be in the public folder, as its not processed by Astro
+  },
+  postOGImageDynamic: true,
 }
 
 export const navBarConfig: NavBarConfig = {
@@ -66,11 +71,11 @@ export const profileConfig: ProfileConfig = {
       // `pnpm add @iconify-json/<icon-set-name>`
       url: 'https://www.instagram.com/meepleit/',
     },
-    // {
-    //   name: 'Meepleit Shop',
-    //   icon: 'fa6-solid:cart-shopping',
-    //   url: 'https://www.pinterest.com/meepleit',
-    // },
+    {
+      name: 'Meepleit Shop',
+      icon: 'fa6-solid:cart-shopping',
+      url: 'https://meepleit.com/shop-board-games',
+    },
   ],
 }
 
