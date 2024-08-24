@@ -38,12 +38,12 @@ const markup = (
 ) =>
   /* Satori uses tailwind! Create or view a desing using https://og-playground.vercel.app/ */
   html`
-    <div tw="flex flex-col w-full h-full justify-center bg-amber-800">
+    <div tw="flex flex-col w-full h-full justify-center bg-[#BB1212]">
       <div tw="bg-gray-50 flex w-full">
         <div tw="flex flex-col md:flex-row w-full py-12 px-8 items-center">
           <h2 tw="flex flex-col font-bold tracking-tight text-gray-900 text-left">
             <span tw="text-3xl">${title}</span>
-            <span tw="text-amber-600 font-light text-xl">${description}</span>
+            <span tw="text-[#BB1212] font-light text-xl">${description}</span>
           </h2>
         </div>
       </div>
