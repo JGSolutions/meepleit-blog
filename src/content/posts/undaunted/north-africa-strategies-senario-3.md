@@ -35,16 +35,16 @@ The LRDG sergeant disembarked from the vehicle, using two combat cards, actions�
 
 ## Analysis and Reflection
 
-Winning the scenario isn't particularly challenging, but I didn't play it very well overall. I spent too much time having the Scout chase after the scout car, and in the end, the scout car wasn't very effective.
+Winning the scenario isn't particularly difficult, and the map doesn't have much activity, but I didn't play it well overall. I wasted too much time having the Scout chase after the scout car, which ultimately wasn't very effective.
 
-I had to build up my units by bolstering, wait for the enemies to approach and defend the objective points. Instead, I dispersed my forces, trying to attack from various angles, which didn’t work out well. Additionally, I had poor luck with the dice rolls, causing us to miss our target several times. In this game, dice rolling is crucial, as you need accurate hits to defeat your enemy.
+I had to strengthen my units through bolstering, then hold my position and defend the objective points as the enemies advanced. Instead, I dispersed my forces, trying to attack from various angles, which didn’t work out well. Additionally, I had poor luck with the dice rolls, causing  to miss our target several times. Dice rolling is crucial, as you need accurate hits to defeat your enemy.
 
 Another strategy I should have employed was suppressing the enemies, which would have slowed down the opponent. Basically when successful, the enemy's combat token gets flipped on the other side. Then opponent requires an action to flip it back for combat. The chances are higher to suppress than to attack as it requires four dice to roll.
 
-I really enjoyed how the vehicle mechanics work and how powerful vehicles can be in the game. Each vehicle has three seats, and any troop can occupy them. The seat a unit is in determines the additional abilities they can use in combat. For instance, a unit can Navigate if positioned in the specific seat, while a Rifleman can use the Medium Tank to suppress enemies. However, only specific troops, like the Antitank Rifleman, can damage vehicles. Use vehicles wisely as your can transport mulipule units to a destination. When a vehicle is hit, it causes a casualty among the troops inside. Success also depends on a bit of luck, as rolling the right dice can be crucial to your strategy.
-
-When the game ended, I found myself eager to replay the scenario. The experience sparked new ideas and strategies that I wanted to test out. I felt that with a fresh approach, I could improve my tactics and potentially achieve better results.
+I really enjoyed how the vehicle mechanics work and how powerful vehicles can be in the game. Each vehicle has three seats, and any troop can occupy them. The seat a unit is in determines the additional abilities they can use in combat. For instance, a unit can 'Navigate' if positioned in the specific seat, while a Rifleman can use the Medium Tank to suppress enemies. However, only specific troops, like the Antitank Rifleman, can damage vehicles. Use vehicles wisely as your can transport mulipule units to a destination. When a vehicle is hit, it causes a casualty among the troops inside. Success also depends on a bit of luck, as rolling the right dice can be crucial to your strategy.
 
 ## Conclusion
 
-Scenario 3 is a strong opening for the series, with the tension escalating as combat intensifies between infantry and vehicles. Most of the time, the opposing units start on opposite sides of the map and converge to defend or capture the objectives.
+When the game ended, I found myself eager to replay the scenario. The experience sparked new ideas and strategies that I wanted to try out. I felt that with a fresh approach, I could improve my tactics and potentially achieve better results.
+
+Scenario 3 is a strong opening for North Africa, with the tension escalating as combat intensifies between infantry and vehicles. Most of theses secanrios, the opposing units start on opposite sides of the map and converge to defend or capture the objectives.
