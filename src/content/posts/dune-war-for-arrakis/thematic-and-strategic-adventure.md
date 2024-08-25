@@ -1,7 +1,7 @@
 ---
 title: "Dune: War for Arrakis – A Thematic and Strategic Adventure for Dune Fans"
 published: 2024-07-29
-description: Epic head-to-head battle set in the immersive world of Dune.
+description: "Explore the thematic and strategic depth of Dune: War for Arrakis on Meepleit. Dive into a rich board game experience with unique mechanics and immersive gameplay."
 tags: ["Dune: War for Arrakis"]
 category: Theme
 draft: false
