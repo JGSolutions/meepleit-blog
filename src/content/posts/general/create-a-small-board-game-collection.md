@@ -1,7 +1,7 @@
 ---
-title: "How to Create a Perfect Board Game Collection: Quality Over Quantity"
+title: "Create a Small Board Game Collection: Top Tips"
 published: 2024-08-05
-description: Reasons to prioritize quality over quantity in board games
+description: "Learn how to create a small, curated board game collection with Meepleit. Discover tips for selecting versatile games that offer replayability, strategic depth, and solo play options without overwhelming your shelf space."
 tags: [Board Games]
 category: Personal
 draft: false
