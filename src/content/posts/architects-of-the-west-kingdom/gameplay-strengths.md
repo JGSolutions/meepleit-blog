@@ -5,10 +5,9 @@ description: "Explore the strengths of Architects of the West Kingdom on Meeplei
 tags: [Architects of the West Kingdom]
 category: Overview
 draft: false
+image: "./images/architects-cover.jpg"
 author: Jerry Gagliano
 ---
-
-![Architects of the west kingdom](./images/architects-cover.jpg "Architects of the west kingdom")
 
 Architects of the West Kingdom is a competitive game for 1 to 5 players, designed by Shem Phillips and SJ Macdonald. Set at the end of the Carolingian Empire circa 850 AD, as royal architects compete to impress their king and maintain their noble status by constructing various landmarks and the cathedral.
 
