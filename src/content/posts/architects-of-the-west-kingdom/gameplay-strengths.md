@@ -1,7 +1,7 @@
 ---
 title: "Being The Royal Architect in the Architects of The West Kingdom"
 published: 2024-08-02
-description: A summary of the game highlighting some intriguing features.
+description: "Explore the strengths of Architects of the West Kingdom on Meepleit. Discover its strategic gameplay, innovative worker placement, and unique mechanics."
 tags: [Architects of the West Kingdom]
 category: Overview
 draft: false
