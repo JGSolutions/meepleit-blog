@@ -27,6 +27,9 @@ importers:
       '@astrojs/tailwind':
         specifier: ^5.1.0
         version: 5.1.0(astro@4.14.5(@types/node@20.14.12)(lightningcss@1.25.1)(rollup@2.79.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)(typescript@5.5.4))(tailwindcss@3.4.10)
+      '@digi4care/astro-google-analytics':
+        specifier: ^1.0.0
+        version: 1.0.0(astro@4.14.5(@types/node@20.14.12)(lightningcss@1.25.1)(rollup@2.79.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)(typescript@5.5.4))
       '@fontsource-variable/jetbrains-mono':
         specifier: ^5.0.22
         version: 5.0.22
@@ -1007,6 +1010,11 @@ packages:
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [win32]
+
+  '@digi4care/astro-google-analytics@1.0.0':
+    resolution: {integrity: sha512-c4gFvCVL2P0OSdLt+CbjeHxW3kWRXGF9r1lHY1Trqg3gont5TPqSC0X96XDOJ5HtwPnBHoKFZNJgwQBnv+KVPA==}
+    peerDependencies:
+      astro: ^1.2.1 || ^2.0.0 || ^3.0.0-beta.0 || ^3.0.0 || ^4.0.0
 
   '@emmetio/abbreviation@2.3.3':
     resolution: {integrity: sha512-mgv58UrU3rh4YgbE/TzgLQwJ3pFsHHhCLqY20aJq+9comytTXUDNGG/SMtSeMJdkpxgXSXunBGLD8Boka3JyVA==}
@@ -6255,6 +6263,10 @@ snapshots:
 
   '@biomejs/cli-win32-x64@1.8.3':
     optional: true
+
+  '@digi4care/astro-google-analytics@1.0.0(astro@4.14.5(@types/node@20.14.12)(lightningcss@1.25.1)(rollup@2.79.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)(typescript@5.5.4))':
+    dependencies:
+      astro: 4.14.5(@types/node@20.14.12)(lightningcss@1.25.1)(rollup@2.79.1)(sass@1.77.8)(stylus@0.63.0)(terser@5.31.3)(typescript@5.5.4)
 
   '@emmetio/abbreviation@2.3.3':
     dependencies:
