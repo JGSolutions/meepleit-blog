@@ -1,7 +1,7 @@
 ---
 title: "Dune: War for Arrakis – A Thematic and Strategic Adventure for Dune Fans"
 published: 2024-07-29
-description: "Explore the thematic and strategic depth of Dune: War for Arrakis on Meepleit. Dive into a rich board game experience with unique mechanics and immersive gameplay."
+description: "Immerse yourself in the thematic world of 'Dune: War for Arrakis,' a strategic board game where you command the Atreides or Harkonnen in a battle for control of spice on the desert planet Arrakis"
 tags: ["Dune: War for Arrakis"]
 category: Theme
 draft: false
@@ -9,6 +9,10 @@ author: Jerry Gagliano
 ---
 
 ![Dune War for Arrakis](./dune-war-for-arrakis.jpg "Dune War for Arrakis")
+
+:::note[Publisher]
+CMON Global Limited in 2024
+:::
 
 I recently had the chance to dive into the world of "Dune: War for Arrakis," an epic head-to-head game that stands out from the Dune Imperium series by focusing more on combat and area control.
 
