@@ -41,7 +41,7 @@ const markup = (
 <div style='height: 100%;width: 100%; display: flex; align-items: center; flex-direction: column; background-color:#fff'>
   <div style='flex: 1; display: flex; justify-content: center; align-items: center; width: 100%'>
       <div style='width: 70%; border-left: 10px solid #BB1212; padding: 30px; display: flex; flex-direction: column'>
-        <span style='display: flex; font-size: 36px; font-weight: 600;'>${title}</span>
+        <span style='display: flex; font-size: 42px; font-weight: 600;'>${title}</span>
       </div>
     </div>
   <div style='display: flex; align-items: center; height: 100px; width: 100%; padding-left: 80px'>
