@@ -1,5 +1,5 @@
 ---
-title: "Why David Turczi Is My Top Choice for Solo Board Game Design"
+title: "Why David Turczi Is My Top Choice for Solo Board Gaming"
 published: 2024-08-19
 description: "Discover why David Turczi stands out as my favorite solo board game designer. Explore his impactful designs and collaborations that elevate solo gaming experiences."
 tags: ["David Turczi"]
