@@ -8,7 +8,7 @@ draft: false
 author: Jerry Gagliano
 ---
 
-Over the past few months, I've realized that relying too heavily on BoardGameGeek ratings and rankings can sometimes be misleading. It might lead you to purchasing games that don't suit your tastes or miss out on hidden gems. Whenever I browse the top 100 games on BoardGameGeek, I find myself questioning the rankings: How do certain games end up ranked higher than others? Is Brass: Birmingham really deserving of the #1 spot? And why is Lost Ruins of Arnak ranked at 28 while Anachrony lingers at 49 which I enjoy Anachrony much more.
+Over the past few months, I've realized that relying heavily on BoardGameGeek ratings and rankings can sometimes be misleading. It might lead you to purchasing games that don't suit your tastes or miss out on hidden gems. Whenever I browse the top 100 games on BoardGameGeek, I find myself questioning the rankings: How do certain games end up ranked higher than others? Is Brass: Birmingham really deserving of the #1 spot? And why is Lost Ruins of Arnak ranked at 28 while Anachrony lingers at 49 which I enjoy Anachrony much more.
 
 I’ve noticed that are certain comments or rating being based on these factors in BGG ratings which can impact a game's score or give it an undeserved negative impression. Don’t get me wrong, I value the community’s feedback, but here are the three specific factors that, in my opinion, shouldn’t influence a game’s rating.
 
@@ -20,7 +20,7 @@ I strongly believe these three factors should be highlighted and mentioned for n
 
 ## BoardGameGeek's Rating System
 
-First, let’s touch on the rating system in BGG. Without diving into the specifics or algorithms, here’s a quick overview: as we all know, users rate games and often write brief reviews. The overall rating of a game will increase or decrease depending on the number of ratings it receives.
+First, let’s touch on the rating system in BGG. Without diving into the specifics or algorithms. Here’s a quick overview: as we all know, users rate games and often write brief review. The overall rating of a game will increase or decrease depending on the number of ratings it receives.
 
 BGG takes certain factors into account, such as the number of ratings a game has received. For instance, if a new game is released and gets 10 comments & ratings, all at 9.5, does that mean it will automatically reach the top? Typically, new games start with a default lower rating because the system is designed to prevent a few high ratings from quickly boosting a game's ranking to the top.
 
@@ -47,10 +47,11 @@ If a game has numerous components or a specific setup for number of players, it 
 
 For example, Lost Ruins of Arnak, where the setup was quick, but I found the gameplay dull and not to my taste. Should I have rate it highly just because the setup time was short?
 
-If a game has fantastic gameplay but a complicated setup, it might be worth investing in a folded space insert to simplify the process. If publishers included proper inserts from the start, should that positively impact the game's rating? Check the photo below, Imperium Horizons with Legends/Classics that takes me about 5 min to setup with the folded space insert.
+If a game has fantastic gameplay but a complicated setup, it might be worth investing in a folded space insert to simplify the process. Check the photo below, Imperium Horizons with Legends/Classics that takes me about 5 min to setup with the folded space insert.
 
 ![folded-space-insert-imperium-horizons](./folded-space-insert-imperium-horizons.jpg "folded-space-insert-imperium-horizons")
 
+If publishers included proper inserts from the start, should that positively impact the game's rating?
 
 ## Complexity
 
@@ -58,7 +59,7 @@ Here's another comment I often see: "This game is too complex for what it is, so
 
 With diverse mechanics, strategies, and scenarios, complex games often offer high replay value as each session can unfold differently. Lots of small rulees are required to be remembered but this can showcase the interesting mechanics of the game. Complex games can help players develop and refine various skills, such as problem-solving, resource management, and strategic planning.
 
-One example that comes to mind is the reviews and comments about Europa Universalis: The Price of Power. Some reviewers have criticized the game for its complexity. While I respect their opinions, I also understand that reviewers often have a backlog of games waiting to be reviewed, which might not give them the time needed to fully appreciate certain titles. These type of lengthy game are designed for specific audience—hardcore gamers who enjoy deep strategy and are willing to invest hours into gameplay. 
+One example that comes to mind is the reviews and comments about Europa Universalis: The Price of Power. Some reviewers have criticized the game for its complexity. While I respect their opinions, I also understand that reviewers often have a backlog of games waiting to be reviewed, which might not give them the time needed to fully appreciate certain titles. These type of lengthy game are designed for specific audience—hardcore gamers who enjoy deep strategy and are willing to invest hours into gameplay.
 
 Is it fair to criticize a game for being complex when it’s meant to be played that way? Should it really be bashed for catering to its niche?
 
@@ -72,6 +73,6 @@ I found out the hard way when I bought Lost Ruins of Arnak along with its expans
 
 While BoardGameGeek ratings and rankings do offer valuable insights, it's important not to rely on them too heavily. The community's feedback can sometimes be influenced by these 3 factors such as game length, setup time, complexity, and expansions—factors that may not reflect the core experience of the base game. These elements should be considered separately, especially for newcomers, to prevent misunderstandings or disappointment.
 
-I don't pay much attention to BoardGameGeek ratings because they can be misleading. These factors don't really influence my board game collection. By ignorrong these factors I was able to truly discover hiddeen gem games. What matters is the current mood and the type of group, which determine the right game for the moment. As long as the theme and mechanics keep the game engaging for repeated play, that's what's important to me.
+I don't focus much on BoardGameGeek ratings because they can be misleading. By disregarding them, I've been able to uncover hidden gem games. What truly matters to me is the mood and the group I'm playing with, which guide the choice of the right game for the moment. As long as the theme and mechanics keep the game engaging for repeated play, that's what's important to me.
 
 Instead of focusing solely on ratings, I recommend diving deeper into the specific aspects of a game that appeal to your preferences, for example mechanics or theme. By doing so, you’re more likely to discover games that truly resonate with you, rather than being swayed by rankings that might not align with your tastes. Ultimately, understanding what you enjoy in a game will lead to a more satisfying and personalized gaming experience.
