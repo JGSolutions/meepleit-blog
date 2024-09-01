@@ -1,6 +1,6 @@
 ---
 title: "Why I Stopped Evaluating Games Based on BGG Ratings"
-published: 2024-08-26
+published: 2024-09-01
 description: "BoardGameGeek ratings can be misleading due to factors like game length, setup time, complexity. Focus on what you enjoy rather than rankings for a better experience."
 tags: [Board Games]
 category: Personal
@@ -41,13 +41,13 @@ Lengthy games also foster prolonged interaction among players, leading to more m
 
 Another factor that I find puzzling. I've seen comments on BGG like, "Game takes long to set up, so I rate it [x].". When I read this, I'm left baffled. While I usually ignore such comments, it's frustrating to think they might be influencing the overall rating.
 
-I'd love to ask some users, "After you got past the setup time and actually played the game, how was the experience?" In my collection, I own games that some people complain about setting up and tearing down, which takes 10 minutes or less.
+I'd like to reach out to some users by asking, "After you got past the setup time and actually played the game, how was the experience?" In my collection, I have games that some people find tedious to set up and tear down, yet it typically takes me 10 minutes or less.
 
 If a game has numerous components or a specific setup for number of players, it often means the gameplay is likely to be strategic, deep, and challenging. On the other hand, I've played games where setup only took 2 minutes, but the playtime was a mere 30 minutes, suggesting a trade-off between setup time and gameplay depth.
 
-For example, Lost Ruins of Arnak, where the setup was quick, but I found the gameplay dull and not to my taste. Should I have rate it highly just because the setup time was short?
+For example, Lost Ruins of Arnak, where the setup was quick, but I found the gameplay dull and not to my taste. Should I rate it highly just because the setup time was short?
 
-If a game has fantastic gameplay but a complicated setup, it might be worth investing in a folded space insert to simplify the process. Check the photo below, Imperium Horizons with Legends/Classics that takes me about 5 min to setup with the folded space insert.
+If a game has fantastic gameplay but a complicated setup, it might be worth investing in a folded space insert to simplify the process. Check the photo below, Imperium Horizons with Legends/Classics which takes me about 5 min to setup having the folded space insert.
 
 ![folded-space-insert-imperium-horizons](./folded-space-insert-imperium-horizons.jpg "folded-space-insert-imperium-horizons")
 
