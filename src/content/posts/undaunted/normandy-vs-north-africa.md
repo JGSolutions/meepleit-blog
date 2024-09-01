@@ -11,19 +11,23 @@ author: Jerry Gagliano
 
 If you’re stepping into the world of Undaunted, you’re in for a treat—but the choice between Normandy and North Africa might have you at a crossroads. Both games offer unique experiences, each capturing the intensity of World War II through different lenses.
 
-David Thompson & Trevor first designed Normandy and then evolved to North Africa for the second part of the series. By any means, they're not expansions nor cannot be played togther the way Imperium Horizon/Legends/Classics has incorporated that series. It's a whole trilogy series which includes other world war games Great Britian and Stalgrind. We will only get into Normandy and North Africa as you will see why later on in the article.
+David Thompson & Trevor first designed Normandy and then evolved to North Africa for the second part of the series. By any means, they're not expansions nor cannot be played togther the way Imperium Horizon/Legends/Classics has incorporated that series. It's a whole trilogy series which includes other world war games for example: Great Britian and Stalgrind. We will otouuch Normandy and North Africa as an expansion called Reinforcements exists which will provide you a clear direction what to choose.
 
-## Introduction
+## Theme
 
 Describe the theme between 2 games. Once setting in France (US vs German) the other in North African desert
 (LRDG vs Italians) I didn't know the italians fought in North Africa but pretty cool to learn about it
 
+## Specialized Units
+
 Describe the specialized units.
 
+## Mechanics
 Describe the vehicle mechanical part
 Some terrain can’t be navigated by vehicles, forcing your troops to get out and hoof it
 
-Describe dynamic objectives
+## Describe objectives
+
 How there are less objectives in North Africa and all fighting for limit objectives. Normanday contains alot more objectives which I findd iteasy as the first few objectives are easy to claim as you head deeper in the map that's when thimsg gets tense.
 
 ## Game Play
