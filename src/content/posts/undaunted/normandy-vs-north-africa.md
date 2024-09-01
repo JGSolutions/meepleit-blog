@@ -11,9 +11,9 @@ author: Jerry Gagliano
 
 If you’re stepping into the world of Undaunted, you’re in for a treat—but the choice between Normandy and North Africa might have you at a crossroads. Both games offer unique experiences, each capturing the intensity of World War II through different lenses.
 
-David Thompson & Trevor first designed Normandy and then evolved to North Africa for the second part of the series. By any means, they're not expansions nor cannot be played togther the way Imperium Horizon/Legends/Classics has incorporated that series. It's a whole trilogy series which includes other world war games for example: Great Britian and Stalgrind. We will otouuch Normandy and North Africa as an expansion called Reinforcements exists which will provide you a clear direction what to choose.
+David Thompson and Trevor Benjamin first crafted Undaunted: Normandy, which later evolved into Undaunted: North Africa as the second part of the series. However, these aren’t expansions and cannot be played together in the same way as the Imperium series (Horizons/Legends/Classics). Instead, Undaunted is a standalone trilogy, including other WWII titles like Undaunted: Stalingrad and Battle of Britain. We'll touch on Normandy and North Africa, but it’s worth noting that the Reinforcements expansion exists, which will help guide your decision on which one to explore first.
 
-## Theme
+## Theme & Components
 
 Describe the theme between 2 games. Once setting in France (US vs German) the other in North African desert
 (LRDG vs Italians) I didn't know the italians fought in North Africa but pretty cool to learn about it
@@ -23,10 +23,11 @@ Describe the theme between 2 games. Once setting in France (US vs German) the ot
 Describe the specialized units.
 
 ## Mechanics
+
 Describe the vehicle mechanical part
 Some terrain can’t be navigated by vehicles, forcing your troops to get out and hoof it
 
-## Describe objectives
+## Objective Goals inn Scenarios
 
 How there are less objectives in North Africa and all fighting for limit objectives. Normanday contains alot more objectives which I findd iteasy as the first few objectives are easy to claim as you head deeper in the map that's when thimsg gets tense.
 
@@ -42,6 +43,8 @@ Mention that the deck building part mechancism is the same
 
 Overall they are both great games that play the same way. As you can see there are some differences but you will still get the same combat excitement. Once you learn one the other will be easy to learn and get into.
 
-I would start off with Normandy as the game maybe be easier to learn without the mechanical part of the vechicles. But if you're up for the challenge part of the vehicles then North Africa is definelty fine to start with. There is not particularr order.
+I’d recommend starting with Normandy, as it’s easier to learn without the added complexity of vehicle mechanics. However, if you're up for a bit more of a challenge, North Africa is also a great place to begin—there's no set order to follow, so either choice is fine depending on your preference!
 
-Eventually when becoming a fan of the game be prepared to look into Reinforcements expansion that adds more content and scenarios for both games into one box. Not only that it adds a whole solo mode that you can play both games. Will eventually write up about this expanion which is coming soon
+Once you become a fan of the Undaunted series, you'll want to check out the Reinforcements expansion, which adds even more content and scenarios for both Normandy and North Africa in a single box. Not only does it enrich the gameplay, but it also introduces a full solo mode, allowing you to enjoy both games on your own.
+
+I’ll be writing more about this expansion soon, so stay tuned!
