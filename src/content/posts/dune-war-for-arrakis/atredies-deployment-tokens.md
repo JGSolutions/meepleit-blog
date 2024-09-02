@@ -1,10 +1,11 @@
 ---
 title: "Dune: War for Arrakis – Strategic Insights on Deploying Atreides Tokens"
-published: 2024-09-02
+published: 2024-09-06
 description: "Explore strategic tips on deploying Atreides tokens effectively in 'Dune: War for Arrakis,' mastering their unique abilities to gain an advantage in the struggle for Arrakis."
 tags: ["Dune: War for Arrakis"]
 category: Strategies
 draft: false
+image: './deployment-tokens/sietches-around-settlements.jpg'
 author: Jerry Gagliano
 ---
 
@@ -18,27 +19,29 @@ Maybe not! Here are some strategic reasons why revealing your deployment tokens 
 
 ## Overview Of The Atredies
 
-The Atredies are out in the outskirts of the dessert guarding their sietches which are surrounding the Harkonnens's settlements. They have special dessert abilities action like sandriding which is a key mechanic that allows the Atreides, to move swiftly across the desert. This ability represents their mastery of the desert environment, giving them a significant tactical advantage by enabling fast and unpredictable movement.
+The Atredies are out in the outskirts of the desert guarding their sietches which are surrounding the Harkonnens's settlements. They have special desert abilities action like sandriding which is a key mechanic that allows the Atreides, to move swiftly across the desert. This ability represents their mastery of the desert environment, giving them a significant tactical advantage by enabling fast and unpredictable movement.
 
 ## Claiming Your Objectives
 
-By revealing your deployment tokens, you will have the ability for some of your units to sandride and target on claiming the objectves as the other units can stay behind on protecting the sietches. The issue is that you can't simply leave the sietches unguarded in the open, as the Harkonnens can easily attack and score points. Therefore, once you complete an objective or claim one, it's important to quickly retreat your units back to base.
+By revealing your deployment tokens, you will have the ability for some of your units to sandride and target on claiming the objectves as the other units can stay behind on protecting the sietches. The issue is that you can't simply leave the sietches unguarded in the open, as the Harkonnens can easily attack and score points. Therefore, once you complete an objective or claim one, it's important to quickly retreat your units back to base. I wrote an article about a situation that I faced [Lesson Learned in Dune: War for Arrakis](https://blog.meepleit.com/posts/dune-war-for-arrakis/playing-with-the-atredies/)
 
-I faced a challenging situation where some of my units remained stationed at the sietches, while others were left vulnerable in the open desert, enjoying the sand. This exposed position became problematic as my other sietches came under coordinated attacks. I was unsure how to proceed because I was concerned that moving my units away from the sietches would leave them inadequately defended.
+I faced a confusing situation where some of my units remained stationed at the sietches, while others were left vulnerable in the open desert, enjoying the sand. This exposed position became problematic as my other sietches came under coordinated attacks. I was unsure how to proceed because I was concerned that moving my units away from the sietches would leave them inadequately defended.
 
-Looking back, I realize that my approach was suboptimal. I didn’t fully grasp how to handle such situations and missed out on crucial strategic opportunities. For instance, had I been aware of the option to use a free action to reveal my deployment tokens, I could have leveraged this advantage to better manage my units and respond more effectively to the evolving threats. This insight would have allowed me to make more informed decisions, deploy units more strategically, and potentially turn the tide in my favor.
+Looking back, I realize that my approach was suboptimal. I didn’t fully grasp how to handle such situations and missed out on crucial strategic opportunities. For instance, if had I been aware of the option to use a free action to reveal my deployment tokens, I could have leveraged this advantage to better manage my units and respond more effectively to the evolving threats. This insight would have allowed me to make more informed decisions, deploy units more strategically, and potentially turn the tide in my favor.
 
 I'm not saying you should reveal all your tokens across the board, but in specific situations, it can be a smart move. If you need to send units into the desert to capture objectives, that’s when deploying additional tokens and revealing units can work in your favor. This allows you to strengthen key areas, prepare for upcoming battles, or create a tactical advantage by strategically positioning your forces. The aim isn’t to expose everything, but to use your token placement wisely to gain the upper hand when it matters most.
 
 In fact, some objectives require you to sandride in order to claim them. Others involve leaving units alone in the desert. There's even an objective that necessitates destroying two harvesters in a single turn to achieve it. This is why strategic thinking is crucial, and you should deploy additional tokens when necessary.
 
-Another suggestion, don't go agressively and attack head on with the Harkonnens but instead focus on capturing objectives points within the round which will increase you up the preseance track. Especially at the start of the game, it's important to start planning & tackling those objectives as the Harkonnens units will become stronger as the game progesses. Eventually it can be difficult to win battles and slow you down on claiming the objectives.
+Another suggestion, don't go agressively and attack head on with the Harkonnens but instead focus on capturing objectives points within the round which will increase you up the Prescience track. Especially at the start of the game, it's important to start planning & tackling those objectives as the Harkonnens units will become stronger as the game progesses. Eventually it can be difficult to win battles and slow you down on claiming the objectives.
 
 In one game, I had a slow start in claiming objectives. Although I planned for them, I found some too challenging and put them off. Meanwhile, I focused on deploying tokens and growing my units. The difficulty in achieving objectives often depends on the type you're facing, and the situation with your action dice can make it even more complicated. Balancing between securing objectives and managing your resources can be tricky, especially when the objectives seem out of reach.
 
 The attacks I faced were intense, and they significantly reduced my available actions, which limited my ability to deploy additional tokens and reinforce my positions. I found myself in a tough spot, unable to effectively respond to the threats and adapt to the changing game dynamics.
 
 ## Attacking the Harvesters
+
+![Attacking Harvesters](./deployment-tokens/ready-to-attack-harvesters.jpg "Attacking Harvesters")*The Atredies getting ready to attack. Need to reveal the tokens*
 
 By revealing a deployment token, you have the ability to sandride one of your choosen units to quickly target and destroy any harvesters that the Harkonnens have set up in the desert. This strategry will disrupt the Harkonnens' spice collection, reducing their yield at the end of the round. By diminishing their spice reserves, you can directly impact their Imperium markers, weakening their overall position and potentially shifting the balance of power in your favor.
 
