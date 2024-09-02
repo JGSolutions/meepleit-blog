@@ -12,7 +12,6 @@ import {type Favicon} from "../types/config";
 import {defaultFavicons} from "../constants/icon";
 import {LIGHT_MODE, DARK_MODE, AUTO_MODE, DEFAULT_THEME} from "../constants/constants";
 import {url} from "../utils/url-utils";
-import { GoogleAnalytics  } from '@digi4care/astro-google-analytics';
 
 interface Props {
 	title?: string;
@@ -116,7 +115,17 @@ const siteLang = siteConfig.lang.replace('_', '-')
 
 		<!-- <SiteVerification id="google-site-verification" /> -->
 		<!-- <meta name="google-site-verification" content="G-FJRK6JF4C5" /> -->
-		<GoogleAnalytics id="G-FJRK6JF4C5" partytown={false}  />
+		<!-- <GoogleAnalytics id="G-FJRK6JF4C5" partytown={false}  /> -->
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-FJRK6JF4C5"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-FJRK6JF4C5');
+		</script>
 	</head>
 	<body class=" min-h-screen transition " class:list={[{"is-home": isHomePage, "enable-banner": enableBanner}]}>
 		<ConfigCarrier></ConfigCarrier>
