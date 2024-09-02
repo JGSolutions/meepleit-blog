@@ -8,21 +8,17 @@ draft: false
 author: Jerry Gagliano
 ---
 
-<!-- ![Dune War for Arrakis](./dune-war-for-arrakis.jpg "Dune War for Arrakis") -->
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
 
-:::note[Publisher]
-CMON Global Limited in 2024
-:::
-
-I've been having the privilege of playing Dune: War for Arrakis weekly, focusing on mastering the Atreides faction. Despite diving into some deep strategic ideas, success has been elusive. Still, I love the challenge and continue to experiment with new strategies to improve my gameplay. If you enjoy playing asymmetric factions with clear objective goals, this game is a great fit. It's not just about achieving objectives, but also about defending against the Harkonnens, who will relentlessly attack your sietches.
+I've had the privilege of playing Dune: War for Arrakis on a weekly basis, concentrating on mastering the Atreides faction. Even though I've delved into some deep strategic concepts, success has remained just out of reach. Despite this, I relish the challenge and keep experimenting with new strategies to enhance my gameplay. If you enjoy playing asymmetric factions with defined objective goals, this game is a fantastic choice. It's not only about achieving your objectives but also about defending against the relentless Harkonnen attacks on your sietches.
 
 A small detail that caught our attention was the Atreides' ability to take a free action to reveal any number of deployment tokens. We were puzzled—why reveal them early? Wouldn't it be more strategic to keep them hidden until the Harkonnens attack, leaving them uncertain about what kind of battle they're walking into?
 
 Maybe not! Here are some strategic reasons why revealing your deployment tokens can actually be advantageous.
 
-## Overview Of The Artredies
+## Overview Of The Atredies
 
-The Atredies sietches are out in the outskirts of the dessert guarding their sietches which are surrounding the Harkonnens's settlements. They have special dessert abilities action like sandriding which is a key mechanic that allows the Atreides, to move swiftly across the desert. This ability represents their mastery of the desert environment, giving them a significant tactical advantage by enabling fast and unpredictable movement.
+The Atredies are out in the outskirts of the dessert guarding their sietches which are surrounding the Harkonnens's settlements. They have special dessert abilities action like sandriding which is a key mechanic that allows the Atreides, to move swiftly across the desert. This ability represents their mastery of the desert environment, giving them a significant tactical advantage by enabling fast and unpredictable movement.
 
 ## Claiming Your Objectives
 
@@ -55,3 +51,5 @@ For example, in one game, I became too aggressive with my deployment actions and
 ## Conclusion
 
 Dune: War for Arrakis is a complex strategy game with relatively few difficult rules to keep track of. Don’t hesitate to reveal your deployment tokens and send your units into the desert to achieve your objectives and disrupt your enemies' strategies. The Atreides are capable fighters, but the Harkonnens field larger units that are more challenging to defeat, though they struggle in the desert environment. Utilize the special free actions to advance quickly up the Persistence track before the Harkonnens launch their attack.
+
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)

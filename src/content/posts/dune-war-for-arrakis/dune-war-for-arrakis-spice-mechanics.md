@@ -5,10 +5,11 @@ description: Exploring the spice mechanism and strategies to master this critica
 tags: ['Dune: War for Arrakis']
 category: Mechanics
 draft: false
+image: './dune_spices_strategy.jpg'
 author: Jerry Gagliano
 ---
 
-![Dune War of Arrakis Spices Mechanics](./dune_spices_strategy.jpg "Dune War of Arrakis Spices Mechanics")
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
 
 In one of my previous blogs, I discussed how "Dune: War for Arrakis" captures the thematic elements of the Dune universe. In this article, we’ll delve deeper into one of the game's most critical aspects: Spices. I'll evaluate how effectively this mechanic plays out with the two factions, with my own strategic experiences. Primarily intended for those who have played the game or have a familiarity with the Dune universe.
 
@@ -59,4 +60,4 @@ I had the opportunity to play as the Atreides. Overall, I discovered that the At
 
 Most of the rules and details are not covered, but this provides an overview of how spices are played in the game. The spice mechanism adds an interesting balance, allowing the Atreides to increase or decrease their actions based on spice levels. This introduces a significant strategic element, making the game both challenging and intense for both sides.
 
-[Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)

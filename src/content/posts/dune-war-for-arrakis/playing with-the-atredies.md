@@ -5,12 +5,13 @@ description: "Dune: War of Arrakis strategic insights and lessons learned playin
 tags: ["Dune: War for Arrakis"]
 category: Session
 draft: false
+image: './Paul-Atreides.Dune.webp'
 author: Jerry Gagliano
 ---
 
-![Dune War of Arrakis](./Paul-Atreides.Dune.webp "Dune War of Arrakis")
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
 
-I had another opportunity to play Dune: War of Arrakis, this time exploring the Atreides faction while battling the Harkonnens. An old friend of mine bought the game and has recently learned how to play it. Right now, we’re the only two in our group who are familiar with it. I’ll share my strategic approach, key challenges, and valuable lessons learned from leaving my sieches vulnerable and concentrating on the secret objectives.
+I had the opportunity to play Dune: War of Arrakis, this time exploring the Atreides faction while battling the Harkonnens. An old friend of mine bought the game and has recently learned how to play it. Right now, we’re the only two in our group who are familiar with it. I’ll share my strategic approach, key challenges, and valuable lessons learned from leaving my sieches vulnerable and concentrating on the secret objectives.
 
 I decided to play as the Atreides because I wanted to explore the desert and tackle their secret objectives. I wasn’t particularly eager to engage in battles, especially against the Harkonnens, whose larger army felt intimidating. The Harkonnens’ strategy involves emerging from their settlements to launch attacks on the Setiches.
 
@@ -30,4 +31,4 @@ From this experience, I learned a crucial lesson: never leave your setiches ungu
 
 Until next time, we'll see how things unfold with the Atredies.
 
-[Buy Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)

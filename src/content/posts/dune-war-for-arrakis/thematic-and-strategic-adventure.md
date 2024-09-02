@@ -8,11 +8,7 @@ draft: false
 author: Jerry Gagliano
 ---
 
-![Dune War for Arrakis](./dune-war-for-arrakis.jpg "Dune War for Arrakis")
-
-:::note[Publisher]
-CMON Global Limited in 2024
-:::
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
 
 I recently had the chance to dive into the world of "Dune: War for Arrakis," an epic head-to-head game that stands out from the Dune Imperium series by focusing more on combat and area control.
 
@@ -55,4 +51,4 @@ Other than miniatures, the board is beautifully designed to represent the harsh,
 
 Best of all, you only need one additional player to enjoy this game, as it’s designed for head-to-head play. The game's high replayability ensures months of enjoyable gameplay. So, gather a friend, prepare for battle, and immerse yourself in the epic struggle for control of the spice. The desert planet awaits your command.
 
-[Buy Dune: War of Arrakis](https://hobbiesville.com/products/dune-war-for-arrakis-standard-edition?ref=okgqqcpm)
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
