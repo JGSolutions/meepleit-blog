@@ -9,11 +9,11 @@ image: './deployment-tokens/sietches-around-settlements.jpg'
 author: Jerry Gagliano
 ---
 
-[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
+[MeepleIt Game Details: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
 
-I've had the privilege of playing Dune: War for Arrakis on a weekly basis, concentrating on mastering the Atreides faction. Even though I've delved into some deep strategic concepts, success has remained just out of reach. Despite this, I relish the challenge and keep experimenting with new strategies to enhance my gameplay. If you enjoy playing asymmetric factions with defined objective goals, this game is a fantastic choice. It's not only about achieving your objectives but also about defending against the relentless Harkonnen attacks on your sietches.
+I've been having the privilege of playing Dune: War for Arrakis on a weekly basis, concentrating on mastering the Atreides faction. Even though I've delved into some deep strategic concepts, success has remained just out of reach. Despite this, I relish the challenge and keep experimenting with new strategies to enhance my gameplay. If you enjoy playing asymmetric factions with defined objective goals, this game is a fantastic choice. It's not only about achieving your objectives but also about defending against the relentless Harkonnen attacks on your sietches.
 
-A small detail that caught our attention was the Atreides' ability to take a free action to reveal any number of deployment tokens. We were puzzled—why reveal them early? Wouldn't it be more strategic to keep them hidden until the Harkonnens attack, leaving them uncertain about what kind of battle they're walking into?
+A small detail that caught our attention was the Atreides' ability to take a **free action to reveal any number of deployment tokens**. We were puzzled—why reveal them early? Wouldn't it be more strategic to keep them hidden until the Harkonnens attack, leaving them uncertain about what kind of battle they're walking into?
 
 Maybe not! Here are some strategic reasons why revealing your deployment tokens can actually be advantageous.
 
@@ -23,9 +23,9 @@ The Atredies are out in the outskirts of the desert guarding their sietches whic
 
 ## Claiming Your Objectives
 
-By revealing your deployment tokens, you will have the ability for some of your units to sandride and target on claiming the objectves as the other units can stay behind on protecting the sietches. The issue is that you can't simply leave the sietches unguarded in the open, as the Harkonnens can easily attack and score points. Therefore, once you complete an objective or claim one, it's important to quickly retreat your units back to base. I wrote an article about a situation that I faced [Lesson Learned in Dune: War for Arrakis](https://blog.meepleit.com/posts/dune-war-for-arrakis/playing-with-the-atredies/)
+By revealing your deployment tokens, you will have the ability for separate some of your units to sandride and target on claiming the objectves as the other units can stay behind on protecting the sietches. The issue is that you can't simply leave the sietches unguarded in the open, as the Harkonnens can easily attack and score points. Therefore, once you complete an objective or claim one, it's important to quickly retreat your units back to base. I wrote an article about a situation that I faced [Lesson Learned in Dune: War for Arrakis](https://blog.meepleit.com/posts/dune-war-for-arrakis/playing-with-the-atredies/)
 
-I faced a confusing situation where some of my units remained stationed at the sietches, while others were left vulnerable in the open desert, enjoying the sand. This exposed position became problematic as my other sietches came under coordinated attacks. I was unsure how to proceed because I was concerned that moving my units away from the sietches would leave them inadequately defended.
+I had situations where some of my units remained stationed at the sietches, while others were left vulnerable in the open desert, enjoying the sand. This exposed position became problematic as my other sietches came under coordinated attacks. I was unsure how to proceed because I was concerned that moving my units away from the sietches would leave them inadequately defended.
 
 Looking back, I realize that my approach was suboptimal. I didn’t fully grasp how to handle such situations and missed out on crucial strategic opportunities. For instance, if had I been aware of the option to use a free action to reveal my deployment tokens, I could have leveraged this advantage to better manage my units and respond more effectively to the evolving threats. This insight would have allowed me to make more informed decisions, deploy units more strategically, and potentially turn the tide in my favor.
 
@@ -33,11 +33,11 @@ I'm not saying you should reveal all your tokens across the board, but in specif
 
 In fact, some objectives require you to sandride in order to claim them. Others involve leaving units alone in the desert. There's even an objective that necessitates destroying two harvesters in a single turn to achieve it. This is why strategic thinking is crucial, and you should deploy additional tokens when necessary.
 
-Another suggestion, don't go agressively and attack head on with the Harkonnens but instead focus on capturing objectives points within the round which will increase you up the Prescience track. Especially at the start of the game, it's important to start planning & tackling those objectives as the Harkonnens units will become stronger as the game progesses. Eventually it can be difficult to win battles and slow you down on claiming the objectives.
+Another suggestion, don't go agressively and attack head on with the Harkonnens but instead focus on capturing objectives points within the round which will increase tokens on the Prescience track. Especially at the start of the game, it's important to start planning & tackling those objectives as the Harkonnens units will become stronger as the game progesses. Eventually it can be difficult to win battles which will slow you down on claiming the objectives.
 
 In one game, I had a slow start in claiming objectives. Although I planned for them, I found some too challenging and put them off. Meanwhile, I focused on deploying tokens and growing my units. The difficulty in achieving objectives often depends on the type you're facing, and the situation with your action dice can make it even more complicated. Balancing between securing objectives and managing your resources can be tricky, especially when the objectives seem out of reach.
 
-The attacks I faced were intense, and they significantly reduced my available actions, which limited my ability to deploy additional tokens and reinforce my positions. I found myself in a tough spot, unable to effectively respond to the threats and adapt to the changing game dynamics.
+Eventually the attacks I faced were intense, and they significantly reduced my available actions, which limited my ability to deploy additional tokens and reinforce my positions. I found myself in a tough spot, unable to effectively respond to the threats and adapt to the changing game dynamics.
 
 ## Attacking the Harvesters
 
@@ -53,6 +53,8 @@ For example, in one game, I became too aggressive with my deployment actions and
 
 ## Conclusion
 
-Dune: War for Arrakis is a complex strategy game with relatively few difficult rules to keep track of. Don’t hesitate to reveal your deployment tokens and send your units into the desert to achieve your objectives and disrupt your enemies' strategies. The Atreides are capable fighters, but the Harkonnens field larger units that are more challenging to defeat, though they struggle in the desert environment. Utilize the special free actions to advance quickly up the Persistence track before the Harkonnens launch their attack.
+Dune: War for Arrakis is a complex strategy game with small detailed rules to keep track of. Don’t hesitate to reveal your deployment tokens for the Artiedies and send your units into the desert to quickly achieve your objectives and disrupt your enemies' strategies. The Atreides are capable fighters, but the Harkonnens field larger units that are more challenging to defeat, though they struggle in the desert environment.
 
-[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
+Keep the Prescience track in mind—prioritize those objectives whenever possible.
+
+[MeepleIt Game Details: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
