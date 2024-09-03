@@ -29,16 +29,20 @@ Both gmaes players draw cards to activate their units, representing the unpredic
 
 ## Specialized Units
 
-Describe the specialized units.
+In the Normandy edition, the US Army faces off against the Germans, and both sides have similar units, including Scouts, Machine Gunners, Snipers, Mortar Teams, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. They may have many sets of Scouts or Riflmen for example. Scount A, Scout B and Scout C.
+
+In Undaunted: North Africa, the units are different for both the Long Range Desert Group (LRDG) and the Italians.
+
+The Italians introduce tank crews, as vehicles are present in this version. For instance, a tank crew member has a repair action, and there's an Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
+
+The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also has a Lieutenant with a bolster action similar to the Platoon Sergeant. 
+
+As you can see, Undaunted: North Africa features a different set of units compared to Normandy, emphasizing diverse tactics and strategies.
 
 ## Mechanics
 
 Describe the vehicle mechanical part
 Some terrain can’t be navigated by vehicles, forcing your troops to get out and hoof it
-
-## Objective Goals in Scenarios
-
-How there are less objectives in North Africa and all fighting for limit objectives. Normanday contains alot more objectives which I findd iteasy as the first few objectives are easy to claim as you head deeper in the map that's when thimsg gets tense.
 
 ## Game Play
 
@@ -47,6 +51,10 @@ Describe gameplay. North Africa is more tighter less units on the map. Casualiti
 Normandy has more units on the map which most of them facing against each other are the same. North africa have different units facing each other that requies different strategies and ways of beating you opponent. Can turn into a firing feast in Normanday as some maps may contain al units
 
 Mention that the deck building part mechancism is the same
+
+## Objective Goals in Scenarios
+
+How there are less objectives in North Africa and all fighting for limit objectives. Normanday contains alot more objectives which I findd iteasy as the first few objectives are easy to claim as you head deeper in the map that's when thimsg gets tense.
 
 ## Verdict
 
