@@ -53,7 +53,7 @@ For example, in one game, I became too aggressive with my deployment actions and
 
 ## Conclusion
 
-Dune: War for Arrakis is a complex strategy game with small detailed rules to keep track of. Don’t hesitate to reveal your deployment tokens for the Artiedies and send your units into the desert to quickly achieve your objectives and disrupt your enemies' strategies. The Atreides are capable fighters, but the Harkonnens field larger units that are more challenging to defeat, though they struggle in the desert environment.
+Dune: War for Arrakis is a complex strategy game with small detailed rules to keep track of. FOr me, this is one imporrtant rule to keep in mind. Don’t hesitate to reveal your deployment tokens for the Artiedies and send your units into the desert to quickly achieve your objectives and disrupt your enemies' strategies. The Atreides are capable fighters, but the Harkonnens field larger units that are more challenging to defeat, though they struggle in the desert environment.
 
 Keep the Prescience track in mind—prioritize those objectives whenever possible.
 
