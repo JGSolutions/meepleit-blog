@@ -21,36 +21,41 @@ In Normandy your in the year 1944 and the Allies have landed in Normandy. You mu
 
 The game captures the gritty and tactical nature of small unit engagements during this critical phase of the war. Players take on the roles of either American or German platoon commanders, leading squads of soldiers across various battlefields in Normandy. The scenarios are inspired by historical events, and the game emphasizes the importance of maneuvering troops, controlling key objectives, and adapting to the ever-changing battlefield conditions.
 
-Going back few years in North Africa, the historical event happens in the summer of 1940 as the Long Range Dessert Group (LRDG) a reconnaissance and convert operations unit of the British Army have just been formed as they will face against the Royal Italian Army's formidable forces.
+In North Africa, the historical event happens in the summer of 1940 as the Long Range Dessert Group (LRDG) a reconnaissance and convert operations unit of the British Army have just been formed as they will face against the Royal Italian Army's formidable forces.
 
-You can command either desert warfare specialists or the Italians army across a series of missions through out the North African desert. Each mission you must strive to claim, hold, or destroy key objectives.
+You can command either desert warfare specialists or the Italian army across a series of missions through out the North African desert. Each mission you must strive to claim, hold, or destroy key objectives.
 
-Both gmaes players draw cards to activate their units, representing the unpredictable nature of command in the heat of battle.
+Each of the games map tiles captures the beautiful look and feel of the Normandy fields or the sandy North African desert.
 
 ## Specialized Units
 
-In the Normandy edition, the US Army faces off against the Germans, and both sides have similar units, including Scouts, Machine Gunners, Snipers, Mortar Teams, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. They may have many sets of Scouts or Riflmen for example. Scount A, Scout B and Scout C.
+In the Normandy edition, the US Army faces off against the Germans, and both sides have similar units, including Scouts, Machine Gunners, Snipers, Mortar, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. They may have many sets of Scouts or Riflmen for example. Scount A, Scout B and Scout C.
 
 In Undaunted: North Africa, the units are different for both the Long Range Desert Group (LRDG) and the Italians.
 
 The Italians introduce tank crews, as vehicles are present in this version. For instance, a tank crew member has a repair action, and there's an Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
 
-The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also has a Lieutenant with a bolster action similar to the Platoon Sergeant. 
+The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also has a Lieutenant with the bolster action similar to the Platoon Sergeant.
 
-As you can see, Undaunted: North Africa features a different set of units compared to Normandy, emphasizing diverse tactics and strategies.
+As you can see, Undaunted: North Africa features a different set of units compared to Normandy, emphasizing diverse tactics and strategies. One of the units not part of North Africa which I find fascinating are the Mortar. That is one powerful unit that can damage everyone on a specfic tile with one shot. But takes a few actions to setup
 
 ## Mechanics
 
 Describe the vehicle mechanical part
 Some terrain can’t be navigated by vehicles, forcing your troops to get out and hoof it
+Mention that the deck building part mechancism is the same
 
 ## Game Play
 
-Describe gameplay. North Africa is more tighter less units on the map. Casualities are harder as they don't spawnn and die right away. North Africa has less battles
+The one big difference in North Africa are the casualities which makes the game more difficult. When one of your units are hit, the card gets removed as Normandy but eventually the unit does not respawn even if the card exists bolster decks. The unit will be considered dead and completely removed from the game.
 
-Normandy has more units on the map which most of them facing against each other are the same. North africa have different units facing each other that requies different strategies and ways of beating you opponent. Can turn into a firing feast in Normanday as some maps may contain al units
+When moving in to your enemy need to be careful that your units may not get hit often especially the ones that will control or help you complete the objectives. Once they are dead your units become neutralized and will loose the game.
 
-Mention that the deck building part mechancism is the same
+Since the way North Africa plays contains less units on the map which requires more tactics thinking before attacking. There aren't too many objectives to claim on the map
+
+Normandy contains more units on the map and the user's supply. As mentioned above, units A, B & C groups exists which are able to respawn and requires more hits to compeletely remove a combat token. In Normandy, the units on each side are typically set up in a similar fashion and face off against each other in a balanced arrangement. In some scenarios, it becomes a firing feast as dice rolling attack actions increase back and forth.
+
+North Africa have different units facing each other that requires different strategies and ways of beating you opponent. For example one scenario I played it was the Italians units of foot vers=uses the LRDG but on vehicles. Of course Italians had the Anti-tank rifleman which had the ability to attack and damage vehicles. That is one key unit that needs to stay alive if the objective needs to be completed.
 
 ## Objective Goals in Scenarios
 
