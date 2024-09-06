@@ -37,11 +37,15 @@ The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demol
 
 As you can see, Undaunted: North Africa features a different set of units compared to Normandy, emphasizing diverse tactics and strategies. One of the units not part of North Africa which I find fascinating are the Mortar. That is one powerful unit that can kll everyone on a specfic tile with one shot.
 
-## Mechanics
+## The Mechanics
 
-Describe the vehicle mechanical part
-Some terrain can’t be navigated by vehicles, forcing your troops to get out and hoof it
-Mention that the deck building part mechancism is the same
+The strong point of the Undaunted series is the deck building mechanics. This is the core of the series which is played through all the Undaunted games. Can't say much more as they both play the same and one of the main reasons why I love playing this game.
+
+Vehicles are a one of the big mechanics added in the North Africa that differates from Normandy. This adds more strategies to play in some of the scenarios but does not make the vehicles to over powered. If the opponents have the right actions to attack or demolish they can damage and disable the vehicle after so many hits.
+
+The vechiles not only drives 3 units to a destination but provide some abilities like navigating, supressing or attacking. Does not matter what seat the unit is positioned on as they can take that action if needed.
+
+Some of terrain tiles can't be driven throuugh as they can be too rough for the vehicles. The option
 
 ## Game Play
 
