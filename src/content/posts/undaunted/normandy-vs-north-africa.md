@@ -27,8 +27,6 @@ Each of the game’s map tiles is meticulously crafted to capture the distinctiv
 
 Similarly, the map tiles depicting the North African desert are designed to reflect the vast, sun-scorched expanses that characterize this arid region. The tiles showcase the shifting sands, rocky outcrops, and sparse vegetation typical of the desert landscape. The color palette incorporates a range of warm, earthy tones, and the textures suggest the heat and dryness of the environment. This creates an immersive experience that transports players to the harsh, yet captivating, beauty of the North African theater of war.
 
-In both cases, the game’s visual design not only aims to be historically accurate but also strives to evoke the emotional and atmospheric qualities of these iconic landscapes, enhancing the overall gameplay experience.
-
 ## Specialized Units
 
 In the Normandy, the US Army and the Germans, and both have similar units, including Scouts, Machine Gunners, Snipers, Mortar, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. They may have many sets of Scouts or Riflemen for example. Scount A, Scout B and Scout C.
@@ -47,19 +45,27 @@ Mention that the deck building part mechancism is the same
 
 ## Game Play
 
-Gameplay difference in North Africa are the casualities which makes the game more challening. When one of your units are hit, the card gets removed same as Normandy but eventually the unit does not respawn even if the card exists in the supply decks. The unit will be considered dead and combat token will be completely removed from the game.
+Gameplay difference in North Africa are the casualities which makes the game more challening. When one of your units are hit, the card gets removed same situatons as Normandy but eventually the unit does not respawn, even if the card exists in the supply decks. The unit will be considered dead and combat token will be completely removed from the game.
 
 Strategies need to be really though through when moving in that your units may not get hit often especially the ones that will control or demolish helping you complete the objectives. Once they are dead your units become neutralized and will loose the game.
 
 Since the way North Africa plays contains less units on the map which requires more tactics thinking before attacking. There aren't too many objectives to claim on the map
 
-Normandy contains more units on the map and the user's supply. As mentioned above, units A, B & C groups exists which are able to respawn and requires more hits to compeletely remove a combat token. In Normandy, the units on each side are typically set up in a similar fashion and face off against each other in a balanced arrangement. In some scenarios, it becomes a firing feast as dice rolling attack actions increase back and forth.
+Normandy have more units setup on the map and the user's supply. As mentioned above, units A, B & C groups exists which are able to respawn and requires more hits to compeletely remove a combat token.
 
-North Africa have different units facing each other that requires different strategies and ways of beating you opponent. For example one scenario I played it was the Italians units of foot vers=uses the LRDG but on vehicles. Of course Italians had the Anti-tank rifleman which had the ability to attack and damage vehicles. That is one key unit that needs to stay alive if the objective needs to be completed.
+The units on each side are generally arranged in a similar manner and confront one another in a balanced setup. In certain scenarios, the action intensifies into a flurry of attacks, with dice rolls driving a dynamic exchange of fire between the sides.
+
+North Africa units are asymetric that requires different strategies and ways of beating your opponent. For example, in  one scenario I played as the Italian army as our uits were on foot the LRDG were comfortably in their vehicles driving towards us. Of course Italians had the Anti-tank rifleman which had the ability to attack and damage vehicles. That is one key unit that needs to stay alive if the objective needs to be completed.
 
 ## Objective Goals in Scenarios
 
-How there are less objectives in North Africa and all fighting for limit objectives. Normanday contains alot more objectives which I findd iteasy as the first few objectives are easy to claim as you head deeper in the map that's when thimsg gets tense.
+I find the objectives in North Africa to be more engaging and challenging. For instance, the LRDG missions require you to either escape with a certain number of units or demolish structures to achieve your goals.
+
+To tackle these objectives efficiently, it’s crucial to use vehicles to cover ground quickly. Just remember, while speeding across the terrain, avoid taking hits!
+
+In Normandy, some objectives are only one or two tiles away from the starting point. By deploying a Scout and then using a Rifleman to capture the area, you can secure your first objective without engaging in combat. However, as the game advances, it becomes more challenging to reach the remaining objectives, especially as units begin to clash more frequently.
+
+Both of these games offer a rich variety of content, featuring 11 distinct scenarios each. This means you'll be immersed in a substantial amount of combat throughout your gameplay experience. Each scenario is designed to present unique challenges and tactical situations, ensuring that you face diverse combat scenarios and strategic dilemmas. Whether you’re navigating the lush fields of Normandy or the vast deserts of North Africa, the numerous scenarios will keep you engaged and constantly adapting to new battlefield conditions.
 
 ## Verdict
 
