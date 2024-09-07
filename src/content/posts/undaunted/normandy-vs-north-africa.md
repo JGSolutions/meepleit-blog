@@ -1,7 +1,7 @@
 ---
-title: "Which One Should You Buy: Undaunted Normandy vs North Africa?"
+title: "Which One Should You Buy: Undaunted Normandy or North Africa?"
 published: 2024-09-12
-description: ""
+description: "Discover the differences between Undaunted: Normandy and North Africa, and find out which game suits your style. Compare gameplay, units, and objectives to make your choice!"
 tags: ["Undaunted North Africa", "Undaunted Normandy"]
 category: Strategy
 draft: false
@@ -17,7 +17,7 @@ Instead, Undaunted series are a standalone games, including other titles int he 
 
 ## Thematic War Theme
 
-The theme in both of these games are expectional representin the War theme.
+The theme in both of these games are expectional representation of World War theme.
 
 In Normandy your in the year 1944 and the Allies have landed in Normandy. You must lead your US army forward as you push deeper into France and gain foothold drive back the German forces.
 
@@ -39,11 +39,9 @@ The LRDG units include Saboteur, Engineer, and Sergeant, all of whom can demolis
 
 The strong feature of the Undaunted series is the deck building mechanics. This is the core system of the series which is played throughout all the Undaunted games. Can't say much more as they both play the same and one of the main reasons why I love playing this game.
 
-Vehicles are one of the major mechanics introduced in North Africa that set it apart from Normandy. While they add new strategic options in certain scenarios, they are not overpowered. With the right actions, opponents can attack or disable a vehicle after dealing enough damage.
+Vehicles are one of the major mechanics introduced in North Africa that set it apart from Normandy. While they add new strategic options in certain scenarios, they are not overpowered. With the right actions, opponents can attack or disable a vehicle after dealing enough damage. Vehicles can easily transport 3 units to a destination but provides some abilities like navigating, supressing or attacking.
 
-Vehicles not only transports 3 units to a destination but provides some abilities like navigating, supressing or attacking.
-
-Some of terrain tiles can't be driven throuugh as they can be too rough for the vehicles. The option
+Vehicles can be attacked and damaged by the Anti-tank rifleman unit. When a vehicle is hit, one of the units inside also receives a hit. Thus, being in a vehicle is risky, as it not only exposes the vehicle to damage but also puts the units inside at risk of being hit.
 
 ## Game Play
 
@@ -51,26 +49,28 @@ The key gameplay difference in North Africa is the handling of casualties, which
 
 Strategies need to be carefully planned, as it's crucial to avoid having your key units take too many hits, particularly those vital for controlling or demolishing objectives. If these units are lost, your forces will be neutralized, significantly increasing the risk of losing the game.
 
-North Africa’s gameplay features fewer units on the map, demanding more tactical planning before attacking. With fewer objectives to claim, each move carries greater weight. In contrast, Normandy provides more units both on the map and in the player’s supply. As mentioned earlier, units in groups A, B, and C can respawn and require more hits to completely remove a combat token. oth sides typically have their units arranged in a balanced setup, facing off against each other. In some scenarios, the action escalates into a rapid exchange of attacks, with dice rolls fueling the intense back-and-forth between the forces.
+North Africa’s gameplay features fewer units on the map, demanding more tactical planning before attacking. With fewer objectives to claim, each move carries greater weight.
 
-Another point regarding the units in North Africa is that the game features asymmetrical gameplay, requiring distinct strategies and approaches to defeat your opponent. For example, in one scenario where I played as the Italian army, our units were on foot, while the LRDG advanced comfortably in their vehicles. Fortunately, the Italians had an Anti-tank rifleman, a crucial unit with the ability to attack and damage vehicles. Keeping this key unit alive is essential to achieving the objective.
+In contrast, Normandy provides more units both on the map and in the player’s supply. As mentioned earlier, units in groups A, B, and C can respawn and require more hits to completely remove a combat token. Both sides typically have their units arranged in a balanced setup, facing off against each other. In some scenarios, the action escalates into a rapid exchange of attacks, with dice rolls fueling the intense back-and-forth between the forces.
+
+Another point regarding the units in North Africa is that the game features asymmetrical gameplay, requiring distinct strategies and approaches to defeat your opponent.
+
+For example, in one scenario where I played as the Italian army, our units were on foot, while the LRDG advanced comfortably in their vehicles. Fortunately, the Italians had an Anti-tank rifleman, a crucial unit with the ability to attack and damage vehicles. Keeping this key unit alive is essential to achieving the objective.
 
 ## Objective Goals in Scenarios
 
-I find the objectives in North Africa to be more engaging and challenging. For instance, the LRDG missions require you to either escape with a certain number of units or demolish structures to achieve your goals.
+The objectives in North Africa arre more engaging and challenging. For instance, the LRDG missions require you to either escape with a certain number of units or demolish structures to achieve your goals. To tackle these objectives efficiently, it’s crucial to use vehicles to cover ground quickly. Just remember, while speeding across the terrain, avoid taking hits!
 
-To tackle these objectives efficiently, it’s crucial to use vehicles to cover ground quickly. Just remember, while speeding across the terrain, avoid taking hits!
+In Normandy, certain objectives are located just one or two tiles away from the starting point. By deploying a Scout and then using a Rifleman to control the area, you can secure your first objective without engaging in combat. However, as the game advances, it becomes more challenging to reach the remaining objectives, especially as units begin to clash more frequently.
 
-In Normandy, some objectives are only one or two tiles away from the starting point. By deploying a Scout and then using a Rifleman to capture the area, you can secure your first objective without engaging in combat. However, as the game advances, it becomes more challenging to reach the remaining objectives, especially as units begin to clash more frequently.
-
-Both of these games offer a rich variety of content, featuring 11 distinct scenarios each. This means you'll be immersed in a substantial amount of combat throughout your gameplay experience. Each scenario is designed to present unique challenges and tactical situations, ensuring that you face diverse combat scenarios and strategic dilemmas. Whether you’re navigating the lush fields of Normandy or the vast deserts of North Africa, the numerous scenarios will keep you engaged and constantly adapting to new battlefield conditions.
+Both of these games offer variety of content, featuring 12 distinct scenarios for Normandy and 11 for North Africa. Each scenario is designed to present unique challenges and tactical situations, ensuring that you face diverse combat scenarios and strategic dilemmas. Whether you’re navigating the lush fields of Normandy or the vast deserts of North Africa, the numerous scenarios will keep you engaged and constantly adapting to new battlefield conditions.
 
 ## Verdict
 
-Overall they are both great games that play the same way. As you can see there are some differences but you will still get the same combat excitement. Once you learn one the other will be easy to learn and get into.
+Overall they are both great games that play the same way. As you can see there are differences but you will still get the same combat excitement and experience. Once you learn one the other will be easy to learn and get into.
 
 I’d recommend starting with Normandy, as it’s easier to learn without the added complexity of vehicle mechanics. However, if you're up for a bit more of a challenge, North Africa is also a great place to begin—there's no set order to follow, so either choice is fine depending on your preference!
 
-Once you become a fan of the Undaunted series, you'll want to check out the Reinforcements expansion, which adds even more content and scenarios for both Normandy and North Africa in a single box. Not only does it enrich the gameplay, but it also introduces a full solo mode, allowing you to enjoy both games on your own.
+Once you become a fan of the Undaunted series, you'll want to check out the Reinforcements expansion, which adds even more content and scenarios for both Normandy and North Africa in a single box. Not only does it enrich the gameplay, but it also introduces a full solo mode (which I will write about), allowing you to enjoy both games on your own.
 
-I’ll be writing more about this expansion soon, so stay tuned!
+I’ll be writing more about this Reinforcements expansion soon, so stay tuned!
