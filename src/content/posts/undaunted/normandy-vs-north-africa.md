@@ -13,29 +13,27 @@ If you’re stepping into the world of Undaunted, you’re in for a treat, but t
 
 David Thompson and Trevor Benjamin first crafted Undaunted: Normandy, which later evolved into Undaunted: North Africa as the second part of the series. However, these aren’t expansions and cannot be played together in the same way as the Imperium series (Horizons/Legends/Classics).
 
-Instead, Undaunted series are a standalone trilogy, including other titles like Undaunted: Stalingrad and Battle of Britain. We'll touch only on Normandy and North Africa, but it’s worth noting that the Reinforcements expansion exists, which will help guide your decision on which one to explore.
+Instead, Undaunted series are a standalone games, including other titles int he trilogy like Stalingrad and Battle of Britain. We'll be touching only Normandy and North Africa, but it’s worth noting that the Reinforcements expansion exists, which will help guide your decision on which one to purchase.
 
-## Theme
+## Thematic War Theme
+
+The theme in both of these games are expectional representin the War theme.
 
 In Normandy your in the year 1944 and the Allies have landed in Normandy. You must lead your US army forward as you push deeper into France and gain foothold drive back the German forces.
 
-The game captures the gritty and tactical nature of small unit engagements during this critical phase of the war. Players take on the roles of either American or German platoon commanders, leading squads of soldiers across various battlefields in Normandy. The scenarios are inspired by historical events, and the game emphasizes the importance of maneuvering troops, controlling key objectives, and adapting to the ever-changing battlefield conditions.
+The game captures the gritty and tactical nature of small unit engagements during this critical phase of the war. Players take on the roles of either American or German commanders, leading squads of soldiers across various battlefields in Normandy. The scenarios are inspired by historical events, and the game emphasizes the importance of maneuvering troops, controlling key objectives.
 
-In North Africa, the historical event happens in the summer of 1940 as the Long Range Dessert Group (LRDG) a reconnaissance and convert operations unit of the British Army have just been formed as they will face against the Royal Italian Army's formidable forces.
+In North Africa, the historical event happens in the summer of 1940 as the Long Range Dessert Group (LRDG) a reconnaissance and convert operations unit of the British Army have just been formed as they face against the Royal Italian Army's formidable forces. Nevre knew and interestinng to see that Italians actually fought in North Africa
 
-Each of the game’s map tiles is meticulously crafted to capture the distinctive beauty and atmosphere of its respective historical setting. In the Normandy fields, the tiles evoke the lush, rolling landscapes that define this region. They feature verdant pastures, gentle hills, and the subtle textures of farmland, including patches of wildflowers and occasional farmsteads, all rendered with a keen eye for historical accuracy. This attention to detail helps players feel as though they are truly navigating the scenic yet rugged terrain of World War II-era France.
-
-Similarly, the map tiles depicting the North African desert are designed to reflect the vast, sun-scorched expanses that characterize this arid region. The tiles showcase the shifting sands, rocky outcrops, and sparse vegetation typical of the desert landscape. The color palette incorporates a range of warm, earthy tones, and the textures suggest the heat and dryness of the environment. This creates an immersive experience that transports players to the harsh, yet captivating, beauty of the North African theater of war.
+Similarly, the map tiles depicting the North African desert are designed to reflect the vast, sun-scorched expanses that characterize this arid region. The tiles showcase the shifting sands, rocky outcrops, and sparse vegetation typical of the desert landscape. The color palette incorporates a range of warm, earthy tones, and the textures suggest the heat and dryness of the environment. This creates an experience that transports players to the harsh, yet captivating, beauty of the North African theater of war.
 
 ## Specialized Units
 
-In the Normandy, the US Army and the Germans, and both have similar units, including Scouts, Machine Gunners, Snipers, Mortar, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. They may have many sets of Scouts or Riflemen for example. Scount A, Scout B and Scout C.
+In Normandy, both the U.S. Army and the Germans field similar units, such as Scouts, Machine Gunners, Snipers, Mortar teams, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. Each side may have multiple groups of certain units, like Scouts or Riflemen, labeled as Scout A, Scout B, and Scout C, for instance.
 
-In Undaunted: North Africa, the units contain different units for both the Long Range Desert Group (LRDG) and the Italians. The Italians introduce tank crews, as vehicles are present in this version. For instance, a tank crew member has a repair action, and there's an Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
+In Undaunted: North Africa, the units contain different units for both the Long Range Desert Group (LRDG) and the Italians. The Italians introduce Tank Crews, as vehicles are present in this version. For instance, a Tank Crew member has the ability to repair, and the Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
 
-The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also has a Lieutenant with the bolster action similar to the Platoon Sergeant.
-
-As you can see, Undaunted: North Africa features a different set of units compared to Normandy, emphasizing diverse tactics and strategies. One of the units not part of North Africa which I find fascinating are the Mortar. That is one powerful unit that can kll everyone on a specfic tile with one shot.
+The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also includes a Lieutenant who has a bolster action similar to that of the Platoon Sergeant.
 
 ## The Mechanics
 
