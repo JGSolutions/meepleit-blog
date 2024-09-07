@@ -73,4 +73,4 @@ I’d recommend starting with Normandy, as it’s easier to learn without the ad
 
 Once you become a fan of the Undaunted series, you'll want to check out the Reinforcements expansion, which adds even more content and scenarios for both Normandy and North Africa in a single box. Not only does it enrich the gameplay, but it also introduces a full solo mode (which I will write about), allowing you to enjoy both games on your own.
 
-I’ll be writing more about this Reinforcements expansion soon, so stay tuned!
+Stay tuned for more insights, including a detailed look at the Reinforcements expansion, which enhances both games and adds a solo mode.
