@@ -1,6 +1,6 @@
 ---
 title: "Which One Should You Buy: Undaunted Normandy vs North Africa?"
-published: 2024-08-26
+published: 2024-09-12
 description: ""
 tags: ["Undaunted North Africa", "Undaunted Normandy"]
 category: Strategy
@@ -33,31 +33,27 @@ In Normandy, both the U.S. Army and the Germans field similar units, such as Sco
 
 In Undaunted: North Africa, the units contain different units for both the Long Range Desert Group (LRDG) and the Italians. The Italians introduce Tank Crews, as vehicles are present in this version. For instance, a Tank Crew member has the ability to repair, and the Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
 
-The LRDG units include a Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also includes a Lieutenant who has a bolster action similar to that of the Platoon Sergeant.
+The LRDG units include Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also includes a Lieutenant who has a bolster action similar to that of the Platoon Sergeant.
 
 ## The Mechanics
 
-The strong point of the Undaunted series is the deck building mechanics. This is the core of the series which is played through all the Undaunted games. Can't say much more as they both play the same and one of the main reasons why I love playing this game.
+The strong feature of the Undaunted series is the deck building mechanics. This is the core system of the series which is played throughout all the Undaunted games. Can't say much more as they both play the same and one of the main reasons why I love playing this game.
 
-Vehicles are a one of the big mechanics added in the North Africa that differates from Normandy. This adds more strategies to play in some of the scenarios but does not make the vehicles to over powered. If the opponents have the right actions to attack or demolish they can damage and disable the vehicle after so many hits.
+Vehicles are one of the major mechanics introduced in North Africa that set it apart from Normandy. While they add new strategic options in certain scenarios, they are not overpowered. With the right actions, opponents can attack or disable a vehicle after dealing enough damage.
 
-The vechiles not only drives 3 units to a destination but provide some abilities like navigating, supressing or attacking. Does not matter what seat the unit is positioned on as they can take that action if needed.
+Vehicles not only transports 3 units to a destination but provides some abilities like navigating, supressing or attacking.
 
 Some of terrain tiles can't be driven throuugh as they can be too rough for the vehicles. The option
 
 ## Game Play
 
-Gameplay difference in North Africa are the casualities which makes the game more challening. When one of your units are hit, the card gets removed same situatons as Normandy but eventually the unit does not respawn, even if the card exists in the supply decks. The unit will be considered dead and combat token will be completely removed from the game.
+The key gameplay difference in North Africa is the handling of casualties, which adds to the game's challenge. When a unit takes a hit, its card is removed, similar to the Normandy campaign. However, unlike in Normandy, the unit does not respawn, even if its card remains in the supply decks. The unit is considered permanently lost, and its combat token is entirely removed from the game.
 
-Strategies need to be really though through when moving in that your units may not get hit often especially the ones that will control or demolish helping you complete the objectives. Once they are dead your units become neutralized and will loose the game.
+Strategies need to be carefully planned, as it's crucial to avoid having your key units take too many hits, particularly those vital for controlling or demolishing objectives. If these units are lost, your forces will be neutralized, significantly increasing the risk of losing the game.
 
-Since the way North Africa plays contains less units on the map which requires more tactics thinking before attacking. There aren't too many objectives to claim on the map
+North Africa’s gameplay features fewer units on the map, demanding more tactical planning before attacking. With fewer objectives to claim, each move carries greater weight. In contrast, Normandy provides more units both on the map and in the player’s supply. As mentioned earlier, units in groups A, B, and C can respawn and require more hits to completely remove a combat token. oth sides typically have their units arranged in a balanced setup, facing off against each other. In some scenarios, the action escalates into a rapid exchange of attacks, with dice rolls fueling the intense back-and-forth between the forces.
 
-Normandy have more units setup on the map and the user's supply. As mentioned above, units A, B & C groups exists which are able to respawn and requires more hits to compeletely remove a combat token.
-
-The units on each side are generally arranged in a similar manner and confront one another in a balanced setup. In certain scenarios, the action intensifies into a flurry of attacks, with dice rolls driving a dynamic exchange of fire between the sides.
-
-North Africa units are asymetric that requires different strategies and ways of beating your opponent. For example, in  one scenario I played as the Italian army as our uits were on foot the LRDG were comfortably in their vehicles driving towards us. Of course Italians had the Anti-tank rifleman which had the ability to attack and damage vehicles. That is one key unit that needs to stay alive if the objective needs to be completed.
+Another point regarding the units in North Africa is that the game features asymmetrical gameplay, requiring distinct strategies and approaches to defeat your opponent. For example, in one scenario where I played as the Italian army, our units were on foot, while the LRDG advanced comfortably in their vehicles. Fortunately, the Italians had an Anti-tank rifleman, a crucial unit with the ability to attack and damage vehicles. Keeping this key unit alive is essential to achieving the objective.
 
 ## Objective Goals in Scenarios
 
