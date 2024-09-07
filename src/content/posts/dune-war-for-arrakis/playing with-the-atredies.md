@@ -5,10 +5,11 @@ description: "Dune: War of Arrakis strategic insights and lessons learned playin
 tags: ["Dune: War for Arrakis"]
 category: Session
 draft: false
+image: './Paul-Atreides.Dune.webp'
 author: Jerry Gagliano
 ---
 
-![Dune War of Arrakis](./Paul-Atreides.Dune.webp "Dune War of Arrakis")
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
 
 I had another opportunity to play Dune: War of Arrakis, this time exploring the Atreides faction while battling the Harkonnens. An old friend of mine bought the game and has recently learned how to play it.
 Currently, we're the only two in our group who are familiar with the game.
@@ -33,4 +34,4 @@ From this experience, I learned a crucial lesson: never leave your setiches ungu
 
 Until next time, we'll see how things unfold with the Atredies.
 
-[Buy Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
+[MeepleIt Profile: Dune: War of Arrakis](https://meepleit.com/boardgame/367150/dune-war-for-arrakis)
