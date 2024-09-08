@@ -21,6 +21,8 @@ The theme in both of these games are expectional representation of World War the
 
 In Normandy your in the year 1944 and the Allies have landed in Normandy. You must lead your US army forward as you push deeper into France and gain foothold drive back the German forces.
 
+![Normandy Map Tiles](./normandy-vs-africa/normandy-map-title-2.jpg "Normandy Map Tiles")
+
 The game captures the gritty and tactical nature of small unit engagements during this critical phase of the war. Players take on the roles of either American or German commanders, leading squads of soldiers across various battlefields in Normandy. The scenarios are inspired by historical events, and the game emphasizes the importance of maneuvering troops, controlling key objectives.
 
 In North Africa, the historical event happens in the summer of 1940 as the Long Range Dessert Group (LRDG) a reconnaissance and convert operations unit of the British Army have just been formed as they face against the Royal Italian Army's formidable forces. Nevre knew and interestinng to see that Italians actually fought in North Africa
@@ -33,15 +35,17 @@ Similarly, the map tiles depicting the North African desert are designed to refl
 
 In Normandy, both the U.S. Army and the Germans field similar units, such as Scouts, Machine Gunners, Snipers, Mortar teams, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. Each side may have multiple groups of certain units, like Scouts or Riflemen, labeled as Scout A, Scout B, and Scout C, for instance.
 
-![North Africa LDRG Units](./normandy-vs-africa/LDRG_units.jpg "North Africa LDRG Units")
-
 In Undaunted: North Africa, the units contain different units for both the Long Range Desert Group (LRDG) and the Italians. The Italians introduce Tank Crews, as vehicles are present in this version. For instance, a Tank Crew member has the ability to repair, and the Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
+
+![North Africa LDRG Units](./normandy-vs-africa/LDRG_units.jpg "North Africa LDRG Units")
 
 The LRDG units include Saboteur, Engineer, and Sergeant, all of whom can demolish structures. The Staff Sergeant combines the abilities of a Scout and Rifleman, capable of scouting, controlling, and recon during actions. However, the LRDG lacks Riflemen, as their strategy focuses on demolishing structures rather than direct combat. The LRDG also includes a Lieutenant who has a bolster action similar to that of the Platoon Sergeant.
 
 ## The Mechanics
 
 The strong feature of the Undaunted series is the deck building mechanics. This is the core system of the series which is played throughout all the Undaunted games. Can't say much more as they both play the same and one of the main reasons why I love playing this game.
+
+![North Africa Italian Vehicles](./normandy-vs-africa/italian-vehicles.jpg "North Africa Italian Vehicles")
 
 Vehicles are one of the major mechanics introduced in North Africa that set it apart from Normandy. While they add new strategic options in certain scenarios, they are not overpowered. With the right actions, opponents can attack or disable a vehicle after dealing enough damage. Vehicles can easily transport 3 units to a destination but provides some abilities like navigating, supressing or attacking.
 
