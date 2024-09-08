@@ -3,11 +3,15 @@ title: "Which One Should You Buy: Undaunted Normandy or North Africa?"
 published: 2024-09-12
 description: "Discover the differences between Undaunted: Normandy and North Africa, and find out which game suits your style. Compare gameplay, units, and objectives to make your choice!"
 tags: ["Undaunted North Africa", "Undaunted Normandy"]
-category: Strategy
+category: Overview
 draft: false
-image: ""
+image: "./normandy-vs-africa/cover-image-undaunted.png"
 author: Jerry Gagliano
 ---
+
+[MeepleIt Profile: Undaunted Normanday](https://meepleit.com/boardgame/268864/undaunted-normandy)
+
+[MeepleIt Profile: Undaunted North Africa](https://meepleit.com/boardgame/290359/undaunted-north-africa)
 
 If you’re stepping into the world of Undaunted, you’re in for a treat, but the choice between Normandy and North Africa might have you at a crossroads. Both games offer unique experiences, each capturing the intensity of World War II through different lenses.
 
@@ -15,7 +19,7 @@ David Thompson and Trevor Benjamin first crafted Undaunted: Normandy, which late
 
 Instead, Undaunted series are a standalone games, including other titles int he trilogy like Stalingrad and Battle of Britain. We'll be touching only Normandy and North Africa, but it’s worth noting that the Reinforcements expansion exists, which will help guide your decision on which one to purchase.
 
-## Thematic War Theme
+## Thematic War
 
 The theme in both of these games are expectional representation of World War theme.
 
@@ -24,6 +28,8 @@ In Normandy your in the year 1944 and the Allies have landed in Normandy. You mu
 ![Normandy Map Tiles](./normandy-vs-africa/normandy-map-title-2.jpg "Normandy Map Tiles")
 
 The game captures the gritty and tactical nature of small unit engagements during this critical phase of the war. Players take on the roles of either American or German commanders, leading squads of soldiers across various battlefields in Normandy. The scenarios are inspired by historical events, and the game emphasizes the importance of maneuvering troops, controlling key objectives.
+
+![North Africa Map Tiles](./normandy-vs-africa/north-africa-tiles-map.jpg "North Africa Map Tiles")
 
 In North Africa, the historical event happens in the summer of 1940 as the Long Range Dessert Group (LRDG) a reconnaissance and convert operations unit of the British Army have just been formed as they face against the Royal Italian Army's formidable forces. Nevre knew and interestinng to see that Italians actually fought in North Africa
 
