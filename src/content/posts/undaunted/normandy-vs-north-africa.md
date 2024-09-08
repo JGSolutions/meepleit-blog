@@ -29,7 +29,11 @@ Similarly, the map tiles depicting the North African desert are designed to refl
 
 ## Specialized Units
 
+![Normandy US Army Units](./normandy-vs-africa/us-army-units.jpg "Normandy US Army Units")
+
 In Normandy, both the U.S. Army and the Germans field similar units, such as Scouts, Machine Gunners, Snipers, Mortar teams, Riflemen, Platoon Sergeants, Platoon Guides, and Squad Leaders. Each side may have multiple groups of certain units, like Scouts or Riflemen, labeled as Scout A, Scout B, and Scout C, for instance.
+
+![North Africa LDRG Units](./normandy-vs-africa/LDRG_units.jpg "North Africa LDRG Units")
 
 In Undaunted: North Africa, the units contain different units for both the Long Range Desert Group (LRDG) and the Italians. The Italians introduce Tank Crews, as vehicles are present in this version. For instance, a Tank Crew member has the ability to repair, and the Anti-Tank Rifleman who can attack and damage vehicles. Additionally, the Italians have a Recon Aircraft that can fly in and directly attack enemies from the air.
 
