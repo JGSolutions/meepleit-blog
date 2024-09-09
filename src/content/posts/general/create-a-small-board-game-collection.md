@@ -1,14 +1,13 @@
 ---
 title: "Create a Small Board Game Collection: Top Tips"
 published: 2024-08-05
-description: "Learn how to create a small, curated board game collection with Meepleit. Discover tips for selecting versatile games that offer replayability, strategic depth, and solo play options without overwhelming your shelf space."
+description: "Create a curated board game collection with Meepleit. Get tips on versatile games with replayability, strategic depth, and solo play without overcrowding your shelf."
 tags: [Board Games]
-category: Personal
+category: General
 draft: false
+image: "./collection/collection-cover.jpg"
 author: Jerry Gagliano
 ---
-
-![My Board Game Collection](./collection/collection-cover.jpg "Board Game Collection")
 
 Rather than analyzing individual board games, we'll take a step back to examine the overall process of building a collection and choosing games to play. After all, you can't pick a game if you don't own any.
 
