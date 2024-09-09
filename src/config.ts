@@ -72,6 +72,13 @@ export const profileConfig: ProfileConfig = {
       url: 'https://www.instagram.com/meepleit/',
     },
     {
+      name: 'Twitter',
+      icon: 'fa6-brands:twitter', // Visit https://icones.js.org/ for icon codes
+      // You will need to install the corresponding icon set if it's not already included
+      // `pnpm add @iconify-json/<icon-set-name>`
+      url: 'https://x.com/meepleit',
+    },
+    {
       name: 'Meepleit Shop',
       icon: 'fa6-solid:cart-shopping',
       url: 'https://meepleit.com/shop-board-games',
