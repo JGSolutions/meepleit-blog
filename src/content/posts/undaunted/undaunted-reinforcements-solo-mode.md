@@ -1,5 +1,5 @@
 ---
-title: "Undaunted: Reinforcements Solo Mode"
+title: "Undaunted: Reinforcements Solo Mode Review"
 published: 2024-09-26
 description: ""
 tags: ["Undaunted: Reinforcements"]
