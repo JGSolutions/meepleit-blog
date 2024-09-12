@@ -38,11 +38,19 @@ During gameplay, if the AI bot takes initiative, it will draw four cards in the 
 
 ![Scout AI Card](./reinforcements/scout-example.jpg "Scout AI Card")
 
-Quick example of a rundown Scout unit for US Army or German for scenario 4:
+Quick example of a rundown Scout unit for the US Army or German for scenario 4:
 
-The card outlines four logical conditions, which you need to point out where the unit is located then read each step and verify what is the situation on the map.
+The card outlines four logical conditions. First, you need to point out where the unit is located on the tiles then read each condition and verify of the situation is true and perform action.
 
-First step is "Fog of War." If this condition is met, carry out the corresponding action. If not, move on to the second condition, "Tile is secure," which contains additional subconditions. While keeping in mind that the Scout, is meant to explore unoccupied areas within a 2-tile range, towards the uncontrolled objective.
+ -"Fog of War." If this condition is met, carry out the corresponding Recon action.
+
+-"Tile is secure," which alos contains additional subconditions. This will make the Scout move 2 tiles closer to the objective or directly on it.
+
+-Enemy on same tile: Attack. If a enemy is on the same title, the Scount will attack your unit.
+
+-Roll dice: Depending on the roll dice value bot will conceal or perform an attack
+
+While keeping in mind that the Scout, is meant to scout unscounted areas within a 2-tile range, towards the unclaimed objective.
 
 ## Difficulty and Replayability
 
