@@ -24,23 +24,27 @@ The expansion introduces a range of new rules, scenarios, and units. You will ta
 An additional 4 new scenaios for each Normandy and North Africa are introduced allowing you to play with the new components and mechanics for example:
 
 - Mines
-- 2 new specialist: US Grenadiers and German Submachine Gunners.
-- Vehicles For Normandy.
+- Two new specialist: US Grenadiers and German Submachine Gunners.
+- New vehicles For Normandy.
 
 ## Solo Mode
 
  --- show stack of solo cards
-Each army unit has it's own AI deck of cards based on each scenario. For example a Rifleman will have conditions from scenario to scenario. The amount of time and detailing were added to the AI bot cards to handle the diffrent situations for each scenario really adds like playing agains a human.
+Each army unit has it's own AI deck of cards based on each scenario. For example a Rifleman will have different conditions from scenario to scenario. The amount of time and details added to the AI bot cards to handle the diffrent situations for each scenario really adds like playing agains a human.
 
-During setup, you will need to select certain amount of AI bot cards units accordly for the selected scenario. Fo example playing against the Geramns you will select all German AI bot cards numbered with the scenario. Some of the same units  can be used in different scenarios as others will be different.
+During setup, you will need to select certain amount of AI bot cards units accordly for the selected scenario. For example playing against the Geramns you will select all German AI bot cards numbered with the scenario accordly. Some of the cards can be used in different scenarios.
 
-During gameplay, if bot takes initivative they will draw four cards in the order as numbered on the top. Each card that is played, will have to select the matching AI bot card and perform a flowchart of conditions.
+During gameplay, if AI bot takes initivative they will draw four cards in the order as numbered on the top. Each card played, will have to select the matching AI bot card and perform a flowchart of conditions. Each unit is still considered to play as it a human
 
-- setup AI works
+![Scout AI Card](./reinforcements/scout-example.jpg "Scout AI Card")
+
+Quick example of a Scout for American or German for scenario 4:
+
+The card presents 4 logical conditions starting with "Fog of war". If true, then perform that action, if skip to the second conditon "Tile is secure" which then contains other sub conditions. Remember the Scout's purpose is to scout for empty areas within 2 tiles which always leads them to the targeting objective goals.
 
 ## Pros
 
-- feels like playinng against a human
+- feels like playing against a human
 
 ## Cons
 
