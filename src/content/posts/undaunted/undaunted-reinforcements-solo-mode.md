@@ -80,8 +80,12 @@ Overall, the AI can be more challenging than a human opponent, as the card’s c
 
 - **Mentally exhausting and lengthy games**: Keeping track of both the player's and AI’s units, following its flowchart decisions, and managing conditions can add to the length of the game, especially in more complex scenarios.
 
-## Verdict
+## Final Thoughts and Recommendation
+
+I played over serveral games in Undaunted Normandy or North Africa and I am still not bored of the game at all. So much more content I need to explore.
+
+The solo mode allows you to play more frequently and dive deeper into the game's strategies. While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics.
 
 Reinforcements provides a detailed and challenging solo mode that allows you to enjoy the Undaunted games even when you don't have an opponent to play with. While it can feel a bit wonky at times, it still offers plenty of enjoyment and requires strategic thinking to win.
 
-Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a fan of the series and want to get it on the table more often, this expansion is a worthwhile investment. In addition to the solo mode, it also adds more scenarios and units, giving you even more opportunities to explore and fight your way to victory.
+Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a solo mode player or fan of the series, this expansion is a worthwhile investment. In addition to the solo mode, it also adds more scenarios and units, providing you more opportunities to explore and fight your way to victory.
