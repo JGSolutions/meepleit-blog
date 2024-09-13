@@ -9,6 +9,11 @@ image: ""
 author: Jerry Gagliano
 ---
 
+
+<!-- > Name: Life of the Amazonia (2023)
+> Designer: Jamie Bloom
+> Publisher: Bad Comet Games -->
+
 I previous wrote a blog on [Which Should I Buy: Normandy vs North Africa](https://meepleit.com/boardgame/367150/dune-war-for-arrakis). I provided an overview of the differences between both games, highlighting how this expansion adds even more engaging content to them.
 
 The Undaunted series is a tactical, head to head world war game based on the deck building mechanics.
