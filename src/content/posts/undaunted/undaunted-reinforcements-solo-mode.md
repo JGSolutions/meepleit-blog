@@ -9,7 +9,6 @@ image: ""
 author: Jerry Gagliano
 ---
 
-
 <!-- > Name: Life of the Amazonia (2023)
 > Designer: Jamie Bloom
 > Publisher: Bad Comet Games -->
@@ -54,17 +53,19 @@ The card outlines four conditions. First, you need to point out where the enemy 
 
 - Roll dice: Depending on the roll dice value bot will conceal or perform an attack
 
-While keeping in mind, that the Scout is meant to explore unscouted areas within a 2-tile range, towards the unclaimed objective.
+Once you've identified the correct step, the action is executed just like it would be for a human player. For example, if the tile is secure and the adjacent tiles are unscouted, you would move the Scout, place the scouted tokens, and then add two "Fog of War" cards to the discard pile.
+
+While keeping in mind, that the Scout is always meant to explore unscouted areas within a 2-tile range, towards the unclaimed objective. That is the AI bot's goal.
 
 ## Difficulty and Replayability
 
-he AI bot adapts to each scenario, providing a suitably challenging experience. After losing to the AI, I was eager to replay the scenaro with a different strategy to see if I could turn the tide.
+Overall, the AI can be more challenging than a human opponent, as the card’s conditions often align with what the units need to accomplish. It tends to take more risks than a human player might. Ultimately, you're still rolling the dice for the AI, just as you would if your opponent were rolling them.
 
-The way the AI bot flows units will go directly afterr the objectives. If they're far from their objectives they'll come runnning through the fields or driving through the dessert to get to the objectives.
+After losing to the AI, I was always eager to replay the scenaro with a different strategy to see if I could turn the tide.
+
+The way the AI bot flows units will go directly after the objectives. If they're far from their objectives they'll come runnning through the fields or driving through the dessert to get to the objectives.
 
 They can inspire specific units, allowing them to perform multiple actions. In one instance, the Squad Leader inspired their Rifleman to move toward an objective and then claim it. I also encountered Machine Gunners who were inspired to attack the same unit twice, knocking my combat token off the map.
-
-Overall, the AI can be more challenging than a human opponent, as the card’s conditions often align with what the units need to accomplish. It tends to take more risks than a human player might. Ultimately, you're still rolling the dice for the AI, just as you would if your opponent were rolling them.
 
 ## Pros
 
