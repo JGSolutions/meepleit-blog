@@ -89,6 +89,8 @@ I've played numerous games of Undaunted: Normandy and North Africa, and I’m st
 
 Reinforcements provides a detailed and challenging solo mode that allows you to enjoy the Undaunted games even when you don't have an opponent to play with. While it can feel a bit wonky at times, it still offers plenty of enjoyment and requires strategic thinking to win.
 
-Having a solo mode in this series allows you to play more frequently and dive deeper into the game's strategies. While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics.
+ While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics.
 
-Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a solo mode player or fan of the series, this expansion is a worthwhile investment. In addition to the solo mode, it also adds more scenarios and units, providing you more opportunities to explore and fight your way to victory.
+Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a solo mode player or fan of the series, this expansion is a worthwhile investment.
+
+Beyond the solo mode, if you're looking for more scenarios and challenges with a human player, the expansion also introduces new scenarios and units, offering even more opportunities to strategize and battle your way to victory.
