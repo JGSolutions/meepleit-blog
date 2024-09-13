@@ -59,13 +59,15 @@ While keeping in mind, that the Scout is always meant to explore unscouted areas
 
 ## Difficulty and Replayability
 
-Overall, the AI can be more challenging than a human opponent, as the card’s conditions often align with what the units need to accomplish. It tends to take more risks than a human player might. Ultimately, you're still rolling the dice for the AI, just as you would if your opponent were rolling them.
+Overall, the AI sometimes can be more challenging than a human opponent, as the card’s conditions often align with what the units need to accomplish. It tends to take more risks than a human player might. Ultimately, you're still rolling the dice for the AI, just like human opponent would.
 
-After losing to the AI, I was always eager to replay the scenaro with a different strategy to see if I could turn the tide.
+If they're far from their objectives they'll come runnning through the fields or driving through the dessert to get to the objectives. If enemies are a certain distance away, they will start attacking or suppress. If you leave your unit vunerable, you will definitly lose your units
 
-The way the AI bot flows units will go directly after the objectives. If they're far from their objectives they'll come runnning through the fields or driving through the dessert to get to the objectives.
+What often gets me the most is when they inspire specific units, enabling them to perform multiple actions. In one game, the Squad Leader inspired their Rifleman, allowing them to move toward an objective and take control of it. I also faced Machine Gunners who were inspired to attack my unit twice, which knocked my combat token off the map.
 
-They can inspire specific units, allowing them to perform multiple actions. In one instance, the Squad Leader inspired their Rifleman to move toward an objective and then claim it. I also encountered Machine Gunners who were inspired to attack the same unit twice, knocking my combat token off the map.
+As you can imagine, things can get tense. In the first scenario of Reinforcements for Normandy, I found myself in battles across different areas of the map as the AI tried to seize control of the objectives. In the end, I lost the game because many of my units were constantly respawning, which gave the AI the opportunity to claim the objectives.
+
+The AI cards were clever in how they approached the unclaimed objectives, sending one group of units in one direction and another group in the opposite direction.
 
 ## Pros
 
@@ -83,10 +85,10 @@ They can inspire specific units, allowing them to perform multiple actions. In o
 
 ## Final Thoughts and Recommendation
 
-I played over serveral games in Undaunted Normandy or North Africa and I am still not bored of the game at all. So much more content I need to explore.
-
-The solo mode allows you to play more frequently and dive deeper into the game's strategies. While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics.
+I've played numerous games of Undaunted: Normandy and North Africa, and I’m still not bored in the slightest. There's so much more content left to explore. After losing to the AI several times, I was always eager to replay the scenario with a new strategy to see if I could change the outcome.
 
 Reinforcements provides a detailed and challenging solo mode that allows you to enjoy the Undaunted games even when you don't have an opponent to play with. While it can feel a bit wonky at times, it still offers plenty of enjoyment and requires strategic thinking to win.
+
+Having a solo mode in this series allows you to play more frequently and dive deeper into the game's strategies. While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics.
 
 Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a solo mode player or fan of the series, this expansion is a worthwhile investment. In addition to the solo mode, it also adds more scenarios and units, providing you more opportunities to explore and fight your way to victory.
