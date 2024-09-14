@@ -9,11 +9,7 @@ image: ""
 author: Jerry Gagliano
 ---
 
-<!-- > Name: Life of the Amazonia (2023)
-> Designer: Jamie Bloom
-> Publisher: Bad Comet Games -->
-
-I previous wrote a blog on [Which Should I Buy: Normandy vs North Africa](https://blog.meepleit.com/posts/undaunted/normandy-vs-north-africa/). I gave a summary of the differences between the two games, emphasizing that this expansion brings even more captivating content to each of them.
+I previous wrote a blog on [Which Should You Buy: Normandy vs North Africa](https://blog.meepleit.com/posts/undaunted/normandy-vs-north-africa/). I gave a summary of the differences between the two games, emphasizing that this expansion brings even more captivating content to each of them.
 
 Undaunted: Reinforcements adds new scenarios, units, and, most notably, a solo mode to both Normandy and North Africa. It also includes components for four-player team battles, enhancing the series' tactical depth and variety.
 
@@ -31,7 +27,9 @@ An additional 4 new scenaios for each Normandy and North Africa are introduced a
 
 ## Solo Mode Mechanics
 
- --- show stack of solo cards
+Normanday AI Bot            |  North Africa AI Bot
+:-------------------------:|:-------------------------:
+![Normandy Ai Bot Cards](./reinforcements/ai-bot-normandy-card.jpg "Normandy Ai Bot Cards") |  ![North Africa Ai Bot Cards](./reinforcements/ai-bot-north-africa.jpg "North Africa Ai Bot Cards")
 
 Each army unit comes with its own AI deck of cards tailored to each scenario. For instance, a Rifleman will have varying conditions and behave differently depending on the scenario.
 
@@ -61,11 +59,11 @@ While keeping in mind, that the Scout is always meant to explore unscouted areas
 
 Overall, the AI sometimes can be more challenging than a human opponent, as the card’s conditions often align with what the units need to accomplish. It tends to take more risks than a human player might. Ultimately, you're still rolling the dice for the AI, just like human opponent would.
 
-If they're far from their objectives they'll come runnning through the fields or driving through the dessert to get to the objectives. If enemies are a certain distance away, they will start attacking or suppress. If you leave your unit vunerable, you will definitly lose your units
+If they're far from their objectives, they'll either sprint across the fields or race through the desert to reach them. If enemies are within a certain range, they will begin attacking or suppressing. Leaving your unit exposed will almost certainly result in losing them.
 
-What often gets me the most is when they inspire specific units, enabling them to perform multiple actions. In one game, the Squad Leader inspired their Rifleman, allowing them to move toward an objective and take control of it. I also faced Machine Gunners who were inspired to attack my unit twice, which knocked my combat token off the map.
+What really catches me off guard is when they inspire specific units, allowing them to perform multiple actions. In one game, the Squad Leader inspired their Rifleman, enabling them to move toward an objective and capture it. I also encountered Machine Gunners who were inspired to attack my unit twice, knocking my combat token off the map.
 
-As you can imagine, things can get tense. In the first scenario of Reinforcements for Normandy, I found myself in battles across different areas of the map as the AI tried to seize control of the objectives. In the end, I lost the game because many of my units were constantly respawning, which gave the AI the opportunity to claim the objectives.
+As you can imagine, the tension really ramps up. In the first scenario of Reinforcements for Normandy, I found myself engaged in battles all over the map as the AI pushed to take control of the objectives. Ultimately, I lost the game because my units kept respawning, giving the AI the perfect chance to secure the objectives.
 
 The AI cards were clever in how they approached the unclaimed objectives, sending one group of units in one direction and another group in the opposite direction.
 
@@ -85,12 +83,10 @@ The AI cards were clever in how they approached the unclaimed objectives, sendin
 
 ## Final Thoughts and Recommendation
 
-I've played numerous games of Undaunted: Normandy and North Africa, and I’m still not bored in the slightest. There's so much more content left to explore. After losing to the AI several times, I was always eager to replay the scenario with a new strategy to see if I could change the outcome.
-
 Reinforcements provides a detailed and challenging solo mode that allows you to enjoy the Undaunted games even when you don't have an opponent to play with. While it can feel a bit wonky at times, it still offers plenty of enjoyment and requires strategic thinking to win.
 
- While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics.
+I've played numerous games of Undaunted: Normandy and North Africa, and I’m still not bored in the slightest. There's so much more content left to explore. After losing to the AI several times, I was always eager to replay the scenario with a new strategy to see if I could change the outcome.
 
-Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a solo mode player or fan of the series, this expansion is a worthwhile investment.
+ While managing the AI can feel overwhelming at times, it also gives you insight into different types of decisions and tactics. Without the solo mode, I don’t think I would have ever touched the Undaunted series. If you're a solo mode player or fan of the series, this expansion is a worthwhile investment.
 
-Beyond the solo mode, if you're looking for more scenarios and challenges with a human player, the expansion also introduces new scenarios and units, offering even more opportunities to strategize and battle your way to victory.
+Beyond the solo mode, if you're looking for more scenarios, expand on the series with challenges with a human player, the expansion also introduces new scenarios and units, offering even more opportunities to strategize and battle your way to victory.
