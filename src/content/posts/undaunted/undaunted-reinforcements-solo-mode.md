@@ -1,15 +1,17 @@
 ---
 title: "Undaunted: Reinforcements Solo Mode Review"
-published: 2024-09-26
-description: ""
+published: 2024-09-18
+description: "Explore the Undaunted: Reinforcements expansion, featuring new solo mode mechanics, additional scenarios, units, and 4-player battles. Discover how it enhances Normandy and North Africa with fresh tactical challenges and strategic depth."
 tags: ["Undaunted: Reinforcements"]
 category: Review
 draft: false
-image: ""
+image: "./reinforcements/undaunted-reinforcements.jpg"
 author: Jerry Gagliano
 ---
 
-I previous wrote a blog on [Which Should You Buy: Normandy vs North Africa](https://blog.meepleit.com/posts/undaunted/normandy-vs-north-africa/). I gave a summary of the differences between the two games, emphasizing that this expansion brings even more captivating content to each of them.
+[MeepleIt: Undaunted Reinforcements](https://meepleit.com/boardgame/313441/undaunted-reinforcements)
+
+I previous wrote a blog on [Which Should You Buy: Normandy vs North Africa?](https://blog.meepleit.com/posts/undaunted/normandy-vs-north-africa/). I gave a summary of the differences between the two games, emphasizing that this expansion brings even more captivating content to each of them.
 
 Undaunted: Reinforcements adds new scenarios, units, and, most notably, a solo mode to both Normandy and North Africa. It also includes components for four-player team battles, enhancing the series' tactical depth and variety.
 
