@@ -9,7 +9,7 @@ image: "./normandy-vs-africa/cover-image-undaunted.png"
 author: Jerry Gagliano
 ---
 
-[MeepleIt Profile: Undaunted Normanday](https://meepleit.com/boardgame/268864/undaunted-normandy)
+[MeepleIt Profile: Undaunted Normandy](https://meepleit.com/boardgame/268864/undaunted-normandy)
 
 [MeepleIt Profile: Undaunted North Africa](https://meepleit.com/boardgame/290359/undaunted-north-africa)
 
